@@ -1,0 +1,3396 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<fwdsim xmlns="http://www.13cflux.net/fwdsim">
+
+  <stoichiometry>
+    <flux id="AA10_v46">
+      <net type="dependent" value=".8108456038454506">-(3.3*AC1_v35.n)-.39999999999999997*ANA3_v33.n-.39999999999999997*ATPH1_v64.n+.19999999999999998*EMP8_v8.n+12.2*Glc_upt.n-.5*TCA1_v20.n-.3*TCA9_v28.n+.19999999999999998*TH1_v63.n-101.68299999999999*mu2_v70.n</net>
+      <xch type="constraint" value="0">AA10_v46.x</xch>
+    </flux>
+    <flux id="AA11_v47">
+      <net type="dependent" value="1.779737806023472">.23299999999999998*mu2_v70.n</net>
+      <xch type="constraint" value="0">AA11_v47.x</xch>
+    </flux>
+    <flux id="AA12_v48___1">
+      <net type="dependent" value=".6225263141240901">.0815*mu2_v70.n</net>
+      <xch type="constraint" value="0">AA12_v48___1.x</xch>
+    </flux>
+    <flux id="AA12_v48___2">
+      <net type="dependent" value=".6225263141240901">.0815*mu2_v70.n</net>
+      <xch type="constraint" value="0">AA12_v48___2.x</xch>
+    </flux>
+    <flux id="AA12_v48___3">
+      <net type="dependent" value=".6225263141240901">.0815*mu2_v70.n</net>
+      <xch type="constraint" value="0">AA12_v48___3.x</xch>
+    </flux>
+    <flux id="AA12_v48___4">
+      <net type="dependent" value=".6225263141240901">.0815*mu2_v70.n</net>
+      <xch type="constraint" value="0">AA12_v48___4.x</xch>
+    </flux>
+    <flux id="AA13_v49___1">
+      <net type="dependent" value="1.2450526282481802">.163*mu2_v70.n</net>
+      <xch type="constraint" value="0">AA13_v49___1.x</xch>
+    </flux>
+    <flux id="AA13_v49___2">
+      <net type="dependent" value="1.2450526282481802">.163*mu2_v70.n</net>
+      <xch type="constraint" value="0">AA13_v49___2.x</xch>
+    </flux>
+    <flux id="AA14_v50">
+      <net type="dependent" value="4.759877559700044">-(3.3*AC1_v35.n)-.39999999999999997*ANA3_v33.n-.39999999999999997*ATPH1_v64.n+.19999999999999998*EMP8_v8.n+12.2*Glc_upt.n-.5*TCA1_v20.n-.3*TCA9_v28.n+.19999999999999998*TH1_v63.n-101.166*mu2_v70.n</net>
+      <xch type="constraint" value="0">AA14_v50.x</xch>
+    </flux>
+    <flux id="AA15_v51___1">
+      <net type="dependent" value=".5576002568228046">.073*mu2_v70.n</net>
+      <xch type="constraint" value="0">AA15_v51___1.x</xch>
+    </flux>
+    <flux id="AA15_v51___2">
+      <net type="dependent" value=".5576002568228046">.073*mu2_v70.n</net>
+      <xch type="constraint" value="0">AA15_v51___2.x</xch>
+    </flux>
+    <flux id="AA16_v52">
+      <net type="dependent" value="3.0706205923666774">.402*mu2_v70.n</net>
+      <xch type="constraint" value="0">AA16_v52.x</xch>
+    </flux>
+    <flux id="AA17_v53">
+      <net type="dependent" value="3.269217944111786">.428*mu2_v70.n</net>
+      <xch type="constraint" value="0">AA17_v53.x</xch>
+    </flux>
+    <flux id="AA18_v54">
+      <net type="dependent" value="2.108187272371152">.276*mu2_v70.n</net>
+      <xch type="constraint" value="0">AA18_v54.x</xch>
+    </flux>
+    <flux id="AA19_v55">
+      <net type="dependent" value="1.3443513041207342">.176*mu2_v70.n</net>
+      <xch type="constraint" value="0">AA19_v55.x</xch>
+    </flux>
+    <flux id="AA1_v36">
+      <net type="dependent" value="50.280092348833705">-(1.65*AC1_v35.n)-.19999999999999998*ANA3_v33.n-.19999999999999998*ATPH1_v64.n+.09999999999999999*EMP8_v8.n+6.1*Glc_upt.n-.25*TCA1_v20.n-.15*TCA9_v28.n+.09999999999999999*TH1_v63.n-44.312*mu2_v70.n</net>
+      <xch type="constraint" value="0">AA1_v36.x</xch>
+    </flux>
+    <flux id="AA20_v56">
+      <net type="dependent" value="1.0006251184080466">.131*mu2_v70.n</net>
+      <xch type="constraint" value="0">AA20_v56.x</xch>
+    </flux>
+    <flux id="AA21_v57">
+      <net type="dependent" value=".4124714228552253">.054*mu2_v70.n</net>
+      <xch type="constraint" value="0">AA21_v57.x</xch>
+    </flux>
+    <flux id="AA22_v58">
+      <net type="dependent" value=".6874523714253755">.09*mu2_v70.n</net>
+      <xch type="constraint" value="0">AA22_v58.x</xch>
+    </flux>
+    <flux id="AA23_v42">
+      <net type="dependent" value="3.727519525062036">.488*mu2_v70.n</net>
+      <xch type="constraint" value="0">AA23_v42.x</xch>
+    </flux>
+    <flux id="AA2_v37">
+      <net type="dependent" value="5.155892785690316">.6749999999999999*mu2_v70.n</net>
+      <xch type="constraint" value="0">AA2_v37.x</xch>
+    </flux>
+    <flux id="AA3_v38">
+      <net type="dependent" value="1.6040555333258761">.21*mu2_v70.n</net>
+      <xch type="constraint" value="0">AA3_v38.x</xch>
+    </flux>
+    <flux id="AA4_v39">
+      <net type="dependent" value="2.1463790707836727">.281*mu2_v70.n</net>
+      <xch type="constraint" value="0">AA4_v39.x</xch>
+    </flux>
+    <flux id="AA5_v40">
+      <net type="dependent" value="14.697383506637948">-(3.3*AC1_v35.n)-.39999999999999997*ANA3_v33.n-.39999999999999997*ATPH1_v64.n+.19999999999999998*EMP8_v8.n+12.2*Glc_upt.n-.5*TCA1_v20.n-.3*TCA9_v28.n+.19999999999999998*TH1_v63.n-99.865*mu2_v70.n</net>
+      <xch type="constraint" value="0">AA5_v40.x</xch>
+    </flux>
+    <flux id="AA6_v41">
+      <net type="dependent" value="1.7491843672934555">.229*mu2_v70.n</net>
+      <xch type="constraint" value="0">AA6_v41.x</xch>
+    </flux>
+    <flux id="AA7_v43">
+      <net type="dependent" value="8.168635941688251">1.65*AC1_v35.n+.19999999999999998*ANA3_v33.n+.19999999999999998*ATPH1_v64.n-.09999999999999999*EMP8_v8.n-6.1*Glc_upt.n+.25*TCA1_v20.n+.15*TCA9_v28.n-.09999999999999999*TH1_v63.n+51.964*mu2_v70.n</net>
+      <xch type="constraint" value="0">AA7_v43.x</xch>
+    </flux>
+    <flux id="AA8_v44">
+      <net type="dependent" value="4.410562977896177">1.65*AC1_v35.n+.19999999999999998*ANA3_v33.n+.19999999999999998*ATPH1_v64.n-.09999999999999999*EMP8_v8.n-6.1*Glc_upt.n+.25*TCA1_v20.n+.15*TCA9_v28.n-.09999999999999999*TH1_v63.n+51.471999999999994*mu2_v70.n</net>
+      <xch type="free" value=".44306019689810316">AA8_v44.x</xch>
+    </flux>
+    <flux id="AA9_v45">
+      <net type="dependent" value=".7758832465241312">-(1.65*AC1_v35.n)-.19999999999999998*ANA3_v33.n-.19999999999999998*ATPH1_v64.n+.09999999999999999*EMP8_v8.n+6.1*Glc_upt.n-.25*TCA1_v20.n-.15*TCA9_v28.n+.09999999999999999*TH1_v63.n-50.793*mu2_v70.n</net>
+      <xch type="free" value=".027561000315793185">AA9_v45.x</xch>
+    </flux>
+    <flux id="AC1_v35">
+      <net type="free" value="65.35505527300641">AC1_v35.n</net>
+      <xch type="free" value="124.98094170068518">AC1_v35.x</xch>
+    </flux>
+    <flux id="AKG_bm">
+      <net type="dependent" value=".664537292377863">.087*mu2_v70.n</net>
+      <xch type="constraint" value="0">AKG_bm.x</xch>
+    </flux>
+    <flux id="ANA1_v31">
+      <net type="dependent" value="1.7038206808549035">-(2.15*AC1_v35.n)-.19999999999999998*ANA3_v33.n-.19999999999999998*ATPH1_v64.n+.09999999999999999*EMP8_v8.n+6.1*Glc_upt.n+.25*TCA1_v20.n-.6499999999999999*TCA9_v28.n+.09999999999999999*TH1_v63.n-52.921*mu2_v70.n</net>
+      <xch type="constraint" value="0">ANA1_v31.x</xch>
+    </flux>
+    <flux id="ANA2_v32">
+      <net type="dependent" value="1.7038206808549035">-(2.15*AC1_v35.n)-.19999999999999998*ANA3_v33.n-.19999999999999998*ATPH1_v64.n+.09999999999999999*EMP8_v8.n+6.1*Glc_upt.n+.25*TCA1_v20.n-.6499999999999999*TCA9_v28.n+.09999999999999999*TH1_v63.n-52.921*mu2_v70.n</net>
+      <xch type="constraint" value="0">ANA2_v32.x</xch>
+    </flux>
+    <flux id="ANA3_v33">
+      <net type="free" value="28.76341385762246">ANA3_v33.n</net>
+      <xch type="constraint" value="0">ANA3_v33.x</xch>
+    </flux>
+    <flux id="ANA4_v34">
+      <net type="dependent" value="5.097699740922053">3.5999999999999996*AC1_v35.n+1.2999999999999998*ANA3_v33.n+.3*ATPH1_v64.n+.09999999999999999*EMP8_v8.n-11.899999999999999*Glc_upt.n+.5*TCA1_v20.n+1.0999999999999999*TCA9_v28.n-.39999999999999997*TH1_v63.n+97.38749999999999*mu2_v70.n</net>
+      <xch type="constraint" value="0">ANA4_v34.x</xch>
+    </flux>
+    <flux id="ATPH1_v64">
+      <net type="free" value="432.492408390407">ATPH1_v64.n</net>
+      <xch type="constraint" value="0">ATPH1_v64.x</xch>
+    </flux>
+    <flux id="ATP_bm">
+      <net type="dependent" value="253.95254436421624">33.247*mu2_v70.n</net>
+      <xch type="constraint" value="0">ATP_bm.x</xch>
+    </flux>
+    <flux id="AcCoA_bm">
+      <net type="dependent" value="19.172282803085473">2.51*mu2_v70.n</net>
+      <xch type="constraint" value="0">AcCoA_bm.x</xch>
+    </flux>
+    <flux id="Ala_bm">
+      <net type="dependent" value="3.727519525062036">.488*mu2_v70.n</net>
+      <xch type="constraint" value="0">Ala_bm.x</xch>
+    </flux>
+    <flux id="Arg_bm">
+      <net type="dependent" value="2.1463790707836727">.281*mu2_v70.n</net>
+      <xch type="constraint" value="0">Arg_bm.x</xch>
+    </flux>
+    <flux id="Asn_bm">
+      <net type="dependent" value="1.7491843672934555">.229*mu2_v70.n</net>
+      <xch type="constraint" value="0">Asn_bm.x</xch>
+    </flux>
+    <flux id="Asp_bm">
+      <net type="dependent" value="1.7491843672934555">.229*mu2_v70.n</net>
+      <xch type="constraint" value="0">Asp_bm.x</xch>
+    </flux>
+    <flux id="C1_v59">
+      <net type="dependent" value="1.1152005136456091">.146*mu2_v70.n</net>
+      <xch type="constraint" value="0">C1_v59.x</xch>
+    </flux>
+    <flux id="C2_v60">
+      <net type="dependent" value=".6874523714253755">.09*mu2_v70.n</net>
+      <xch type="constraint" value="0">C2_v60.x</xch>
+    </flux>
+    <flux id="Cys_bm">
+      <net type="dependent" value=".664537292377863">.087*mu2_v70.n</net>
+      <xch type="constraint" value="0">Cys_bm.x</xch>
+    </flux>
+    <flux id="EMP1_v1">
+      <net type="quasi-constraint" value="100">Glc_upt.n</net>
+      <xch type="constraint" value="0">EMP1_v1.x</xch>
+    </flux>
+    <flux id="EMP2_v2">
+      <net type="dependent" value="73.41907008482644">2.75*AC1_v35.n+.5*ANA3_v33.n+.5*ATPH1_v64.n-11*Glc_upt.n+.25*TCA1_v20.n-.25*TCA9_v28.n+.5*TH1_v63.n+92.46549999999999*mu2_v70.n</net>
+      <xch type="free" value="104.1915605539133">EMP2_v2.x</xch>
+    </flux>
+    <flux id="EMP3_v3">
+      <net type="dependent" value="82.7864060682569">-(1.95*AC1_v35.n)-.09999999999999999*ANA3_v33.n-.09999999999999999*ATPH1_v64.n+.7999999999999999*EMP8_v8.n+5.8*Glc_upt.n-.25*TCA1_v20.n-.95*TCA9_v28.n+.3*TH1_v63.n-42.421499999999995*mu2_v70.n</net>
+      <xch type="constraint" value="0">EMP3_v3.x</xch>
+    </flux>
+    <flux id="EMP4_v4">
+      <net type="dependent" value="82.7864060682569">-(1.95*AC1_v35.n)-.09999999999999999*ANA3_v33.n-.09999999999999999*ATPH1_v64.n+.7999999999999999*EMP8_v8.n+5.8*Glc_upt.n-.25*TCA1_v20.n-.95*TCA9_v28.n+.3*TH1_v63.n-42.421499999999995*mu2_v70.n</net>
+      <xch type="free" value="120.24616241816871">EMP4_v4.x</xch>
+    </flux>
+    <flux id="EMP5_v5">
+      <net type="dependent" value="82.7864060682569">-(1.95*AC1_v35.n)-.09999999999999999*ANA3_v33.n-.09999999999999999*ATPH1_v64.n+.7999999999999999*EMP8_v8.n+5.8*Glc_upt.n-.25*TCA1_v20.n-.95*TCA9_v28.n+.3*TH1_v63.n-42.421499999999995*mu2_v70.n</net>
+      <xch type="free" value="106.03877966861181">EMP5_v5.x</xch>
+    </flux>
+    <flux id="EMP6_v6">
+      <net type="dependent" value="170.4886469794252">-(1.95*AC1_v35.n)-.09999999999999999*ANA3_v33.n-.09999999999999999*ATPH1_v64.n+.7999999999999999*EMP8_v8.n+6.8*Glc_upt.n-.25*TCA1_v20.n-.95*TCA9_v28.n+.3*TH1_v63.n-44.031499999999994*mu2_v70.n</net>
+      <xch type="free" value="168.285342342683">EMP6_v6.x</xch>
+    </flux>
+    <flux id="EMP7_v7">
+      <net type="dependent" value="157.5918663942665">-(3.5999999999999996*AC1_v35.n)-.3*ANA3_v33.n-.3*ATPH1_v64.n+.8999999999999999*EMP8_v8.n+12.899999999999999*Glc_upt.n-.5*TCA1_v20.n-1.0999999999999999*TCA9_v28.n+.39999999999999997*TH1_v63.n-96.61449999999999*mu2_v70.n</net>
+      <xch type="free" value="287.1015912886004">EMP7_v7.x</xch>
+    </flux>
+    <flux id="EMP8_v8">
+      <net type="free" value="28.021700242990413">EMP8_v8.n</net>
+      <xch type="free" value="217.61740046820475">EMP8_v8.x</xch>
+    </flux>
+    <flux id="F6P_bm">
+      <net type="dependent" value=".5423235374577962">.071*mu2_v70.n</net>
+      <xch type="constraint" value="0">F6P_bm.x</xch>
+    </flux>
+    <flux id="G6P_bm">
+      <net type="dependent" value="1.5658637349133553">.205*mu2_v70.n</net>
+      <xch type="constraint" value="0">G6P_bm.x</xch>
+    </flux>
+    <flux id="GAP_bm">
+      <net type="dependent" value=".9853483990430383">.129*mu2_v70.n</net>
+      <xch type="constraint" value="0">GAP_bm.x</xch>
+    </flux>
+    <flux id="GAS1_CO2_ext">
+      <net type="quasi-constraint" value="36.75">GAS2_v71.n</net>
+      <xch type="constraint" value="0">GAS1_CO2_ext.x</xch>
+    </flux>
+    <flux id="GAS2_v71">
+      <net type="constraint" value="36.75">GAS2_v71.n</net>
+      <xch type="constraint" value="0">GAS2_v71.x</xch>
+    </flux>
+    <flux id="GAS3_CO2_out">
+      <net type="quasi-constraint" value="36.75">GAS2_v71.n</net>
+      <xch type="constraint" value="0">GAS3_CO2_out.x</xch>
+    </flux>
+    <flux id="GOX1_v29___1">
+      <net type="dependent" value="1.2183366696143594">-(2*AC1_v35.n)-.25*ANA3_v33.n-.25*ATPH1_v64.n+.25*EMP8_v8.n+6.25*Glc_upt.n+.25*TCA1_v20.n-.25*TCA9_v28.n-53.63625*mu2_v70.n</net>
+      <xch type="free" value=".017083366143786496">GOX1_v29___1.x</xch>
+    </flux>
+    <flux id="GOX1_v29___2">
+      <net type="dependent" value="1.2183366696143594">-(2*AC1_v35.n)-.25*ANA3_v33.n-.25*ATPH1_v64.n+.25*EMP8_v8.n+6.25*Glc_upt.n+.25*TCA1_v20.n-.25*TCA9_v28.n-53.63625*mu2_v70.n</net>
+      <xch type="dependent" value=".017083366143786496">GOX1_v29___1.x</xch>
+    </flux>
+    <flux id="GOX2_v30">
+      <net type="dependent" value="2.4366733392287188">-(4*AC1_v35.n)-.5*ANA3_v33.n-.5*ATPH1_v64.n+.5*EMP8_v8.n+12.5*Glc_upt.n+.5*TCA1_v20.n-.5*TCA9_v28.n-107.2725*mu2_v70.n</net>
+      <xch type="constraint" value="0">GOX2_v30.x</xch>
+    </flux>
+    <flux id="Glc_upt">
+      <net type="constraint" value="100">Glc_upt.n</net>
+      <xch type="constraint" value="0">Glc_upt.x</xch>
+    </flux>
+    <flux id="Gln_bm">
+      <net type="dependent" value="1.9095899206260432">.25*mu2_v70.n</net>
+      <xch type="constraint" value="0">Gln_bm.x</xch>
+    </flux>
+    <flux id="Glu_bm">
+      <net type="dependent" value="1.9095899206260432">.25*mu2_v70.n</net>
+      <xch type="constraint" value="0">Glu_bm.x</xch>
+    </flux>
+    <flux id="Gly_bm">
+      <net type="dependent" value="4.445525335217428">.582*mu2_v70.n</net>
+      <xch type="constraint" value="0">Gly_bm.x</xch>
+    </flux>
+    <flux id="His_bm">
+      <net type="dependent" value=".6874523714253755">.09*mu2_v70.n</net>
+      <xch type="constraint" value="0">His_bm.x</xch>
+    </flux>
+    <flux id="Ile_bm">
+      <net type="dependent" value="2.108187272371152">.276*mu2_v70.n</net>
+      <xch type="constraint" value="0">Ile_bm.x</xch>
+    </flux>
+    <flux id="Leu_bm">
+      <net type="dependent" value="3.269217944111786">.428*mu2_v70.n</net>
+      <xch type="constraint" value="0">Leu_bm.x</xch>
+    </flux>
+    <flux id="Lys_bm">
+      <net type="dependent" value="2.4901052564963604">.326*mu2_v70.n</net>
+      <xch type="constraint" value="0">Lys_bm.x</xch>
+    </flux>
+    <flux id="MEETHF_bm">
+      <net type="dependent" value="3.3837933393493485">.443*mu2_v70.n</net>
+      <xch type="constraint" value="0">MEETHF_bm.x</xch>
+    </flux>
+    <flux id="Met_bm">
+      <net type="dependent" value="1.1152005136456091">.146*mu2_v70.n</net>
+      <xch type="constraint" value="0">Met_bm.x</xch>
+    </flux>
+    <flux id="NADH_bm">
+      <net type="dependent" value="11.113813338043572">1.455*mu2_v70.n</net>
+      <xch type="constraint" value="0">NADH_bm.x</xch>
+    </flux>
+    <flux id="NADPH_bm">
+      <net type="dependent" value="40.96452297726988">5.363*mu2_v70.n</net>
+      <xch type="constraint" value="0">NADPH_bm.x</xch>
+    </flux>
+    <flux id="OAC_bm">
+      <net type="dependent" value="2.5970422920514187">.34*mu2_v70.n</net>
+      <xch type="constraint" value="0">OAC_bm.x</xch>
+    </flux>
+    <flux id="OXP1_v61">
+      <net type="dependent" value="134.9211965243365">-(1.8499999999999999*AC1_v35.n)-.049999999999999996*ANA3_v33.n-.049999999999999996*ATPH1_v64.n+.15*EMP8_v8.n+6.1499999999999995*Glc_upt.n-.09999999999999999*TCA9_v28.n-.09999999999999999*TH1_v63.n-43.542249999999996*mu2_v70.n</net>
+      <xch type="constraint" value="0">OXP1_v61.x</xch>
+    </flux>
+    <flux id="OXP2_v62">
+      <net type="dependent" value="5.823747085939971">-(.15*AC1_v35.n)+.049999999999999996*ANA3_v33.n+.049999999999999996*ATPH1_v64.n-.15*EMP8_v8.n-.15*Glc_upt.n+.09999999999999999*TCA9_v28.n+.09999999999999999*TH1_v63.n+.5297499999999999*mu2_v70.n</net>
+      <xch type="constraint" value="0">OXP2_v62.x</xch>
+    </flux>
+    <flux id="PEP_bm">
+      <net type="dependent" value=".38955634380771276">.051*mu2_v70.n</net>
+      <xch type="constraint" value="0">PEP_bm.x</xch>
+    </flux>
+    <flux id="PPP10_v18">
+      <net type="dependent" value="1.9126059813469283">4.3*AC1_v35.n+.39999999999999997*ANA3_v33.n+.39999999999999997*ATPH1_v64.n-1.2*EMP8_v8.n-13.2*Glc_upt.n+.5*TCA1_v20.n+1.2999999999999998*TCA9_v28.n-.19999999999999998*TH1_v63.n+108.475*mu2_v70.n</net>
+      <xch type="constraint" value="0">PPP10_v18.x</xch>
+    </flux>
+    <flux id="PPP11_v19">
+      <net type="dependent" value="1.9126059813469283">4.3*AC1_v35.n+.39999999999999997*ANA3_v33.n+.39999999999999997*ATPH1_v64.n-1.2*EMP8_v8.n-13.2*Glc_upt.n+.5*TCA1_v20.n+1.2999999999999998*TCA9_v28.n-.19999999999999998*TH1_v63.n+108.475*mu2_v70.n</net>
+      <xch type="constraint" value="0">PPP11_v19.x</xch>
+    </flux>
+    <flux id="PPP1_v9">
+      <net type="dependent" value="25.01506618026019">-(2.75*AC1_v35.n)-.5*ANA3_v33.n-.5*ATPH1_v64.n+12*Glc_upt.n-.25*TCA1_v20.n+.25*TCA9_v28.n-.5*TH1_v63.n-92.67049999999999*mu2_v70.n</net>
+      <xch type="constraint" value="0">PPP1_v9.x</xch>
+    </flux>
+    <flux id="PPP2_v10">
+      <net type="dependent" value="23.10246019891315">-(7.05*AC1_v35.n)-.8999999999999999*ANA3_v33.n-.8999999999999999*ATPH1_v64.n+1.2*EMP8_v8.n+25.2*Glc_upt.n-.75*TCA1_v20.n-1.0499999999999998*TCA9_v28.n-.3*TH1_v63.n-201.1455*mu2_v70.n</net>
+      <xch type="constraint" value="0">PPP2_v10.x</xch>
+    </flux>
+    <flux id="PPP3_v11">
+      <net type="dependent" value="9.909659520888454">-(4.699999999999999*AC1_v35.n)-.6*ANA3_v33.n-.6*ATPH1_v64.n+.7999999999999999*EMP8_v8.n+16.799999999999997*Glc_upt.n-.5*TCA1_v20.n-.7*TCA9_v28.n-.19999999999999998*TH1_v63.n-134.81599999999997*mu2_v70.n</net>
+      <xch type="free" value="98.07755091474144">PPP3_v11.x</xch>
+    </flux>
+    <flux id="PPP4_v12">
+      <net type="dependent" value="13.192800678024867">-(2.3499999999999996*AC1_v35.n)-.3*ANA3_v33.n-.3*ATPH1_v64.n+.39999999999999997*EMP8_v8.n+8.399999999999999*Glc_upt.n-.25*TCA1_v20.n-.35*TCA9_v28.n-.09999999999999999*TH1_v63.n-66.3295*mu2_v70.n</net>
+      <xch type="free" value="24.72946666370582">PPP4_v12.x</xch>
+    </flux>
+    <flux id="PPP5_v13">
+      <net type="dependent" value="9.909659520888454">-(4.699999999999999*AC1_v35.n)-.6*ANA3_v33.n-.6*ATPH1_v64.n+.7999999999999999*EMP8_v8.n+16.799999999999997*Glc_upt.n-.5*TCA1_v20.n-.7*TCA9_v28.n-.19999999999999998*TH1_v63.n-134.81599999999997*mu2_v70.n</net>
+      <xch type="free" value="98.07755091455788">PPP5_v13.x</xch>
+    </flux>
+    <flux id="PPP6_v14">
+      <net type="dependent" value="-3.576105837752152">2.3499999999999996*AC1_v35.n+.3*ANA3_v33.n+.3*ATPH1_v64.n-.39999999999999997*EMP8_v8.n-8.399999999999999*Glc_upt.n+.25*TCA1_v20.n+.35*TCA9_v28.n+.09999999999999999*TH1_v63.n+67.5885*mu2_v70.n</net>
+      <xch type="free" value=".12729734176820937">PPP6_v14.x</xch>
+    </flux>
+    <flux id="PPP7_v15">
+      <net type="dependent" value="6.333553683136188">-(2.3499999999999996*AC1_v35.n)-.3*ANA3_v33.n-.3*ATPH1_v64.n+.39999999999999997*EMP8_v8.n+8.399999999999999*Glc_upt.n-.25*TCA1_v20.n-.35*TCA9_v28.n-.09999999999999999*TH1_v63.n-67.22749999999999*mu2_v70.n</net>
+      <xch type="free" value=".37701186358801325">PPP7_v15.x</xch>
+    </flux>
+    <flux id="PPP8_v16">
+      <net type="dependent" value="6.333553683136188">-(2.3499999999999996*AC1_v35.n)-.3*ANA3_v33.n-.3*ATPH1_v64.n+.39999999999999997*EMP8_v8.n+8.399999999999999*Glc_upt.n-.25*TCA1_v20.n-.35*TCA9_v28.n-.09999999999999999*TH1_v63.n-67.22749999999999*mu2_v70.n</net>
+      <xch type="free" value="82.44551691291572">PPP8_v16.x</xch>
+    </flux>
+    <flux id="PPP9_v17">
+      <net type="dependent" value="6.333553683136188">-(2.3499999999999996*AC1_v35.n)-.3*ANA3_v33.n-.3*ATPH1_v64.n+.39999999999999997*EMP8_v8.n+8.399999999999999*Glc_upt.n-.25*TCA1_v20.n-.35*TCA9_v28.n-.09999999999999999*TH1_v63.n-67.22749999999999*mu2_v70.n</net>
+      <xch type="free" value="108.77829380608499">PPP9_v17.x</xch>
+    </flux>
+    <flux id="Phe_bm">
+      <net type="dependent" value="1.3443513041207342">.176*mu2_v70.n</net>
+      <xch type="constraint" value="0">Phe_bm.x</xch>
+    </flux>
+    <flux id="Pro_bm">
+      <net type="dependent" value="1.6040555333258761">.21*mu2_v70.n</net>
+      <xch type="constraint" value="0">Pro_bm.x</xch>
+    </flux>
+    <flux id="Pyr_bm">
+      <net type="dependent" value=".6339838536478464">.083*mu2_v70.n</net>
+      <xch type="constraint" value="0">Pyr_bm.x</xch>
+    </flux>
+    <flux id="R5P_bm">
+      <net type="dependent" value="5.759323200608146">.754*mu2_v70.n</net>
+      <xch type="constraint" value="0">R5P_bm.x</xch>
+    </flux>
+    <flux id="Ser_bm">
+      <net type="dependent" value="1.5658637349133553">.205*mu2_v70.n</net>
+      <xch type="constraint" value="0">Ser_bm.x</xch>
+    </flux>
+    <flux id="TCA1_v20">
+      <net type="free" value="113.2301465420139">TCA1_v20.n</net>
+      <xch type="constraint" value="0">TCA1_v20.x</xch>
+    </flux>
+    <flux id="TCA2_v21">
+      <net type="dependent" value="19.881645909619436">-(.3*AC1_v35.n)+.09999999999999999*ANA3_v33.n+.09999999999999999*ATPH1_v64.n-.3*EMP8_v8.n-.3*Glc_upt.n+.19999999999999998*TCA9_v28.n+.19999999999999998*TH1_v63.n+2.1374999999999997*mu2_v70.n</net>
+      <xch type="constraint" value="0">TCA2_v21.x</xch>
+    </flux>
+    <flux id="TCA3_v22">
+      <net type="dependent" value="19.881645909619436">-(.3*AC1_v35.n)+.09999999999999999*ANA3_v33.n+.09999999999999999*ATPH1_v64.n-.3*EMP8_v8.n-.3*Glc_upt.n+.19999999999999998*TCA9_v28.n+.19999999999999998*TH1_v63.n+2.1374999999999997*mu2_v70.n</net>
+      <xch type="free" value="118.21969731985938">TCA3_v22.x</xch>
+    </flux>
+    <flux id="TCA4_v23">
+      <net type="dependent" value="17.444972570390632">3.6999999999999997*AC1_v35.n+.6*ANA3_v33.n+.6*ATPH1_v64.n-.7999999999999999*EMP8_v8.n-12.799999999999999*Glc_upt.n-.5*TCA1_v20.n+.7*TCA9_v28.n+.19999999999999998*TH1_v63.n+109.41*mu2_v70.n</net>
+      <xch type="free" value="2.883664357174486">TCA4_v23.x</xch>
+    </flux>
+    <flux id="TCA5_v24">
+      <net type="dependent" value="9.210820832651166">3.6999999999999997*AC1_v35.n+.6*ANA3_v33.n+.6*ATPH1_v64.n-.7999999999999999*EMP8_v8.n-12.799999999999999*Glc_upt.n-.5*TCA1_v20.n+.7*TCA9_v28.n+.19999999999999998*TH1_v63.n+108.332*mu2_v70.n</net>
+      <xch type="constraint" value="0">TCA5_v24.x</xch>
+    </flux>
+    <flux id="TCA6_v25___1">
+      <net type="dependent" value="2.802757531254599">1.8499999999999999*AC1_v35.n+.3*ANA3_v33.n+.3*ATPH1_v64.n-.39999999999999997*EMP8_v8.n-6.3999999999999995*Glc_upt.n-.25*TCA1_v20.n+.35*TCA9_v28.n+.09999999999999999*TH1_v63.n+53.93*mu2_v70.n</net>
+      <xch type="free" value="87.98598657150804">TCA6_v25___1.x</xch>
+    </flux>
+    <flux id="TCA6_v25___2">
+      <net type="dependent" value="2.802757531254599">1.8499999999999999*AC1_v35.n+.3*ANA3_v33.n+.3*ATPH1_v64.n-.39999999999999997*EMP8_v8.n-6.3999999999999995*Glc_upt.n-.25*TCA1_v20.n+.35*TCA9_v28.n+.09999999999999999*TH1_v63.n+53.93*mu2_v70.n</net>
+      <xch type="dependent" value="87.98598657150804">TCA6_v25___1.x</xch>
+    </flux>
+    <flux id="TCA7_v26___1">
+      <net type="dependent" value="5.823747085939971">-(.15*AC1_v35.n)+.049999999999999996*ANA3_v33.n+.049999999999999996*ATPH1_v64.n-.15*EMP8_v8.n-.15*Glc_upt.n+.09999999999999999*TCA9_v28.n+.09999999999999999*TH1_v63.n+.5297499999999999*mu2_v70.n</net>
+      <xch type="free" value="361.8560051089277">TCA7_v26___1.x</xch>
+    </flux>
+    <flux id="TCA7_v26___2">
+      <net type="dependent" value="5.823747085939971">-(.15*AC1_v35.n)+.049999999999999996*ANA3_v33.n+.049999999999999996*ATPH1_v64.n-.15*EMP8_v8.n-.15*Glc_upt.n+.09999999999999999*TCA9_v28.n+.09999999999999999*TH1_v63.n+.5297499999999999*mu2_v70.n</net>
+      <xch type="dependent" value="361.8560051089277">TCA7_v26___1.x</xch>
+    </flux>
+    <flux id="TCA8_v27___1">
+      <net type="dependent" value="7.240662807044495">-(.15*AC1_v35.n)+.049999999999999996*ANA3_v33.n+.049999999999999996*ATPH1_v64.n-.15*EMP8_v8.n-.15*Glc_upt.n+.09999999999999999*TCA9_v28.n+.09999999999999999*TH1_v63.n+.7152499999999999*mu2_v70.n</net>
+      <xch type="free" value="217.16095310741042">TCA8_v27___1.x</xch>
+    </flux>
+    <flux id="TCA8_v27___2">
+      <net type="dependent" value="7.240662807044495">-(.15*AC1_v35.n)+.049999999999999996*ANA3_v33.n+.049999999999999996*ATPH1_v64.n-.15*EMP8_v8.n-.15*Glc_upt.n+.09999999999999999*TCA9_v28.n+.09999999999999999*TH1_v63.n+.7152499999999999*mu2_v70.n</net>
+      <xch type="dependent" value="217.16095310741042">TCA8_v27___1.x</xch>
+    </flux>
+    <flux id="TCA9_v28">
+      <net type="free" value="13.510357591608146">TCA9_v28.n</net>
+      <xch type="free" value="65.9683918115938">TCA9_v28.x</xch>
+    </flux>
+    <flux id="TH1_v63">
+      <net type="free" value="63.70012499970625">TH1_v63.n</net>
+      <xch type="free" value="124.98094170088552">TH1_v63.x</xch>
+    </flux>
+    <flux id="TP1_v65">
+      <net type="dependent" value="69.28117214981356">AC1_v35.n+.514*mu2_v70.n</net>
+      <xch type="constraint" value="0">TP1_v65.x</xch>
+    </flux>
+    <flux id="TP2_v66">
+      <net type="dependent" value="158.32462841955976">-(2*AC1_v35.n)+6*Glc_upt.n-40.711*mu2_v70.n</net>
+      <xch type="constraint" value="0">TP2_v66.x</xch>
+    </flux>
+    <flux id="TP3_v67">
+      <net type="dependent" value="140.74494361027644">-(2*AC1_v35.n)+6*Glc_upt.n-43.012499999999996*mu2_v70.n</net>
+      <xch type="constraint" value="0">TP3_v67.x</xch>
+    </flux>
+    <flux id="TP4_v68">
+      <net type="dependent" value="53.18589846927655">6.963*mu2_v70.n</net>
+      <xch type="constraint" value="0">TP4_v68.x</xch>
+    </flux>
+    <flux id="TP5_v69">
+      <net type="dependent" value="1.779737806023472">.23299999999999998*mu2_v70.n</net>
+      <xch type="constraint" value="0">TP5_v69.x</xch>
+    </flux>
+    <flux id="Thr_bm">
+      <net type="dependent" value="1.8408446834835055">.241*mu2_v70.n</net>
+      <xch type="constraint" value="0">Thr_bm.x</xch>
+    </flux>
+    <flux id="Trp_bm">
+      <net type="dependent" value=".4124714228552253">.054*mu2_v70.n</net>
+      <xch type="constraint" value="0">Trp_bm.x</xch>
+    </flux>
+    <flux id="Tyr_bm">
+      <net type="dependent" value="1.0006251184080466">.131*mu2_v70.n</net>
+      <xch type="constraint" value="0">Tyr_bm.x</xch>
+    </flux>
+    <flux id="Val_bm">
+      <net type="dependent" value="3.0706205923666774">.402*mu2_v70.n</net>
+      <xch type="constraint" value="0">Val_bm.x</xch>
+    </flux>
+    <flux id="_3PG_bm">
+      <net type="dependent" value="4.728144643470083">.619*mu2_v70.n</net>
+      <xch type="constraint" value="0">_3PG_bm.x</xch>
+    </flux>
+    <flux id="mu1">
+      <net type="dependent" value="7.638359682504173">mu2_v70.n</net>
+      <xch type="constraint" value="0">mu1.x</xch>
+    </flux>
+    <flux id="mu2_v70">
+      <net type="free" value="7.638359682504173">mu2_v70.n</net>
+      <xch type="constraint" value="0">mu2_v70.x</xch>
+    </flux>
+    <flux id="mu_3">
+      <net type="dependent" value="7.638359682504173">mu2_v70.n</net>
+      <xch type="constraint" value="0">mu_3.x</xch>
+    </flux>
+  </stoichiometry>
+
+  <simulation method="cumomer" type="auto">
+    <property name="simulator.type" type="string">stationary</property>
+    <property name="solver.type" type="string">algebraic equations solver</property>
+    <property name="constraint.violation.tolerance" type="double">1e-09</property>
+    <solution>
+      <pool id="CO2_unlabeled_in">
+        <time timestamp="INF">
+          <value cfg="x">1</value>
+        </time>
+      </pool>
+      <pool id="Gluc_ext">
+        <time timestamp="INF">
+          <value cfg="xxxxxx">1</value>
+          <value cfg="xx1xxx">.010550000000000004</value>
+          <value cfg="111x1x">1.1695444095e-06</value>
+          <value cfg="11xx1x">.00011085729000000002</value>
+          <value cfg="1xx1x1">.00011085729000000002</value>
+          <value cfg="1x11x1">1.1695444095e-06</value>
+          <value cfg="x1xxxx">.010550000000000004</value>
+          <value cfg="x11xxx">.00011130250000000002</value>
+          <value cfg="xx1x11">.010465768800000004</value>
+          <value cfg="xxxx11">.9920160000000002</value>
+          <value cfg="11x1x1">1.1695444095e-06</value>
+          <value cfg="1111x1">1.2338693520225001e-08</value>
+          <value cfg="1xxxxx">.010550000000000004</value>
+          <value cfg="1x1xxx">.00011130250000000002</value>
+          <value cfg="x11x11">.00011041386084000002</value>
+          <value cfg="x1xx11">.010465768800000004</value>
+          <value cfg="xxx11x">.010507800000000005</value>
+          <value cfg="xx111x">.00011085729000000002</value>
+          <value cfg="11xxxx">.00011130250000000002</value>
+          <value cfg="111xxx">1.1742413750000002e-06</value>
+          <value cfg="1x1x11">.00011041386084000002</value>
+          <value cfg="1xxx11">.010465768800000004</value>
+          <value cfg="x1x11x">.00011085729000000002</value>
+          <value cfg="x1111x">1.1695444095e-06</value>
+          <value cfg="xxxxx1">.9960000000000001</value>
+          <value cfg="xx1xx1">.010507800000000005</value>
+          <value cfg="111x11">1.164866231862e-06</value>
+          <value cfg="11xx11">.00011041386084000002</value>
+          <value cfg="1xx11x">.00011085729000000002</value>
+          <value cfg="1x111x">1.1695444095e-06</value>
+          <value cfg="x1xxx1">.010507800000000005</value>
+          <value cfg="x11xx1">.00011085729000000002</value>
+          <value cfg="xx11xx">.00011130250000000002</value>
+          <value cfg="xxx1xx">.010550000000000004</value>
+          <value cfg="11x11x">1.1695444095e-06</value>
+          <value cfg="11111x">1.2338693520225001e-08</value>
+          <value cfg="1xxxx1">.010507800000000005</value>
+          <value cfg="1x1xx1">.00011085729000000002</value>
+          <value cfg="x111xx">1.1742413750000002e-06</value>
+          <value cfg="x1x1xx">.00011130250000000002</value>
+          <value cfg="xx1111">.00011041386084000002</value>
+          <value cfg="xxx111">.010465768800000004</value>
+          <value cfg="11xxx1">.00011085729000000002</value>
+          <value cfg="111xx1">1.1695444095e-06</value>
+          <value cfg="1x11xx">1.1742413750000002e-06</value>
+          <value cfg="1xx1xx">.00011130250000000002</value>
+          <value cfg="x11111">1.164866231862e-06</value>
+          <value cfg="x1x111">.00011041386084000002</value>
+          <value cfg="xx1x1x">.010507800000000005</value>
+          <value cfg="xxxx1x">.9960000000000001</value>
+          <value cfg="1111xx">1.2388246506250002e-08</value>
+          <value cfg="11x1xx">1.1742413750000002e-06</value>
+          <value cfg="1x1111">1.164866231862e-06</value>
+          <value cfg="1xx111">.00011041386084000002</value>
+          <value cfg="x11x1x">.00011085729000000002</value>
+          <value cfg="x1xx1x">.010507800000000005</value>
+          <value cfg="xxx1x1">.010507800000000005</value>
+          <value cfg="xx11x1">.00011085729000000002</value>
+          <value cfg="111111">1.2289338746144102e-08</value>
+          <value cfg="11x111">1.164866231862e-06</value>
+          <value cfg="1x1x1x">.00011085729000000002</value>
+          <value cfg="1xxx1x">.010507800000000005</value>
+          <value cfg="x1x1x1">.00011085729000000002</value>
+          <value cfg="x111x1">1.1695444095e-06</value>
+        </time>
+      </pool>
+      <pool id="AKG">
+        <time timestamp="INF">
+          <value cfg="xx1xx">.4371931957180543</value>
+          <value cfg="xxxxx">1</value>
+          <value cfg="x1xxx">.43563916789328366</value>
+          <value cfg="x11xx">.19045847999121826</value>
+          <value cfg="1x1xx">.3321952619733169</value>
+          <value cfg="11xxx">.19004588606285783</value>
+          <value cfg="1xxxx">.43580091158483775</value>
+          <value cfg="111xx">.14480188158327692</value>
+          <value cfg="x1111">.060588815962410836</value>
+          <value cfg="xxx11">.10401292622333667</value>
+          <value cfg="x1x11">.09385632077192833</value>
+          <value cfg="xx111">.06714539833679956</value>
+          <value cfg="11111">.03433954285674098</value>
+          <value cfg="1x111">.03805008288076587</value>
+          <value cfg="11x11">.040337198788896904</value>
+          <value cfg="1xx11">.04469670044399826</value>
+          <value cfg="x111x">.17239147009061043</value>
+          <value cfg="xxx1x">.43698463628062295</value>
+          <value cfg="x1x1x">.39431416540568964</value>
+          <value cfg="xx11x">.1910467096152166</value>
+          <value cfg="1111x">.13104900318456625</value>
+          <value cfg="1x11x">.1452071259648101</value>
+          <value cfg="1xx1x">.19043460209197524</value>
+          <value cfg="11x1x">.17186072176722944</value>
+          <value cfg="xx1x1">.15365619923918863</value>
+          <value cfg="x1xx1">.10369267216292104</value>
+          <value cfg="xxxx1">.238024217758864</value>
+          <value cfg="x11x1">.06693865877820457</value>
+          <value cfg="111x1">.03795697324993759</value>
+          <value cfg="1xxx1">.10228742910512399</value>
+          <value cfg="11xx1">.04460657459970792</value>
+          <value cfg="1x1x1">.08706103778426835</value>
+        </time>
+      </pool>
+      <pool id="Ac">
+        <time timestamp="INF">
+          <value cfg="11">.3946793012170052</value>
+          <value cfg="x1">.43729888357610036</value>
+          <value cfg="xx">1</value>
+          <value cfg="1x">.43563793271730916</value>
+        </time>
+      </pool>
+      <pool id="AcCoA">
+        <time timestamp="INF">
+          <value cfg="11">.39467930121700523</value>
+          <value cfg="x1">.43729888357610036</value>
+          <value cfg="xx">1</value>
+          <value cfg="1x">.4356379327173091</value>
+        </time>
+      </pool>
+      <pool id="Ala">
+        <time timestamp="INF">
+          <value cfg="111">.008162921362120218</value>
+          <value cfg="11x">.39640527728108604</value>
+          <value cfg="x11">.028460060870303196</value>
+          <value cfg="1x1">.019491852790605984</value>
+          <value cfg="1xx">.4370530524263889</value>
+          <value cfg="xxx">1</value>
+          <value cfg="xx1">.06507653274126038</value>
+          <value cfg="x1x">.437299640411075</value>
+        </time>
+      </pool>
+      <pool id="Arg">
+        <time timestamp="INF"/>
+      </pool>
+      <pool id="Asn">
+        <time timestamp="INF"/>
+      </pool>
+      <pool id="Asp">
+        <time timestamp="INF">
+          <value cfg="111x">.0870954284254355</value>
+          <value cfg="x1xx">.4357999543664042</value>
+          <value cfg="xxxx">1</value>
+          <value cfg="1xxx">.43719319571805393</value>
+          <value cfg="xx1x">.2380242177588638</value>
+          <value cfg="11xx">.3324382975051376</value>
+          <value cfg="1x1x">.1536561992391884</value>
+          <value cfg="x11x">.10228472018438448</value>
+          <value cfg="1111">.03453599829474393</value>
+          <value cfg="x111">.04417339206193339</value>
+          <value cfg="1x11">.04407414865354199</value>
+          <value cfg="xxx1">.1948987235077763</value>
+          <value cfg="1xx1">.08157244919636646</value>
+          <value cfg="x1x1">.13306622088058845</value>
+          <value cfg="xx11">.058481076036682185</value>
+          <value cfg="11x1">.06509715666578941</value>
+        </time>
+      </pool>
+      <pool id="CO2">
+        <time timestamp="INF">
+          <value cfg="1">.2029212863953948</value>
+          <value cfg="x">1</value>
+        </time>
+      </pool>
+      <pool id="CO2_out">
+        <time timestamp="INF"/>
+      </pool>
+      <pool id="CO2_unlabeled">
+        <time timestamp="INF"/>
+      </pool>
+      <pool id="Cit">
+        <time timestamp="INF">
+          <value cfg="xxxxxx">1</value>
+          <value cfg="xx1xxx">.43702987663318305</value>
+          <value cfg="111x1x">.03249009315248153</value>
+          <value cfg="11xx1x">.035888447273926274</value>
+          <value cfg="1xx1x1">.04459974054115028</value>
+          <value cfg="1x11x1">.040341872312104225</value>
+          <value cfg="x11xxx">.19106648838952783</value>
+          <value cfg="x1xxxx">.43719319571805415</value>
+          <value cfg="xxxx11">.1282963426044665</value>
+          <value cfg="xx1x11">.056078099170693105</value>
+          <value cfg="1111x1">.034344613271146955</value>
+          <value cfg="11x1x1">.03795482805970114</value>
+          <value cfg="1x1xxx">.3943667318814366</value>
+          <value cfg="1xxxxx">.43563899007219375</value>
+          <value cfg="x11x11">.028573218071398787</value>
+          <value cfg="x1xx11">.06536599129404952</value>
+          <value cfg="xxx11x">.05738135535885015</value>
+          <value cfg="xx111x">.02508138751687383</value>
+          <value cfg="11xxxx">.19045840224904775</value>
+          <value cfg="111xxx">.17241445179612994</value>
+          <value cfg="1xxx11">.05590899225927545</value>
+          <value cfg="1x1x11">.050603885984921805</value>
+          <value cfg="x1111x">.018652896649593825</value>
+          <value cfg="x1x11x">.04267165173492422</value>
+          <value cfg="xxxxx1">.43580077377967585</value>
+          <value cfg="xx1xx1">.19045479039190497</value>
+          <value cfg="111x11">.025784602715135774</value>
+          <value cfg="11xx11">.028483879193062802</value>
+          <value cfg="1x111x">.022633585989361316</value>
+          <value cfg="1xx11x">.024996929824489044</value>
+          <value cfg="x1xxx1">.33223025038308984</value>
+          <value cfg="x11xx1">.14523127889085968</value>
+          <value cfg="xx11xx">.10402369452286597</value>
+          <value cfg="xxx1xx">.2380242177588639</value>
+          <value cfg="11111x">.016832807727682902</value>
+          <value cfg="11x11x">.018589025283009694</value>
+          <value cfg="1x1xx1">.17188094868951337</value>
+          <value cfg="1xxxx1">.19001782818454474</value>
+          <value cfg="x1x1xx">.15365619923918858</value>
+          <value cfg="x111xx">.06715234979742621</value>
+          <value cfg="xx1111">.018201623384911145</value>
+          <value cfg="xxx111">.04163685929233634</value>
+          <value cfg="11xxx1">.144804883394382</value>
+          <value cfg="111xx1">.13107167923691196</value>
+          <value cfg="1xx1xx">.10369262983719524</value>
+          <value cfg="1x11xx">.09386883286619836</value>
+          <value cfg="x11111">.01429618342350829</value>
+          <value cfg="x1x111">.03270106632733303</value>
+          <value cfg="xx1x1x">.08559410289707947</value>
+          <value cfg="xxxx1x">.1958433097388788</value>
+          <value cfg="1111xx">.06059689312728154</value>
+          <value cfg="11x1xx">.06693863145489178</value>
+          <value cfg="1x1111">.016425583837427912</value>
+          <value cfg="1xx111">.018142936581123564</value>
+          <value cfg="x1xx1x">.08238374741025244</value>
+          <value cfg="x11x1x">.036005353940163</value>
+          <value cfg="xxx1x1">.10228703911758524</value>
+          <value cfg="xx11x1">.044701349551007366</value>
+          <value cfg="111111">.012901513188407362</value>
+          <value cfg="11x111">.014248627435929048</value>
+          <value cfg="1xxx1x">.0853144000405246</value>
+          <value cfg="1x1x1x">.07723796509788351</value>
+          <value cfg="x1x1x1">.08706598880454303</value>
+          <value cfg="x111x1">.038055359273477404</value>
+        </time>
+      </pool>
+      <pool id="Cys">
+        <time timestamp="INF">
+          <value cfg="111">.006817173711278074</value>
+          <value cfg="11x">.3907517702671778</value>
+          <value cfg="x11">.018516544341442755</value>
+          <value cfg="1x1">.018316119065486167</value>
+          <value cfg="1xx">.440208818731337</value>
+          <value cfg="xxx">1</value>
+          <value cfg="xx1">.054727549493961504</value>
+          <value cfg="x1x">.4330170466902392</value>
+        </time>
+      </pool>
+      <pool id="DHAP">
+        <time timestamp="INF">
+          <value cfg="111">.00752547416903819</value>
+          <value cfg="11x">.023583096602458692</value>
+          <value cfg="x11">.6163188373797767</value>
+          <value cfg="1x1">.01768868884719846</value>
+          <value cfg="1xx">.0657581945469641</value>
+          <value cfg="xxx">1</value>
+          <value cfg="xx1">.6505651691972728</value>
+          <value cfg="x1x">.6494337813768358</value>
+        </time>
+      </pool>
+      <pool id="E4P">
+        <time timestamp="INF">
+          <value cfg="111x">.009671354975988809</value>
+          <value cfg="x1xx">.9390471958463765</value>
+          <value cfg="xxxx">1</value>
+          <value cfg="1xxx">.323166260300961</value>
+          <value cfg="xx1x">.03979752206999603</value>
+          <value cfg="11xx">.3026057703821624</value>
+          <value cfg="1x1x">.010350859116625777</value>
+          <value cfg="x11x">.03712211797382253</value>
+          <value cfg="1111">.00024207629676046652</value>
+          <value cfg="x111">.0009374231917477057</value>
+          <value cfg="1x11">.0008338553296642732</value>
+          <value cfg="xxx1">.06625538401716424</value>
+          <value cfg="1xx1">.02598068722969824</value>
+          <value cfg="x1x1">.024023650495970588</value>
+          <value cfg="xx11">.00308915787284263</value>
+          <value cfg="11x1">.007884889635747594</value>
+        </time>
+      </pool>
+      <pool id="F6P">
+        <time timestamp="INF">
+          <value cfg="xxxxxx">1</value>
+          <value cfg="xx1xxx">.22007982836667558</value>
+          <value cfg="111x1x">.010918314960180477</value>
+          <value cfg="11xx1x">.012416298163770927</value>
+          <value cfg="1xx1x1">.007871838288626724</value>
+          <value cfg="1x11x1">.002361669821169321</value>
+          <value cfg="x11xxx">.19172484604671378</value>
+          <value cfg="x1xxxx">.9161965600004232</value>
+          <value cfg="xxxx11">.022582232178077435</value>
+          <value cfg="xx1x11">.005385309232179667</value>
+          <value cfg="1111x1">.0022296424237825572</value>
+          <value cfg="11x1x1">.006817658358724393</value>
+          <value cfg="1x1xxx">.2001601295077739</value>
+          <value cfg="1xxxxx">.2427314044871391</value>
+          <value cfg="x11x11">.0021980253349072575</value>
+          <value cfg="x1xx11">.01016170806431527</value>
+          <value cfg="xxx11x">.003970421435113119</value>
+          <value cfg="xx111x">.001054751332072019</value>
+          <value cfg="11xxxx">.197041984431568</value>
+          <value cfg="111xxx">.17440809403236063</value>
+          <value cfg="1xxx11">.010898175688378661</value>
+          <value cfg="1x1x11">.004662464748235054</value>
+          <value cfg="x1111x">.0003766156126938166</value>
+          <value cfg="x1x11x">.001407222940524595</value>
+          <value cfg="xxxxx1">.9307933279646609</value>
+          <value cfg="xx1xx1">.1914108532144515</value>
+          <value cfg="111x11">.001996986869181025</value>
+          <value cfg="11xx11">.0023733006683852617</value>
+          <value cfg="1x111x">.0004138120882610278</value>
+          <value cfg="1xx11x">.0014377516132758471</value>
+          <value cfg="x1xxx1">.8889024312007205</value>
+          <value cfg="x11xx1">.18111213174805882</value>
+          <value cfg="xx11xx">.006978128174706905</value>
+          <value cfg="xxx1xx">.030432144468499175</value>
+          <value cfg="11111x">.00014813160875186656</value>
+          <value cfg="11x11x">.0004619408902009265</value>
+          <value cfg="1x1xx1">.17342874978350417</value>
+          <value cfg="1xxxx1">.2124940024592582</value>
+          <value cfg="x1x1xx">.026544219111516606</value>
+          <value cfg="x111xx">.006049414999801845</value>
+          <value cfg="xx1111">.0001717961578935415</value>
+          <value cfg="xxx111">.0008093123267318329</value>
+          <value cfg="11xxx1">.18534306019298297</value>
+          <value cfg="111xx1">.16454646732538045</value>
+          <value cfg="1xx1xx">.00900776559773818</value>
+          <value cfg="1x11xx">.002724529577190474</value>
+          <value cfg="x11111">6.944223135048788e-05</value>
+          <value cfg="x1x111">.0003029034000195758</value>
+          <value cfg="xx1x1x">.03287623345386233</value>
+          <value cfg="xxxx1x">.08655565530793144</value>
+          <value cfg="1111xx">.002363862796854624</value>
+          <value cfg="11x1xx">.007257879318226966</value>
+          <value cfg="1x1111">6.581620155049672e-05</value>
+          <value cfg="1xx111">.00037454562380700426</value>
+          <value cfg="x1xx1x">.03258980353768257</value>
+          <value cfg="x11x1x">.01176201371839023</value>
+          <value cfg="xxx1x1">.02709105473812208</value>
+          <value cfg="xx11x1">.00605672842093759</value>
+          <value cfg="111111">2.7119464175835615e-05</value>
+          <value cfg="11x111">8.681279086716999e-05</value>
+          <value cfg="1xxx1x">.03928608902808592</value>
+          <value cfg="1x1x1x">.030334983693510193</value>
+          <value cfg="x1x1x1">.025277384802930923</value>
+          <value cfg="x111x1">.0057080482306940085</value>
+        </time>
+      </pool>
+      <pool id="FBP">
+        <time timestamp="INF">
+          <value cfg="xxxxxx">1</value>
+          <value cfg="xx1xxx">.34546290388411166</value>
+          <value cfg="111x1x">.010087772281902314</value>
+          <value cfg="11xx1x">.011224566198614293</value>
+          <value cfg="1xx1x1">.009586950910371045</value>
+          <value cfg="1x11x1">.0030695141731029996</value>
+          <value cfg="x11xxx">.24425245979350252</value>
+          <value cfg="x1xxxx">.7582061417900635</value>
+          <value cfg="xxxx11">.019684028158141784</value>
+          <value cfg="xx1x11">.006719305144835481</value>
+          <value cfg="1111x1">.0029047896847212485</value>
+          <value cfg="11x1x1">.008821407461751698</value>
+          <value cfg="1x1xxx">.32059294824481616</value>
+          <value cfg="1xxxxx">.3602551388261762</value>
+          <value cfg="x11x11">.0028206990450111618</value>
+          <value cfg="x1xx11">.008600396933264079</value>
+          <value cfg="xxx11x">.0035475579253499566</value>
+          <value cfg="xx111x">.000970176256992351</value>
+          <value cfg="11xxxx">.2500288183591767</value>
+          <value cfg="111xxx">.22631503570856729</value>
+          <value cfg="1xxx11">.009065452651083309</value>
+          <value cfg="1x1x11">.0061283207058642</value>
+          <value cfg="x1111x">.00034726351520509614</value>
+          <value cfg="x1x11x">.0012654625482512905</value>
+          <value cfg="xxxxx1">.7648280301580649</value>
+          <value cfg="xx1xx1">.24441375410998664</value>
+          <value cfg="111x11">.0026126912698502987</value>
+          <value cfg="11xx11">.002933979506025321</value>
+          <value cfg="1x111x">.0003816581491188785</value>
+          <value cfg="1xx11x">.0012308419559943138</value>
+          <value cfg="x1xxx1">.727464631642406</value>
+          <value cfg="x11xx1">.23145679679246117</value>
+          <value cfg="xx11xx">.011058783610621617</value>
+          <value cfg="xxx1xx">.04173767189116625</value>
+          <value cfg="11111x">.00013676317377341024</value>
+          <value cfg="11x11x">.000419531181738569</value>
+          <value cfg="1x1xx1">.22618608523465553</value>
+          <value cfg="1xxxx1">.25662498006401063</value>
+          <value cfg="x1x1xx">.029870621844031064</value>
+          <value cfg="x111xx">.007800741132727776</value>
+          <value cfg="xx1111">.00021533504799803188</value>
+          <value cfg="xxx111">.0008487878718822463</value>
+          <value cfg="11xxx1">.2366062650171081</value>
+          <value cfg="111xx1">.2143802277128763</value>
+          <value cfg="1xx1xx">.013475485597864273</value>
+          <value cfg="1x11xx">.004348947908742963</value>
+          <value cfg="x11111">9.012517923272603e-05</value>
+          <value cfg="x1x111">.0003442231847224637</value>
+          <value cfg="xx1x1x">.0302213105451553</value>
+          <value cfg="xxxx1x">.07423834649786253</value>
+          <value cfg="1111xx">.0030667448982318025</value>
+          <value cfg="11x1xx">.009325519000764554</value>
+          <value cfg="1x1111">8.411289092598594e-05</value>
+          <value cfg="1xx111">.00032611544300056796</value>
+          <value cfg="x1xx1x">.027255575866429987</value>
+          <value cfg="x11x1x">.010826752812615206</value>
+          <value cfg="xxx1x1">.030126776192278687</value>
+          <value cfg="xx11x1">.00781301577993416</value>
+          <value cfg="111111">3.542560068168031e-05</value>
+          <value cfg="11x111">.00010916688500140578</value>
+          <value cfg="1xxx1x">.03320028228806627</value>
+          <value cfg="1x1x1x">.028083818294244736</value>
+          <value cfg="x1x1x1">.02838284327964968</value>
+          <value cfg="x111x1">.007389560901886115</value>
+        </time>
+      </pool>
+      <pool id="FTHF">
+        <time timestamp="INF">
+          <value cfg="1">.4392479965666713</value>
+          <value cfg="x">1</value>
+        </time>
+      </pool>
+      <pool id="Fum">
+        <time timestamp="INF">
+          <value cfg="111x">.08912832307463134</value>
+          <value cfg="x1xx">.43636989751114585</value>
+          <value cfg="xxxx">1</value>
+          <value cfg="1xxx">.436366530210656</value>
+          <value cfg="xx1x">.2515302285866504</value>
+          <value cfg="11xx">.30528592419847717</value>
+          <value cfg="1x1x">.1792376822966073</value>
+          <value cfg="x11x">.10767084588615479</value>
+          <value cfg="1111">.04817249996124835</value>
+          <value cfg="x111">.06060671442394935</value>
+          <value cfg="1x11">.060606954283595554</value>
+          <value cfg="xxx1">.25163445783432836</value>
+          <value cfg="1xx1">.10772090500919267</value>
+          <value cfg="x1x1">.1792874458527425</value>
+          <value cfg="xx11">.07767906713507326</value>
+          <value cfg="11x1">.08918149031028955</value>
+        </time>
+      </pool>
+      <pool id="G6P">
+        <time timestamp="INF">
+          <value cfg="xxxxxx">1</value>
+          <value cfg="xx1xxx">.02069513848521338</value>
+          <value cfg="111x1x">.0012056473732500932</value>
+          <value cfg="11xx1x">.08854870282008301</value>
+          <value cfg="1xx1x1">.00638987824690963</value>
+          <value cfg="1x11x1">.0002362844798470972</value>
+          <value cfg="x11xxx">.0036151950269905303</value>
+          <value cfg="x1xxxx">.11746548534570006</value>
+          <value cfg="xxxx11">.9394008790893416</value>
+          <value cfg="xx1x11">.01802360018874254</value>
+          <value cfg="1111x1">7.559223951616401e-05</value>
+          <value cfg="11x1x1">.005571793592619603</value>
+          <value cfg="1x1xxx">.0046508455205299835</value>
+          <value cfg="1xxxxx">.12902376453507775</value>
+          <value cfg="x11x11">.0029666840162919897</value>
+          <value cfg="x1xx11">.09754042952630977</value>
+          <value cfg="xxx11x">.016668945583213794</value>
+          <value cfg="xx111x">.0004672536075383833</value>
+          <value cfg="11xxxx">.1021889761138243</value>
+          <value cfg="111xxx">.0013908038696108906</value>
+          <value cfg="1xxx11">.09969931913013448</value>
+          <value cfg="1x1x11">.0035328778909667854</value>
+          <value cfg="x1111x">8.823412769935507e-05</value>
+          <value cfg="x1x11x">.002802219153494932</value>
+          <value cfg="xxxxx1">.9552791938679019</value>
+          <value cfg="xx1xx1">.018690604070809545</value>
+          <value cfg="111x11">.0011382762813692895</value>
+          <value cfg="11xx11">.08401617850322125</value>
+          <value cfg="1x111x">.00019168983956957463</value>
+          <value cfg="1xx11x">.005615235311648227</value>
+          <value cfg="x1xxx1">.10297629759783385</value>
+          <value cfg="x11xx1">.0031410882826288945</value>
+          <value cfg="xx11xx">.0020804711724066527</value>
+          <value cfg="xxx1xx">.049332934103514456</value>
+          <value cfg="11111x">3.358966746727142e-05</value>
+          <value cfg="11x11x">.002379659723786054</value>
+          <value cfg="1x1xx1">.0037577238716261668</value>
+          <value cfg="1xxxx1">.10568944080755431</value>
+          <value cfg="x1x1xx">.016830060504803884</value>
+          <value cfg="x111xx">.0005387764857860286</value>
+          <value cfg="xx1111">.0002086343035606396</value>
+          <value cfg="xxx111">.010310617615160517</value>
+          <value cfg="11xxx1">.08904842673291787</value>
+          <value cfg="111xx1">.001206766369345175</value>
+          <value cfg="1xx1xx">.02010077773421269</value>
+          <value cfg="1x11xx">.0007342076626816975</value>
+          <value cfg="x11111">3.600433365608322e-05</value>
+          <value cfg="x1x111">.001175646413660873</value>
+          <value cfg="xx1x1x">.018969634492771857</value>
+          <value cfg="xxxx1x">.962727396081116</value>
+          <value cfg="1111xx">.00021115939346208444</value>
+          <value cfg="11x1xx">.015479418963093206</value>
+          <value cfg="1x1111">4.486790127282551e-05</value>
+          <value cfg="1xx111">.0012650830704557994</value>
+          <value cfg="x1xx1x">.1028160784237044</value>
+          <value cfg="x11x1x">.0031448200566505735</value>
+          <value cfg="xxx1x1">.02177544692187514</value>
+          <value cfg="xx11x1">.0007723457462821269</value>
+          <value cfg="111111">1.384409923736536e-05</value>
+          <value cfg="11x111">.0010195605751975377</value>
+          <value cfg="1xxx1x">.11357404616364666</value>
+          <value cfg="1x1x1x">.004071004905712464</value>
+          <value cfg="x1x1x1">.006056020582932538</value>
+          <value cfg="x111x1">.00019274607995414862</value>
+        </time>
+      </pool>
+      <pool id="GAP">
+        <time timestamp="INF">
+          <value cfg="111">.005467318365780561</value>
+          <value cfg="11x">.016551396501727142</value>
+          <value cfg="x11">.403507862412614</value>
+          <value cfg="1x1">.013868210465904203</value>
+          <value cfg="1xx">.0495212382454411</value>
+          <value cfg="xxx">1</value>
+          <value cfg="xx1">.43178594318224545</value>
+          <value cfg="x1x">.44116722282112775</value>
+        </time>
+      </pool>
+      <pool id="Gln">
+        <time timestamp="INF">
+          <value cfg="xx1xx">.4371931957180544</value>
+          <value cfg="xxxxx">1</value>
+          <value cfg="x1xxx">.43563916789328366</value>
+          <value cfg="x11xx">.19045847999121826</value>
+          <value cfg="1x1xx">.3321952619733169</value>
+          <value cfg="11xxx">.19004588606285783</value>
+          <value cfg="1xxxx">.43580091158483775</value>
+          <value cfg="111xx">.14480188158327692</value>
+          <value cfg="x1111">.06058881596241083</value>
+          <value cfg="xxx11">.10401292622333666</value>
+          <value cfg="x1x11">.09385632077192833</value>
+          <value cfg="xx111">.06714539833679956</value>
+          <value cfg="11111">.03433954285674098</value>
+          <value cfg="1x111">.03805008288076587</value>
+          <value cfg="11x11">.040337198788896904</value>
+          <value cfg="1xx11">.04469670044399826</value>
+          <value cfg="x111x">.17239147009061043</value>
+          <value cfg="xxx1x">.43698463628062295</value>
+          <value cfg="x1x1x">.39431416540568964</value>
+          <value cfg="xx11x">.19104670961521664</value>
+          <value cfg="1111x">.13104900318456625</value>
+          <value cfg="1x11x">.1452071259648101</value>
+          <value cfg="1xx1x">.19043460209197524</value>
+          <value cfg="11x1x">.17186072176722944</value>
+          <value cfg="xx1x1">.15365619923918863</value>
+          <value cfg="x1xx1">.10369267216292107</value>
+          <value cfg="xxxx1">.238024217758864</value>
+          <value cfg="x11x1">.06693865877820457</value>
+          <value cfg="111x1">.03795697324993759</value>
+          <value cfg="1xxx1">.10228742910512399</value>
+          <value cfg="11xx1">.04460657459970792</value>
+          <value cfg="1x1x1">.08706103778426834</value>
+        </time>
+      </pool>
+      <pool id="Glu">
+        <time timestamp="INF">
+          <value cfg="xx1xx">.4371931957180543</value>
+          <value cfg="xxxxx">1</value>
+          <value cfg="x1xxx">.4356391678932837</value>
+          <value cfg="x11xx">.19045847999121826</value>
+          <value cfg="1x1xx">.3321952619733169</value>
+          <value cfg="11xxx">.19004588606285783</value>
+          <value cfg="1xxxx">.43580091158483775</value>
+          <value cfg="111xx">.14480188158327692</value>
+          <value cfg="x1111">.060588815962410836</value>
+          <value cfg="xxx11">.10401292622333667</value>
+          <value cfg="x1x11">.09385632077192833</value>
+          <value cfg="xx111">.06714539833679956</value>
+          <value cfg="11111">.03433954285674098</value>
+          <value cfg="1x111">.03805008288076587</value>
+          <value cfg="11x11">.040337198788896904</value>
+          <value cfg="1xx11">.04469670044399826</value>
+          <value cfg="x111x">.17239147009061043</value>
+          <value cfg="xxx1x">.43698463628062295</value>
+          <value cfg="x1x1x">.39431416540568964</value>
+          <value cfg="xx11x">.19104670961521664</value>
+          <value cfg="1111x">.13104900318456625</value>
+          <value cfg="1x11x">.1452071259648101</value>
+          <value cfg="1xx1x">.19043460209197524</value>
+          <value cfg="11x1x">.17186072176722944</value>
+          <value cfg="xx1x1">.15365619923918863</value>
+          <value cfg="x1xx1">.10369267216292105</value>
+          <value cfg="xxxx1">.238024217758864</value>
+          <value cfg="x11x1">.06693865877820457</value>
+          <value cfg="111x1">.03795697324993759</value>
+          <value cfg="1xxx1">.10228742910512399</value>
+          <value cfg="11xx1">.04460657459970792</value>
+          <value cfg="1x1x1">.08706103778426834</value>
+        </time>
+      </pool>
+      <pool id="Gly">
+        <time timestamp="INF">
+          <value cfg="11">.03517639313051227</value>
+          <value cfg="x1">.0754128853823635</value>
+          <value cfg="xx">1</value>
+          <value cfg="1x">.4334436501622758</value>
+        </time>
+      </pool>
+      <pool id="Glyox">
+        <time timestamp="INF">
+          <value cfg="11">.1536561992391886</value>
+          <value cfg="x1">.23802421775886393</value>
+          <value cfg="xx">1</value>
+          <value cfg="1x">.43719319571805426</value>
+        </time>
+      </pool>
+      <pool id="His">
+        <time timestamp="INF">
+          <value cfg="xxxxxx">1</value>
+          <value cfg="xx1xxx">.4392479965666713</value>
+          <value cfg="111x1x">.0043169536525338534</value>
+          <value cfg="11xx1x">.009828055418070882</value>
+          <value cfg="1xx1x1">.0010413038542898662</value>
+          <value cfg="1x11x1">.00045739063181397674</value>
+          <value cfg="x11xxx">.4182955822237991</value>
+          <value cfg="x1xxxx">.9522993513763427</value>
+          <value cfg="xxxx11">.3034830832312428</value>
+          <value cfg="xx1x11">.13330433630119976</value>
+          <value cfg="1111x1">.0001405094671282212</value>
+          <value cfg="11x1x1">.0003198864154794021</value>
+          <value cfg="1x1xxx">.017559273472334408</value>
+          <value cfg="1xxxxx">.03997576223360001</value>
+          <value cfg="x11x11">.1250873621628066</value>
+          <value cfg="x1xx11">.2847761700463903</value>
+          <value cfg="xxx11x">.025849452447777966</value>
+          <value cfg="xx111x">.011354320200031909</value>
+          <value cfg="11xxxx">.037657185216208144</value>
+          <value cfg="111xxx">.0165408431625595</value>
+          <value cfg="1xxx11">.004179377641105172</value>
+          <value cfg="1x1x11">.0018357832557509873</value>
+          <value cfg="x1111x">.003275746193709813</value>
+          <value cfg="x1x11x">.00745762352774352</value>
+          <value cfg="xxxxx1">.3445345170078903</value>
+          <value cfg="xx1xx1">.15133609634378153</value>
+          <value cfg="111x11">.0017224730453409742</value>
+          <value cfg="11xx11">.003921413549531189</value>
+          <value cfg="1x111x">.0003644226613204247</value>
+          <value cfg="1xx11x">.0008296512771119965</value>
+          <value cfg="x1xxx1">.3234855540285484</value>
+          <value cfg="x11xx1">.1420903815252996</value>
+          <value cfg="xx11xx">.027816620329430164</value>
+          <value cfg="xxx1xx">.06332782516222135</value>
+          <value cfg="11111x">.00010489587073256833</value>
+          <value cfg="11x11x">.0002388078524033671</value>
+          <value cfg="1x1xx1">.005661422467623892</value>
+          <value cfg="1xxxx1">.012888897642961868</value>
+          <value cfg="x1x1xx">.020671453054334845</value>
+          <value cfg="x111xx">.009079894340238578</value>
+          <value cfg="xx1111">.01056629363574356</value>
+          <value cfg="xxx111">.024055416799470257</value>
+          <value cfg="11xxx1">.012094879050119888</value>
+          <value cfg="111xx1">.005312651391481365</value>
+          <value cfg="1xx1xx">.0030151436971894803</value>
+          <value cfg="1x11xx">.0013243958283511055</value>
+          <value cfg="x11111">.003024234095888861</value>
+          <value cfg="x1x111">.0068850264987602</value>
+          <value cfg="xx1x1x">.14392812323088025</value>
+          <value cfg="xxxx1x">.32766939031225406</value>
+          <value cfg="1111xx">.00039682160710137785</value>
+          <value cfg="11x1xx">.0009034113079697251</value>
+          <value cfg="1x1111">.0001456865202935694</value>
+          <value cfg="1xx111">.00033167258913486327</value>
+          <value cfg="x1xx1x">.3076172226782441</value>
+          <value cfg="x11x1x">.13512024877082232</value>
+          <value cfg="xxx1x1">.027752967225739916</value>
+          <value cfg="xx11x1">.012190435252686746</value>
+          <value cfg="111111">4.181982492190491e-05</value>
+          <value cfg="11x111">9.52077761282567e-05</value>
+          <value cfg="1xxx1x">.010472290446424596</value>
+          <value cfg="1x1x1x">.004599932598056296</value>
+          <value cfg="x1x1x1">.00868121840861838</value>
+          <value cfg="x111x1">.003813207793743329</value>
+        </time>
+      </pool>
+      <pool id="ICit">
+        <time timestamp="INF">
+          <value cfg="xxxxxx">1</value>
+          <value cfg="xx1xxx">.43698463628062284</value>
+          <value cfg="111x1x">.050281897837239735</value>
+          <value cfg="11xx1x">.05556260118174029</value>
+          <value cfg="1xx1x1">.06693865877820455</value>
+          <value cfg="1x11x1">.06058881596241083</value>
+          <value cfg="x11xxx">.1904346020919752</value>
+          <value cfg="x1xxxx">.4358009115848377</value>
+          <value cfg="xxxx11">.057196409384432816</value>
+          <value cfg="xx1x11">.02499859110632963</value>
+          <value cfg="1111x1">.03433954285674097</value>
+          <value cfg="11x1x1">.03795697324993758</value>
+          <value cfg="1x1xxx">.3943141654056896</value>
+          <value cfg="1xxxxx">.4356391678932836</value>
+          <value cfg="x11x11">.01801404866577498</value>
+          <value cfg="x1xx11">.041210276857204325</value>
+          <value cfg="xxx11x">.08252018781892599</value>
+          <value cfg="xx111x">.03606149307382517</value>
+          <value cfg="11xxxx">.1900458860628578</value>
+          <value cfg="111xxx">.1718607217672294</value>
+          <value cfg="1xxx11">.024916265289694713</value>
+          <value cfg="1x1x11">.02255829651014889</value>
+          <value cfg="x1111x">.028591095813161223</value>
+          <value cfg="x1x11x">.06541120266752183</value>
+          <value cfg="xxxxx1">.23802421775886393</value>
+          <value cfg="xx1xx1">.10401292622333666</value>
+          <value cfg="111x11">.016255938630517847</value>
+          <value cfg="11xx11">.01795783118650661</value>
+          <value cfg="1x111x">.032539727753934926</value>
+          <value cfg="1xx11x">.03594771130232162</value>
+          <value cfg="x1xxx1">.10228742910512396</value>
+          <value cfg="x11xx1">.044696700443998254</value>
+          <value cfg="xx11xx">.19104670961521658</value>
+          <value cfg="xxx1xx">.43719319571805415</value>
+          <value cfg="11111x">.025800092075756648</value>
+          <value cfg="11x11x">.028504915992143037</value>
+          <value cfg="1x1xx1">.09385632077192832</value>
+          <value cfg="1xxxx1">.10369267216292102</value>
+          <value cfg="x1x1xx">.33219526197331684</value>
+          <value cfg="x111xx">.14520712596481009</value>
+          <value cfg="xx1111">.018548513646058213</value>
+          <value cfg="xxx111">.042435786242477146</value>
+          <value cfg="11xxx1">.04460657459970791</value>
+          <value cfg="111xx1">.0403371987888969</value>
+          <value cfg="1xx1xx">.19045847999121826</value>
+          <value cfg="1x11xx">.17239147009061043</value>
+          <value cfg="x11111">.014160571806779178</value>
+          <value cfg="x1x111">.03239247589383192</value>
+          <value cfg="xx1x1x">.08565550520135966</value>
+          <value cfg="xxxx1x">.19600216591431857</value>
+          <value cfg="1111xx">.13104900318456625</value>
+          <value cfg="11x1xx">.14480188158327692</value>
+          <value cfg="1x1111">.016738234881179336</value>
+          <value cfg="1xx111">.01848621196625681</value>
+          <value cfg="x1xx1x">.1274941663760732</value>
+          <value cfg="x11x1x">.05572297818464589</value>
+          <value cfg="xxx1x1">.1536561992391886</value>
+          <value cfg="xx11x1">.06714539833679954</value>
+          <value cfg="111111">.012778891371052445</value>
+          <value cfg="11x111">.014114665049583286</value>
+          <value cfg="1xxx1x">.0853832044753689</value>
+          <value cfg="1x1x1x">.07729101991468534</value>
+          <value cfg="x1x1x1">.08706103778426834</value>
+          <value cfg="x111x1">.03805008288076586</value>
+        </time>
+      </pool>
+      <pool id="Ile">
+        <time timestamp="INF"/>
+      </pool>
+      <pool id="KDPG">
+        <time timestamp="INF">
+          <value cfg="xx1x1x">.00361519502699053</value>
+          <value cfg="xxxxxx">1</value>
+          <value cfg="xx1xxx">.02069513848521338</value>
+          <value cfg="xxx1xx">.9627273960811156</value>
+          <value cfg="xxxx1x">.11746548534570006</value>
+          <value cfg="1xx1x1">.010310617615160517</value>
+          <value cfg="1xxxx1">.02177544692187514</value>
+          <value cfg="x11x1x">.0013908038696108908</value>
+          <value cfg="x1xxxx">.12902376453507775</value>
+          <value cfg="x11xxx">.004650845520529984</value>
+          <value cfg="x1xx1x">.10218897611382428</value>
+          <value cfg="xxxxx1">.9552791938679017</value>
+          <value cfg="xxx1x1">.9394008790893416</value>
+          <value cfg="1xxxxx">.049332934103514456</value>
+          <value cfg="1xx1xx">.016668945583213798</value>
+        </time>
+      </pool>
+      <pool id="LL_DAP">
+        <time timestamp="INF">
+          <value cfg="xxxxxxx">1</value>
+          <value cfg="xxx1xxx">.436174875877572</value>
+          <value cfg="x111x1x">.02223037668797171</value>
+          <value cfg="x11xx1x">.028869042289374088</value>
+          <value cfg="11xx1xx">.061571312798963274</value>
+          <value cfg="x1xx1x1">.02387115822433996</value>
+          <value cfg="xx11xxx">.1906468820467569</value>
+          <value cfg="xx1xxxx">.4370880882493052</value>
+          <value cfg="1xxxx1x">.04773325472756104</value>
+          <value cfg="1xx1x1x">.034823589977955934</value>
+          <value cfg="111x1xx">.05519892691045638</value>
+          <value cfg="x11x1x1">.009789308013790911</value>
+          <value cfg="x1x1xxx">.34843004244912473</value>
+          <value cfg="x1xxxxx">.4371581598951376</value>
+          <value cfg="1x11x1x">.015572853073383387</value>
+          <value cfg="1x1xx1x">.02166935276343044</value>
+          <value cfg="1xxx1x1">.016123985810001025</value>
+          <value cfg="x11xxxx">.19107662068862313</value>
+          <value cfg="x111xxx">.15229630199454408</value>
+          <value cfg="11x1x1x">.026387741964019395</value>
+          <value cfg="11xxx1x">.03421549474344522</value>
+          <value cfg="1x1x1x1">.01009122930257032</value>
+          <value cfg="1xx1xxx">.102735516347058</value>
+          <value cfg="1xxxxxx">.23802421775886376</value>
+          <value cfg="1111x1x">.01163411847278074</value>
+          <value cfg="111xx1x">.015195816905577279</value>
+          <value cfg="xxxxxx1">.09753208043288936</value>
+          <value cfg="11xx1x1">.008106327546758954</value>
+          <value cfg="1x1xxxx">.11643595800198327</value>
+          <value cfg="1x11xxx">.05032633704843063</value>
+          <value cfg="xx1xxx1">.0350120018920461</value>
+          <value cfg="111x1x1">.004714228471721427</value>
+          <value cfg="xxxx1xx">.43692471889990736</value>
+          <value cfg="11xxxxx">.14124945216012005</value>
+          <value cfg="11x1xxx">.08891008532915562</value>
+          <value cfg="x1xxxx1">.04263353349232175</value>
+          <value cfg="xx1x1xx">.38041353233709896</value>
+          <value cfg="1111xxx">.04377652420063257</value>
+          <value cfg="111xxxx">.06715591090172467</value>
+          <value cfg="x11xxx1">.015304151037785294</value>
+          <value cfg="x1xx1xx">.1910052455340348</value>
+          <value cfg="1xxxxx1">.02623761210931874</value>
+          <value cfg="xxxxx1x">.1624431758161473</value>
+          <value cfg="xxx1x1x">.10691468087801714</value>
+          <value cfg="x11x1xx">.16630256064752758</value>
+          <value cfg="1x1xxx1">.014498186923251685</value>
+          <value cfg="xx1xx1x">.07099856584616086</value>
+          <value cfg="xx11x1x">.0467283847485835</value>
+          <value cfg="1xxx1xx">.10363710867240501</value>
+          <value cfg="xxxx1x1">.05461160087287451</value>
+          <value cfg="11xxxx1">.013889392708267929</value>
+          <value cfg="x1xxx1x">.06605230009492634</value>
+          <value cfg="x1x1x1x">.05086359783987211</value>
+          <value cfg="1x1x1xx">.09253939913659588</value>
+          <value cfg="xx1x1x1">.022396480188037516</value>
+          <value cfg="111xxx1">.007061968312481949</value>
+        </time>
+      </pool>
+      <pool id="Leu">
+        <time timestamp="INF"/>
+      </pool>
+      <pool id="Lys">
+        <time timestamp="INF">
+          <value cfg="xx1xxx">.43712312407222137</value>
+          <value cfg="xxxxxx">1</value>
+          <value cfg="111x1x">.049487725555544475</value>
+          <value cfg="11xx1x">.05594882492369695</value>
+          <value cfg="1xxxx1">.036985433418439885</value>
+          <value cfg="1x1xx1">.02435684083334845</value>
+          <value cfg="x1xxxx">.43712312407222137</value>
+          <value cfg="x11xxx">.19107662068862313</value>
+          <value cfg="xxxx11">.08076314087544582</value>
+          <value cfg="xx1x11">.03663003901395481</value>
+          <value cfg="111xx1">.011128892609029615</value>
+          <value cfg="11xxx1">.017779372735849185</value>
+          <value cfg="1x1xxx">.12884270508105167</value>
+          <value cfg="1xxxxx">.23802421775886376</value>
+          <value cfg="x11x11">.016009842350881313</value>
+          <value cfg="x1xx11">.03529977148646173</value>
+          <value cfg="xxxx1x">.43654979738873967</value>
+          <value cfg="xx1x1x">.3644217873931119</value>
+          <value cfg="11xxxx">.12884270508105167</value>
+          <value cfg="111xxx">.06715591090172467</value>
+          <value cfg="1x1x11">.018239485633294857</value>
+          <value cfg="1xxx11">.02547378789397848</value>
+          <value cfg="x11x1x">.15929943132103583</value>
+          <value cfg="x1xx1x">.19082606379039585</value>
+          <value cfg="xx1xx1">.05053215099348623</value>
+          <value cfg="xxxxx1">.12998762812451833</value>
+          <value cfg="111x11">.008174173472251084</value>
+          <value cfg="11xx11">.01183959031007117</value>
+          <value cfg="1x1x1x">.09072474223287574</value>
+          <value cfg="1xxx1x">.10318631250973151</value>
+          <value cfg="x1xxx1">.0568160496692413</value>
+          <value cfg="x11xx1">.022086596663579695</value>
+        </time>
+      </pool>
+      <pool id="MEETHF">
+        <time timestamp="INF">
+          <value cfg="1">.4392479965666713</value>
+          <value cfg="x">1</value>
+        </time>
+      </pool>
+      <pool id="METHF">
+        <time timestamp="INF"/>
+      </pool>
+      <pool id="Mal">
+        <time timestamp="INF">
+          <value cfg="111x">.08928512274683141</value>
+          <value cfg="x1xx">.43629962069661077</value>
+          <value cfg="xxxx">1</value>
+          <value cfg="1xxx">.4364699973591642</value>
+          <value cfg="xx1x">.2507279926673112</value>
+          <value cfg="11xx">.30820815132049645</value>
+          <value cfg="1x1x">.17701141981631974</value>
+          <value cfg="x11x">.10739902853060447</value>
+          <value cfg="1111">.04649196453037146</value>
+          <value cfg="x111">.05854182927882445</value>
+          <value cfg="1x11">.05865519362672632</value>
+          <value cfg="xxx1">.24428863972836276</value>
+          <value cfg="1xx1">.10434504824008693</value>
+          <value cfg="x1x1">.1732497200565879</value>
+          <value cfg="xx11">.07535483658037223</value>
+          <value cfg="11x1">.08598174552915122</value>
+        </time>
+      </pool>
+      <pool id="Met">
+        <time timestamp="INF"/>
+      </pool>
+      <pool id="OAC">
+        <time timestamp="INF">
+          <value cfg="111x">.0870954284254355</value>
+          <value cfg="x1xx">.4357999543664042</value>
+          <value cfg="xxxx">1</value>
+          <value cfg="1xxx">.43719319571805393</value>
+          <value cfg="xx1x">.2380242177588638</value>
+          <value cfg="11xx">.3324382975051376</value>
+          <value cfg="1x1x">.15365619923918844</value>
+          <value cfg="x11x">.10228472018438446</value>
+          <value cfg="1111">.03453599829474393</value>
+          <value cfg="x111">.04417339206193338</value>
+          <value cfg="1x11">.04407414865354199</value>
+          <value cfg="xxx1">.1948987235077763</value>
+          <value cfg="1xx1">.08157244919636644</value>
+          <value cfg="x1x1">.13306622088058842</value>
+          <value cfg="xx11">.05848107603668219</value>
+          <value cfg="11x1">.06509715666578941</value>
+        </time>
+      </pool>
+      <pool id="PEP">
+        <time timestamp="INF">
+          <value cfg="111">.007389089992050089</value>
+          <value cfg="11x">.3993907714411099</value>
+          <value cfg="x11">.02203161709670295</value>
+          <value cfg="1x1">.01864745351906051</value>
+          <value cfg="1xx">.43919152948398016</value>
+          <value cfg="xxx">1</value>
+          <value cfg="xx1">.05842504921542993</value>
+          <value cfg="x1x">.4344192818481741</value>
+        </time>
+      </pool>
+      <pool id="Phe">
+        <time timestamp="INF">
+          <value cfg="xxxxxxxxx">1</value>
+          <value cfg="1xx111x1x">.006511555216542752</value>
+          <value cfg="1x11xx111">2.7182193788437315e-05</value>
+          <value cfg="x1xx11111">.0009713533773080154</value>
+          <value cfg="x11x1x11x">.0014880372586469723</value>
+          <value cfg="1xxxxx1x1">.0010100996310380857</value>
+          <value cfg="xxx1111x1">.006993667471529376</value>
+          <value cfg="xx111x1xx">.009594824304417295</value>
+          <value cfg="x1x1xxxx1">.00829237731607129</value>
+          <value cfg="111x11x11">1.7887235417053106e-06</value>
+          <value cfg="xxxx1xx1x">.40794020844112455</value>
+          <value cfg="1x1111xx1">7.677311860512904e-06</value>
+          <value cfg="11x11xxxx">.0042475771840870275</value>
+          <value cfg="1xxx1x111">.0003552942794072929</value>
+          <value cfg="1x1xx111x">.0005359783193762016</value>
+          <value cfg="x1x11xx11">.0029280435766897385</value>
+          <value cfg="x111x1x1x">.004557247503475002</value>
+          <value cfg="xx1x1xxx1">.0014035829625613692</value>
+          <value cfg="x1xxx1xxx">.14193188413919713</value>
+          <value cfg="1111x1111">2.4608191081145033e-06</value>
+          <value cfg="xxx1xx11x">.1735030521062352</value>
+          <value cfg="11xxx11x1">8.385037788203644e-05</value>
+          <value cfg="111xxx1xx">.000362242833478026</value>
+          <value cfg="x111111xx">.0013830809512464155</value>
+          <value cfg="1xx1x1x11">.00012915194281489065</value>
+          <value cfg="1x11xxx1x">.0005893905284984693</value>
+          <value cfg="x1xx11x1x">.12085795207546322</value>
+          <value cfg="x11xxx111">.0002486600994666087</value>
+          <value cfg="1xxxxxxxx">.03979752206999603</value>
+          <value cfg="xxx111xxx">.18113206196570927</value>
+          <value cfg="xx11xx1x1">.001546031320840633</value>
+          <value cfg="11xx11111">3.104469325620359e-05</value>
+          <value cfg="111x1x11x">4.568466594405312e-05</value>
+          <value cfg="xxxxxxx11">.02203161709670295</value>
+          <value cfg="1xx1111x1">.0002764714596839828</value>
+          <value cfg="1x111x1xx">.0003743981717189036</value>
+          <value cfg="11x1xxxx1">.00026560083735418984</value>
+          <value cfg="x11x11xx1">.00014703311298552523</value>
+          <value cfg="1xxx1xx1x">.016126563830871177</value>
+          <value cfg="xx111x111">.0002113894951850611</value>
+          <value cfg="x1x1x111x">.05154921590232493</value>
+          <value cfg="xxxx1x1x1">.023833926755125447</value>
+          <value cfg="xx1xx11xx">.012641081294369574</value>
+          <value cfg="11x11xx11">9.358099410849714e-05</value>
+          <value cfg="1111x1x1x">.00014626576601976866</value>
+          <value cfg="1x1x1xxx1">5.4768996113545105e-05</value>
+          <value cfg="11xxx1xxx">.004546009646904076</value>
+          <value cfg="x111x11x1">.0001934943078154343</value>
+          <value cfg="1xx1xx11x">.006904991545409567</value>
+          <value cfg="xx1x1111x">.004168176683784368</value>
+          <value cfg="x1xxx1x11">.0023879045797580854</value>
+          <value cfg="x11xxxx1x">.011286511488247537</value>
+          <value cfg="1111111xx">4.246237173438015e-05</value>
+          <value cfg="xxx1x1xx1">.008189803632017614</value>
+          <value cfg="xx11xxxxx">.029098803443046817</value>
+          <value cfg="11xx11x1x">.0038626499247409875</value>
+          <value cfg="111xxx111">7.980795403212599e-06</value>
+          <value cfg="x11111111">2.3269368667144976e-05</value>
+          <value cfg="1xx111xxx">.007160455622331476</value>
+          <value cfg="1x11xx1x1">7.208372417249697e-05</value>
+          <value cfg="x1xx111x1">.002451352869354914</value>
+          <value cfg="x11x1x1xx">.003425348093013581</value>
+          <value cfg="1xxxxxx11">.0008768037676437376</value>
+          <value cfg="xxx111x11">.003047420126437202</value>
+          <value cfg="xx111xx1x">.004583550807409295</value>
+          <value cfg="111x11xx1">4.514106491907098e-06</value>
+          <value cfg="xxxx1xxxx">.9390471958463765</value>
+          <value cfg="1x111x111">8.248597161016524e-06</value>
+          <value cfg="11x1x111x">.0016510964692928493</value>
+          <value cfg="1xxx1x1x1">.0009421952854944208</value>
+          <value cfg="1x1xx11xx">.0005893905284984695</value>
+          <value cfg="x1x11xxx1">.00776479952979132</value>
+          <value cfg="x111x1xxx">.005011393964027428</value>
+          <value cfg="xx1xx1111">.00021267734236738017</value>
+          <value cfg="x1xxxx11x">.06098797298129103</value>
+          <value cfg="1111x11x1">6.2102383360808955e-06</value>
+          <value cfg="xxx1xx1xx">.39939077144110996</value>
+          <value cfg="1x1x1111x">.00016264578488339544</value>
+          <value cfg="11xxx1x11">7.648342950777996e-05</value>
+          <value cfg="111xxxx1x">.000362242833478026</value>
+          <value cfg="x11111x1x">.0013830809512464157</value>
+          <value cfg="1xx1x1xx1">.0003259338907941546</value>
+          <value cfg="1x11xxxxx">.0013567319709912333</value>
+          <value cfg="x1xx11xxx">.13290189112482</value>
+          <value cfg="x11xxx1x1">.0006594149891713776</value>
+          <value cfg="111111111">7.143996752165583e-07</value>
+          <value cfg="xxx11x11x">.16292755455114794</value>
+          <value cfg="xx11xxx11">.0006410936954294289</value>
+          <value cfg="11xx111x1">7.834584165727989e-05</value>
+          <value cfg="111x1x1xx">.00010516261099114733</value>
+          <value cfg="xxxxxxxx1">.05842504921542994</value>
+          <value cfg="1xx111x11">.00012046965259018778</value>
+          <value cfg="1x111xx1x">.00017885403503268882</value>
+          <value cfg="x11x1x111">7.546595760819686e-05</value>
+          <value cfg="1xxx1xxxx">.03712211797382253</value>
+          <value cfg="xx111x1x1">.0005605780821989838</value>
+          <value cfg="x1x1x11xx">.05668628469844417</value>
+          <value cfg="xxxx1xx11">.020688728254619995</value>
+          <value cfg="xx1xx1x1x">.02646178893474221</value>
+          <value cfg="11x11xxx1">.0002481649060266219</value>
+          <value cfg="1111x1xxx">.00016084168709651857</value>
+          <value cfg="1x1xx1111">9.916082991523194e-06</value>
+          <value cfg="11xxxx11x">.0019534152963555694</value>
+          <value cfg="x1x11111x">.04826955071421194</value>
+          <value cfg="x111x1x11">8.431319481348508e-05</value>
+          <value cfg="1xx1xx1xx">.015894763040980312</value>
+          <value cfg="xx1x111xx">.004583550807409295</value>
+          <value cfg="x1xxx1xx1">.006026227817890781</value>
+          <value cfg="x11xxxxxx">.02598068722969824</value>
+          <value cfg="111111x1x">4.246237173438015e-05</value>
+          <value cfg="xxx1xx111">.008799224548347338</value>
+          <value cfg="11xx11xxx">.0042475771840870275</value>
+          <value cfg="111xxx1x1">2.116405537389046e-05</value>
+          <value cfg="x111111x1">5.8723668422676794e-05</value>
+          <value cfg="1xx11x11x">.00644080076910594</value>
+          <value cfg="1x11xxx11">2.989099928773395e-05</value>
+          <value cfg="x1xx11x11">.0022359812694674438</value>
+          <value cfg="x11x1xx1x">.003425348093013581</value>
+          <value cfg="1xxxxxxx1">.002325172185591677</value>
+          <value cfg="xxx111xx1">.007690612135178609</value>
+          <value cfg="xx111xxxx">.0105509838051139</value>
+          <value cfg="111x1x111">2.3169023782464834e-06</value>
+          <value cfg="xxxxx111x">.17350305210623518</value>
+          <value cfg="1x111x1x1">2.187423160884393e-05</value>
+          <value cfg="11x1x11xx">.0018156342998557461</value>
+          <value cfg="1xxx1xx11">.0008178602890178924</value>
+          <value cfg="1x1xx1x1x">.0012337811459379963</value>
+          <value cfg="x1x1x1111">.0009537070522373409</value>
+          <value cfg="x111xx11x">.0045077285301701325</value>
+          <value cfg="xx1xx11x1">.0005367225004188522</value>
+          <value cfg="x1xxxx1xx">.1403896547175036</value>
+          <value cfg="11x11111x">.001542706733249248</value>
+          <value cfg="1111x1x11">2.7060487751795037e-06</value>
+          <value cfg="xxx1xxx1x">.19079326883223183</value>
+          <value cfg="1x1x111xx">.0001788540350326888</value>
+          <value cfg="11xxx1xx1">.0001930171642596229</value>
+          <value cfg="111xxxxxx">.0008338553296642732</value>
+          <value cfg="x11111xxx">.0015209100505409099</value>
+          <value cfg="1xx1xx111">.000350187333161704</value>
+          <value cfg="xx1x11111">7.711503324955747e-05</value>
+          <value cfg="x1xx1x11x">.05710779501196337</value>
+          <value cfg="x11xxxx11">.0005723965529539117</value>
+          <value cfg="1111111x1">1.8028924741700983e-06</value>
+          <value cfg="xxx11x1xx">.37504678396869534</value>
+          <value cfg="xx11xxxx1">.0017000990232701322</value>
+          <value cfg="11xx11x11">7.146251226264275e-05</value>
+          <value cfg="111x1xx1x">.00010516261099114733</value>
+          <value cfg="1xx111xx1">.00030402285661019807</value>
+          <value cfg="1x111xxxx">.00041170832535742925</value>
+          <value cfg="x11x1x1x1">.0002001261309142975</value>
+          <value cfg="1xxxx111x">.006904991545409567</value>
+          <value cfg="xx111xx11">.00023245523518778337</value>
+          <value cfg="x1x1x1x1x">.05668628469844417</value>
+          <value cfg="xxxx1xxx1">.054863878632936014</value>
+          <value cfg="xx1xx1xxx">.029098803443046817</value>
+          <value cfg="11x1x1111">3.054677591357399e-05</value>
+          <value cfg="1111xx11x">.00014467644471180234</value>
+          <value cfg="1x1xx11x1">2.5024691386154362e-05</value>
+          <value cfg="11xxxx1xx">.004496612783956196</value>
+          <value cfg="x1x1111xx">.05307978882232427</value>
+          <value cfg="x111x1xx1">.0002127767266360963</value>
+          <value cfg="1xx1xxx1x">.007593099327157431</value>
+          <value cfg="xx1x11x1x">.009594824304417295</value>
+          <value cfg="x1xxxx111">.003093011117074376</value>
+          <value cfg="111111xxx">4.6693903117111844e-05</value>
+          <value cfg="xxx1xx1x1">.023334425477635375</value>
+          <value cfg="1x1x11111">3.0090939182059568e-06</value>
+          <value cfg="11xx1x11x">.001825179198530107</value>
+          <value cfg="111xxxx11">1.8371181337208278e-05</value>
+          <value cfg="x11111x11">2.5588246764376985e-05</value>
+          <value cfg="1xx11x1xx">.01482623133509287</value>
+          <value cfg="1x11xxxx1">7.926713217731007e-05</value>
+          <value cfg="x1xx11xx1">.005642827037800871</value>
+          <value cfg="x11x1xxxx">.007884889635747594</value>
+          <value cfg="xxx11x111">.008262887137748167</value>
+          <value cfg="xx11x111x">.010568594296358516</value>
+          <value cfg="111x1x1x1">6.144130722780895e-06</value>
+          <value cfg="xxxxx11xx">.19079326883223183</value>
+          <value cfg="1x111xx11">9.07060017979968e-06</value>
+          <value cfg="11x1x1x1x">.0018156342998557461</value>
+          <value cfg="1xxx1xxx1">.0021688615696015775</value>
+          <value cfg="1x1xx1xxx">.0013567319709912333</value>
+          <value cfg="x1x1x11x1">.0024068197770672753</value>
+          <value cfg="x111xx1xx">.010376446715239372</value>
+          <value cfg="xxxx1111x">.1629275545511479</value>
+          <value cfg="xx1xx1x11">.0004895669949606638</value>
+          <value cfg="x1xxxxx1x">.1403896547175036</value>
+          <value cfg="11x1111xx">.001696443128308175</value>
+          <value cfg="1111x1xx1">6.82911140746171e-06</value>
+          <value cfg="xxx1xxxxx">.4391915294839802</value>
+          <value cfg="1x1x11x1x">.0003743981717189036</value>
+          <value cfg="11xxxx111">9.906765108826237e-05</value>
+          <value cfg="x1x111111">.0008930302841404746</value>
+          <value cfg="x1111x11x">.0013680524173230286</value>
+          <value cfg="1xx1xx1x1">.0009286523129368715</value>
+          <value cfg="xx1x111x1">.00019461110903901157</value>
+          <value cfg="x1xx1x1xx">.13145778145253245</value>
+          <value cfg="x11xxxxx1">.0015179229300458115</value>
+          <value cfg="111111x11">7.855922281055574e-07</value>
+          <value cfg="xxx11xx1x">.17916388408327114</value>
+          <value cfg="11xx11xx1">.0001803461423810859</value>
+          <value cfg="111x1xxxx">.00024207629676046655</value>
+          <value cfg="1xx11x111">.0003266458517619051</value>
+          <value cfg="1x11x111x">.0004927608036656729</value>
+          <value cfg="x11x1xx11">.00017371686930455258</value>
+          <value cfg="1xxxx11xx">.007593099327157431</value>
+          <value cfg="xx111xxx1">.0006164417480849838</value>
+          <value cfg="x1x1x1xxx">.062335281277637045</value>
+          <value cfg="xxxxx1111">.00320996316785793</value>
+          <value cfg="xx1xxx11x">.012503723521572892</value>
+          <value cfg="11x1x11x1">7.708927413502622e-05</value>
+          <value cfg="1111xx1xx">.00033303412338489514</value>
+          <value cfg="1xxx1111x">.00644080076910594</value>
+          <value cfg="1x1xx1x11">2.2826065522084223e-05</value>
+          <value cfg="11xxxxx1x">.004496612783956196</value>
+          <value cfg="x1x111x1x">.05307978882232427</value>
+          <value cfg="x111xx111">.0002286099008544949</value>
+          <value cfg="1xx1xxxxx">.01747873458759401</value>
+          <value cfg="xx1x11xxx">.0105509838051139</value>
+          <value cfg="x1xxxx1x1">.00820227248620736</value>
+          <value cfg="11x111111">2.854146790169666e-05</value>
+          <value cfg="11111x11x">4.200097633051568e-05</value>
+          <value cfg="xxx1xxx11">.009676099609706376</value>
+          <value cfg="1x1x111x1">7.593890321352697e-06</value>
+          <value cfg="11xx1x1xx">.004201423083167823</value>
+          <value cfg="111xxxxx1">4.871803867418372e-05</value>
+          <value cfg="x11111xx1">6.457569777690369e-05</value>
+          <value cfg="1xx11xx1x">.007082650234201347</value>
+          <value cfg="x1xx1x111">.002896227505344254</value>
+          <value cfg="x11xx111x">.0045077285301701325</value>
+          <value cfg="xxx11x1x1">.021912126811459744</value>
+          <value cfg="xx11x11xx">.011621793555131692</value>
+          <value cfg="111x1xx11">5.333332278414432e-06</value>
+          <value cfg="xxxxx1x1x">.39939077144110996</value>
+          <value cfg="1x111xxx1">2.4054079171410042e-05</value>
+          <value cfg="11x1x1xxx">.0019965689298727294</value>
+          <value cfg="1xxxx1111">.00012774858001670034</value>
+          <value cfg="1x1xxx11x">.0005829862211123545</value>
+          <value cfg="xx111111x">.003832084280783134</value>
+          <value cfg="x1x1x1x11">.0010487474646457544</value>
+          <value cfg="x111xxx1x">.004956940243061948</value>
+          <value cfg="xxxx111xx">.17916388408327116</value>
+          <value cfg="xx1xx1xx1">.0012354941938475749</value>
+          <value cfg="x1xxxxxxx">.323166260300961</value>
+          <value cfg="11x111x1x">.001696443128308175</value>
+          <value cfg="1111xx111">7.337280286552136e-06</value>
+          <value cfg="1x1x11xxx">.00041170832535742925</value>
+          <value cfg="11xxxx1x1">.00026271482320537213</value>
+          <value cfg="x1x1111x1">.002253693043736043</value>
+          <value cfg="x1111x1xx">.0031491521543492436</value>
+          <value cfg="1xx1xxx11">.00038508478776876943</value>
+          <value cfg="xx1x11x11">.00017751291545228543</value>
+          <value cfg="x1xx1xx1x">.13145778145253245</value>
+          <value cfg="111111xx1">1.9825573344342428e-06</value>
+          <value cfg="xxx11xxxx">.41242157420141273</value>
+          <value cfg="11xx1x111">9.256414462960264e-05</value>
+          <value cfg="111xx111x">.00014467644471180232</value>
+          <value cfg="1xx11x1x1">.0008662232954321504</value>
+          <value cfg="1x11x11xx">.0005418662285330063</value>
+          <value cfg="x11x1xxx1">.0004606750650267866</value>
+          <value cfg="1xxxx1x1x">.015894763040980312</value>
+          <value cfg="xx11x1111">.00019552853978944544</value>
+          <value cfg="x1x1xx11x">.0560703324999748</value>
+          <value cfg="xxxxx11x1">.008100813366047472</value>
+          <value cfg="xx1xxx1xx">.028782616343311477</value>
+          <value cfg="1x111111x">.00014953117462895407</value>
+          <value cfg="11x1x1x11">3.359087438570206e-05</value>
+          <value cfg="1111xxx1x">.000159093984079825</value>
+          <value cfg="1xxx111xx">.007082650234201347</value>
+          <value cfg="1x1xx1xx1">5.7604927846872785e-05</value>
+          <value cfg="11xxxxxxx">.010350859116625777</value>
+          <value cfg="x1x111xxx">.05836938483442312</value>
+          <value cfg="x111xx1x1">.0006062444100191465</value>
+          <value cfg="xxxx11111">.0030143069115471407</value>
+          <value cfg="xx1x1x11x">.004533746022854465</value>
+          <value cfg="x1xxxxx11">.007119875305524209</value>
+          <value cfg="11x1111x1">7.202858493201015e-05</value>
+          <value cfg="11111x1xx">9.668303891076978e-05</value>
+          <value cfg="xxx1xxxx1">.025659786725101486</value>
+          <value cfg="1x1x11x11">6.926704324458623e-06</value>
+          <value cfg="11xx1xx1x">.004201423083167823</value>
+          <value cfg="x1111x111">6.938091444387973e-05</value>
+          <value cfg="1xx11xxxx">.016303719770607867</value>
+          <value cfg="x1xx1x1x1">.0076804273511154415</value>
+          <value cfg="x11xx11xx">.004956940243061948</value>
+          <value cfg="xxx11xx11">.00908631420522499</value>
+          <value cfg="xx11x1x1x">.011621793555131692</value>
+          <value cfg="111x1xxx1">1.4143319552119278e-05</value>
+          <value cfg="xxxxx1xxx">.4391915294839802</value>
+          <value cfg="1x11x1111">9.11651991783054e-06</value>
+          <value cfg="11x1xx11x">.0017959056486562218</value>
+          <value cfg="x11x1111x">.0013680524173230288</value>
+          <value cfg="1xxxx11x1">.0003223922987201932</value>
+          <value cfg="1x1xxx1xx">.0013419897446359285</value>
+          <value cfg="xx11111xx">.0042139655613870975</value>
+          <value cfg="x1x1x1xx1">.00264666821235836</value>
+          <value cfg="x111xxxxx">.01141049776145608</value>
+          <value cfg="xxxx11x1x">.37504678396869534</value>
+          <value cfg="xx1xxx111">.0006341275823171429</value>
+          <value cfg="11x111xxx">.001865499920080439</value>
+          <value cfg="1111xx1x1">1.945753504918006e-05</value>
+          <value cfg="1xxx11111">.00011916063140884717</value>
+          <value cfg="1x1x1x11x">.00017691061015188115</value>
+          <value cfg="11xxxxx11">.0002280461646794161</value>
+          <value cfg="x1x111x11">.0009820240336349383</value>
+          <value cfg="x1111xx1x">.0015043838679856692</value>
+          <value cfg="1xx1xxxx1">.0010211959285036177</value>
+          <value cfg="xx1x11xx1">.00044797990598176654</value>
+          <value cfg="x1xx1xxxx">.3026057703821624</value>
+          <value cfg="11111x111">2.130083693027712e-06</value>
+          <value cfg="xxx1x111x">.1595129883123249</value>
+          <value cfg="11xx1x1x1">.00024546835040892344</value>
+          <value cfg="111xx11xx">.000159093984079825</value>
+          <value cfg="1xx11xx11">.0003591973112379782</value>
+          <value cfg="1x11x1x1x">.0005418662285330062</value>
+          <value cfg="x11xx1111">8.339704908296823e-05</value>
+          <value cfg="1xxxx1xxx">.01747873458759401</value>
+          <value cfg="xx11x11x1">.0004934449791917951</value>
+          <value cfg="x1x1xx1xx">.12906962200533934</value>
+          <value cfg="111x1111x">4.200097633051568e-05</value>
+          <value cfg="xxxxx1x11">.007389089992050089</value>
+          <value cfg="xx1xxxx1x">.028782616343311477</value>
+          <value cfg="1x11111xx">.00016443250567323113</value>
+          <value cfg="11x1x1xx1">8.477150358784443e-05</value>
+          <value cfg="1111xxxxx">.00036622219760362067</value>
+          <value cfg="1xxx11x1x">.01482623133509287</value>
+          <value cfg="1x1xxx111">2.9566204201520952e-05</value>
+          <value cfg="xx1111111">7.089702024324879e-05</value>
+          <value cfg="x1x11x11x">.05250302474626377</value>
+          <value cfg="x111xxx11">.0002513917175631865</value>
+          <value cfg="xxxx111x1">.007607046075461726</value>
+          <value cfg="xx1x1x1xx">.010436336995831073</value>
+          <value cfg="x1xxxxxx1">.018881004662850087</value>
+          <value cfg="11x111x11">3.1385730061397755e-05</value>
+          <value cfg="11111xx1x">4.618652796573082e-05</value>
+          <value cfg="1x1x11xx1">1.748055539580469e-05</value>
+          <value cfg="11xx1xxxx">.009671354975988809</value>
+          <value cfg="x1111x1x1">.00018398936960473174</value>
+          <value cfg="1xx1x111x">.006348221672810769</value>
+          <value cfg="x1xx1xx11">.0066668944643126175</value>
+          <value cfg="x11xx1x1x">.010376446715239372</value>
+          <value cfg="xxx11xxx1">.024095750770222624</value>
+          <value cfg="xx11x1xxx">.012779947990305438</value>
+          <value cfg="111xx1111">2.676644895544349e-06</value>
+          <value cfg="xxxxxx11x">.18872011244148332</value>
+          <value cfg="1x11x11x1">2.3006876571571998e-05</value>
+          <value cfg="11x1xx1xx">.004134037607667415</value>
+          <value cfg="x11x111xx">.0015043838679856694</value>
+          <value cfg="1xxxx1x11">.0002940674720358002</value>
+          <value cfg="1x1xxxx1x">.0013419897446359285</value>
+          <value cfg="xx1111x1x">.0042139655613870975</value>
+          <value cfg="x1x1xx111">.0028436124908378215</value>
+          <value cfg="xxxx11xxx">.41242157420141273</value>
+          <value cfg="xx1xxx1x1">.001681625776406811</value>
+          <value cfg="1x1111111">2.766461783690001e-06</value>
+          <value cfg="11x11x11x">.0016780096063368833</value>
+          <value cfg="1111xxx11">8.068467229916055e-06</value>
+          <value cfg="1xxx111x1">.00030071934945833273</value>
+          <value cfg="1x1x1x1xx">.0004072347097468614</value>
+          <value cfg="11xxxxxx1">.0006047494533108427</value>
+          <value cfg="x1x111xx1">.002478281837345322</value>
+          <value cfg="x1111xxxx">.003462976738936369</value>
+          <value cfg="xx1x1x111">.0002299293805843054</value>
+          <value cfg="x1xxx111x">.056070332499974805</value>
+          <value cfg="11111x1x1">5.648711306659052e-06</value>
+          <value cfg="xxx1x11xx">.1754090437710078</value>
+          <value cfg="11xx1xx11">.00021307558963727817</value>
+          <value cfg="111xx1x1x">.00033303412338489514</value>
+          <value cfg="1xx11xxx1">.0009525456299923426</value>
+          <value cfg="1x11x1xxx">.0005958651894394548</value>
+          <value cfg="x11xx11x1">.00021046469836943842</value>
+          <value cfg="1xxxxx11x">.007510592839942065</value>
+          <value cfg="xxx11111x">.14979022437576453</value>
+          <value cfg="xx11x1x11">.00021501367730164991</value>
+          <value cfg="x1x1xxx1x">.06165794717910827</value>
+          <value cfg="111x111xx">4.618652796573082e-05</value>
+          <value cfg="xxxxx1xx1">.01864745351906051</value>
+          <value cfg="xx1xxxxxx">.06625538401716424</value>
+          <value cfg="1x1111x1x">.00016443250567323113</value>
+          <value cfg="11x1xx111">9.107953363549838e-05</value>
+          <value cfg="x11x11111">2.531020531337451e-05</value>
+          <value cfg="1xxx11xxx">.016303719770607867</value>
+          <value cfg="1x1xxx1x1">7.840581687695637e-05</value>
+          <value cfg="xx11111x1">.00017891904024017362</value>
+          <value cfg="x1x11x1xx">.12085795207546322</value>
+          <value cfg="x111xxxx1">.0006666588932856246</value>
+          <value cfg="xxxx11x11">.006938704236891161</value>
+          <value cfg="xx1x1xx1x">.010436336995831073</value>
+          <value cfg="11x111xx1">7.920649810888477e-05</value>
+          <value cfg="11111xxxx">.00010631785902604717</value>
+          <value cfg="1x1x1x111">8.972039193629816e-06</value>
+          <value cfg="11xxx111x">.0017959056486562218</value>
+          <value cfg="x1111xx11">7.629497752703515e-05</value>
+          <value cfg="1xx1x11xx">.006980845290753583</value>
+          <value cfg="x1xx1xxx1">.017679757027450928</value>
+          <value cfg="x11xx1xxx">.01141049776145608</value>
+          <value cfg="xxx1x1111">.0029511343521726697</value>
+          <value cfg="xx11xx11x">.011495511345448671</value>
+          <value cfg="111xx11x1">6.754906399894266e-06</value>
+          <value cfg="xxxxxx1xx">.434419281848174</value>
+          <value cfg="1xx11111x">.005921459970487098</value>
+          <value cfg="1x11x1x11">1.0025014628745714e-05</value>
+          <value cfg="11x1xxx1x">.0019748742460829398</value>
+          <value cfg="x11x11x1x">.0031491521543492436</value>
+          <value cfg="1xxxx1xx1">.0007421224429740359</value>
+          <value cfg="1x1xxxxxx">.00308915787284263</value>
+          <value cfg="xx1111xxx">.004633902714928678</value>
+          <value cfg="x1x1xx1x1">.0075408990178788896</value>
+          <value cfg="111x11111">7.770559964125435e-07</value>
+          <value cfg="xxxx1x11x">.17721709238798777</value>
+          <value cfg="xx1xxxx11">.0014597132512611751</value>
+          <value cfg="1x11111x1">6.981572504749491e-06</value>
+          <value cfg="11x11x1xx">.0038626499247409875</value>
+          <value cfg="1111xxxx1">2.1396549918774444e-05</value>
+          <value cfg="1xxx11x11">.00027429867040407483</value>
+          <value cfg="1x1x1xx1x">.0004072347097468614</value>
+          <value cfg="x1x11x111">.0026626961232182815</value>
+          <value cfg="x111x111x">.004144257058417023</value>
+          <value cfg="xx1x1x1x1">.0006097435026102426</value>
+          <value cfg="x1xxx11xx">.06165794717910827</value>
+          <value cfg="11111xx11">2.342354360603115e-06</value>
+          <value cfg="xxx1x1x1x">.1754090437710078</value>
+          <value cfg="11xx1xxx1">.0005650493904520393</value>
+          <value cfg="111xx1xxx">.00036622219760362067</value>
+          <value cfg="1xx1x1111">.00011744783451211527</value>
+          <value cfg="1x11xx11x">.0005359783193762016</value>
+          <value cfg="x1xx1111x">.05250302474626377</value>
+          <value cfg="x11xx1x11">.00019197363599554682</value>
+          <value cfg="1xxxxx1xx">.017288810956984535</value>
+          <value cfg="xxx1111xx">.1647173706792592</value>
+          <value cfg="xx11x1xx1">.0005426185846644935</value>
+          <value cfg="x1x1xxxxx">.14193188413919713</value>
+          <value cfg="111x11x1x">9.668303891076978e-05</value>
+          <value cfg="xxxxxx111">.00957095927710365</value>
+          <value cfg="1x1111xxx">.0001808188091150175</value>
+          <value cfg="11x1xx1x1">.0002415313506864069</value>
+          <value cfg="x11x111x1">6.387401935107331e-05</value>
+          <value cfg="1xxx1x11x">.007005690278085797</value>
+          <value cfg="1x1xxxx11">6.805914340573421e-05</value>
+          <value cfg="xx1111x11">7.796216884064968e-05</value>
+          <value cfg="x1x11xx1x">.05773514409870853</value>
+          <value cfg="xxxx11xx1">.01751083893674942</value>
+          <value cfg="xx1x1xxxx">.024023650495970585</value>
+          <value cfg="11x11x111">8.510042412050191e-05</value>
+          <value cfg="1111x111x">.00013301075545490705</value>
+          <value cfg="1x1x1x1x1">2.37927079591917e-05</value>
+          <value cfg="11xxx11xx">.0019748742460829398</value>
+          <value cfg="x1111xxx1">.00020232458640424643</value>
+          <value cfg="1xx1x1x1x">.006980845290753583</value>
+          <value cfg="x1xxx1111">.0010373517926604732</value>
+          <value cfg="x11xxx11x">.0049030782152956615</value>
+          <value cfg="xxx1x11x1">.007447620846389818</value>
+          <value cfg="xx11xx1xx">.02646178893474221</value>
+          <value cfg="11xx1111x">.0016780096063368833</value>
+          <value cfg="111xx1x11">6.161432071239909e-06</value>
+          <value cfg="xxxxxxx1x">.434419281848174</value>
+          <value cfg="1xx1111xx">.006511555216542752</value>
+          <value cfg="1x11x1xx1">2.529959636688238e-05</value>
+          <value cfg="11x1xxxxx">.004546009646904076</value>
+          <value cfg="x11x11xxx">.003462976738936369</value>
+          <value cfg="1xxxxx111">.00038090046306156575</value>
+          <value cfg="xxx111111">.002771254437973659</value>
+          <value cfg="xx111x11x">.004168176683784368</value>
+          <value cfg="x1x1xxx11">.003126988925168398</value>
+          <value cfg="111x111x1">1.961014900400462e-06</value>
+          <value cfg="xxxx1x1xx">.40794020844112455</value>
+          <value cfg="xx1xxxxx1">.0038709740719900304</value>
+          <value cfg="1x1111x11">3.0421498665422827e-06</value>
+          <value cfg="11x11xx1x">.0018452294299057758</value>
+          <value cfg="1xxx11xx1">.0006922329694459364</value>
+          <value cfg="1x1x1xxxx">.0009374231917477055</value>
+          <value cfg="x1x11x1x1">.00706113179808501</value>
+          <value cfg="x111x11xx">.004557247503475002</value>
+          <value cfg="xx1x1xx11">.0005292798689922419</value>
+          <value cfg="x1xxx1x1x">.12906962200533934</value>
+          <value cfg="11111xxx1">6.211626146075947e-06</value>
+          <value cfg="xxx1x1xxx">.19288919957047782</value>
+          <value cfg="11xxx1111">3.3225876520055215e-05</value>
+          <value cfg="111xxx11x">.00015736527157417178</value>
+          <value cfg="x1111111x">.0012577423083109775</value>
+          <value cfg="1xx1x11x1">.0002963968550031613</value>
+          <value cfg="1x11xx1xx">.0012337811459379963</value>
+          <value cfg="x1xx111xx">.05773514409870853</value>
+          <value cfg="x11xx1xx1">.0004844736575090469</value>
+          <value cfg="1xxxxxx1x">.017288810956984535</value>
+          <value cfg="xxx111x1x">.16471737067925918</value>
+          <value cfg="xx11xx111">.0005829960015040114</value>
+          <value cfg="111x11xxx">.00010631785902604717</value>
+          <value cfg="xxxxxx1x1">.025380967922111298</value>
+          <value cfg="1xx111111">.00010955235757795417</value>
+          <value cfg="1x111x11x">.00016264578488339547</value>
+          <value cfg="11x1xxx11">.00010015594385850838</value>
+          <value cfg="x11x11x11">5.826215909592202e-05</value>
+          <value cfg="1xxx1x1xx">.016126563830871177</value>
+          <value cfg="1x1xxxxx1">.00018048420075506352</value>
+          <value cfg="xx1111xx1">.00019674898008622166</value>
+          <value cfg="x1x11xxxx">.13290189112482</value>
+          <value cfg="xxxx1x111">.008987582470724046</value>
+          <value cfg="xx1xx111x">.01149551134544867</value>
+          <value cfg="11x11x1x1">.00022567551195496892</value>
+          <value cfg="1111x11xx">.00014626576601976866</value>
+          <value cfg="1x1x1xx11">2.06529488181546e-05</value>
+          <value cfg="11xxx1x1x">.004134037607667415</value>
+          <value cfg="x111x1111">7.667249857661627e-05</value>
+          <value cfg="1xx1x1xxx">.0076765121769699594</value>
+          <value cfg="x1xxx11x1">.002617909560901602</value>
+          <value cfg="x11xxx1xx">.011286511488247537</value>
+          <value cfg="11111111x">3.861431349584319e-05</value>
+          <value cfg="xxx1x1x11">.0032452257351032496</value>
+          <value cfg="xx11xxx1x">.012641081294369574</value>
+          <value cfg="11xx111xx">.0018452294299057758</value>
+          <value cfg="111xx1xx1">1.5549278501535415e-05</value>
+        </time>
+      </pool>
+      <pool id="Pro">
+        <time timestamp="INF">
+          <value cfg="xx1xx">.43698463628062295</value>
+          <value cfg="xxxxx">1</value>
+          <value cfg="x1xxx">.4358009115848378</value>
+          <value cfg="x11xx">.19043460209197524</value>
+          <value cfg="1x1xx">.39431416540568964</value>
+          <value cfg="11xxx">.19004588606285783</value>
+          <value cfg="1xxxx">.4356391678932837</value>
+          <value cfg="111xx">.17186072176722944</value>
+          <value cfg="x1111">.03805008288076587</value>
+          <value cfg="xxx11">.15365619923918863</value>
+          <value cfg="x1x11">.08706103778426832</value>
+          <value cfg="xx111">.06714539833679956</value>
+          <value cfg="11111">.03433954285674098</value>
+          <value cfg="1x111">.060588815962410836</value>
+          <value cfg="11x11">.03795697324993759</value>
+          <value cfg="1xx11">.06693865877820457</value>
+          <value cfg="x111x">.1452071259648101</value>
+          <value cfg="xxx1x">.4371931957180543</value>
+          <value cfg="x1x1x">.3321952619733169</value>
+          <value cfg="xx11x">.19104670961521664</value>
+          <value cfg="1111x">.13104900318456625</value>
+          <value cfg="1x11x">.17239147009061043</value>
+          <value cfg="1xx1x">.19045847999121823</value>
+          <value cfg="11x1x">.14480188158327692</value>
+          <value cfg="xx1x1">.10401292622333669</value>
+          <value cfg="x1xx1">.10228742910512399</value>
+          <value cfg="xxxx1">.238024217758864</value>
+          <value cfg="x11x1">.044696700443998254</value>
+          <value cfg="111x1">.040337198788896904</value>
+          <value cfg="1xxx1">.10369267216292105</value>
+          <value cfg="11xx1">.04460657459970792</value>
+          <value cfg="1x1x1">.09385632077192833</value>
+        </time>
+      </pool>
+      <pool id="Pyr">
+        <time timestamp="INF">
+          <value cfg="111">.008162921362120218</value>
+          <value cfg="11x">.39640527728108604</value>
+          <value cfg="x11">.028460060870303196</value>
+          <value cfg="1x1">.019491852790605984</value>
+          <value cfg="1xx">.4370530524263889</value>
+          <value cfg="xxx">1</value>
+          <value cfg="xx1">.06507653274126038</value>
+          <value cfg="x1x">.437299640411075</value>
+        </time>
+      </pool>
+      <pool id="R5P">
+        <time timestamp="INF">
+          <value cfg="xx1xx">.03997576223360001</value>
+          <value cfg="xxxxx">1</value>
+          <value cfg="x1xxx">.32766939031225406</value>
+          <value cfg="x11xx">.010472290446424596</value>
+          <value cfg="1x1xx">.012888897642961866</value>
+          <value cfg="11xxx">.3034830832312428</value>
+          <value cfg="1xxxx">.3445345170078903</value>
+          <value cfg="111xx">.004179377641105172</value>
+          <value cfg="x1111">.0002388078524033671</value>
+          <value cfg="xxx11">.020671453054334845</value>
+          <value cfg="x1x11">.007457623527743521</value>
+          <value cfg="xx111">.0009034113079697251</value>
+          <value cfg="11111">9.520777612825671e-05</value>
+          <value cfg="1x111">.0003198864154794021</value>
+          <value cfg="11x11">.0068850264987602</value>
+          <value cfg="1xx11">.00868121840861838</value>
+          <value cfg="x111x">.0008296512771119964</value>
+          <value cfg="xxx1x">.06332782516222135</value>
+          <value cfg="x1x1x">.02584945244777797</value>
+          <value cfg="xx11x">.0030151436971894803</value>
+          <value cfg="1111x">.00033167258913486327</value>
+          <value cfg="1x11x">.0010413038542898662</value>
+          <value cfg="1xx1x">.027752967225739913</value>
+          <value cfg="11x1x">.024055416799470257</value>
+          <value cfg="xx1x1">.037657185216208144</value>
+          <value cfg="x1xx1">.3076172226782441</value>
+          <value cfg="xxxx1">.9522993513763428</value>
+          <value cfg="x11x1">.009828055418070882</value>
+          <value cfg="111x1">.003921413549531189</value>
+          <value cfg="1xxx1">.3234855540285484</value>
+          <value cfg="11xx1">.2847761700463903</value>
+          <value cfg="1x1x1">.012094879050119888</value>
+        </time>
+      </pool>
+      <pool id="Ru5P">
+        <time timestamp="INF">
+          <value cfg="xx1xx">.06330041140852949</value>
+          <value cfg="xxxxx">1</value>
+          <value cfg="x1xxx">.33958315111917137</value>
+          <value cfg="x11xx">.02747103699255985</value>
+          <value cfg="1x1xx">.020640062971489428</value>
+          <value cfg="11xxx">.3188355325142736</value>
+          <value cfg="1xxxx">.9524234449797805</value>
+          <value cfg="111xx">.008566053856045022</value>
+          <value cfg="x1111">.00032795944807079456</value>
+          <value cfg="xxx11">.01047342753323669</value>
+          <value cfg="x1x11">.0041338683006773205</value>
+          <value cfg="xx111">.0008296119102309578</value>
+          <value cfg="11111">9.411970211413576e-05</value>
+          <value cfg="1x111">.00023877724658705372</value>
+          <value cfg="11x11">.003879045336894551</value>
+          <value cfg="1xx11">.009829522765965664</value>
+          <value cfg="x111x">.024068212867104963</value>
+          <value cfg="xxx1x">.3277115577640762</value>
+          <value cfg="x1x1x">.30368218465511126</value>
+          <value cfg="xx11x">.025848223561130212</value>
+          <value cfg="1111x">.0068850186468891305</value>
+          <value cfg="1x11x">.0074536225943973205</value>
+          <value cfg="1xx1x">.30766415007601494</value>
+          <value cfg="11x1x">.28496823476490657</value>
+          <value cfg="xx1x1">.0030144506261082157</value>
+          <value cfg="x1xx1">.012684141551145155</value>
+          <value cfg="xxxx1">.039977431280128255</value>
+          <value cfg="x11x1">.0010257927652642838</value>
+          <value cfg="111x1">.000315215971970613</value>
+          <value cfg="1xxx1">.03766219560278554</value>
+          <value cfg="11xx1">.011904566122279638</value>
+          <value cfg="1x1x1">.000903092819614517</value>
+        </time>
+      </pool>
+      <pool id="S7P">
+        <time timestamp="INF">
+          <value cfg="xxxxxxx">1</value>
+          <value cfg="x111x1x">.000768511656433858</value>
+          <value cfg="11xx1xx">.06613392466047667</value>
+          <value cfg="x1x11x1">.006885816290229985</value>
+          <value cfg="1x1x111">.00010281574630625426</value>
+          <value cfg="xx1xxxx">.8199609263390598</value>
+          <value cfg="1xx1x1x">.0006057836399412387</value>
+          <value cfg="111x1xx">.009254541016949731</value>
+          <value cfg="xxxxx11">.01035791497381068</value>
+          <value cfg="x1111x1">.006147813469999288</value>
+          <value cfg="11xx111">.0007135885852791349</value>
+          <value cfg="x1xxxxx">.9398172221399739</value>
+          <value cfg="1x11x1x">6.966553247060352e-05</value>
+          <value cfg="xx1xx11">.00848779534010392</value>
+          <value cfg="1xx11x1">.0026612724545025165</value>
+          <value cfg="111x111">9.608771382147425e-05</value>
+          <value cfg="xxxx11x">.03348457646278411</value>
+          <value cfg="x11xxxx">.7700360632555743</value>
+          <value cfg="11x1x1x">.00018319270649405173</value>
+          <value cfg="x1xxx11">.009680460171015285</value>
+          <value cfg="1x111x1">.0002758726099637495</value>
+          <value cfg="xx1x11x">.030940777743052927</value>
+          <value cfg="1xxxxxx">.19741886139261303</value>
+          <value cfg="1111x1x">2.112525484021785e-05</value>
+          <value cfg="xxx1xx1">.025973061735680706</value>
+          <value cfg="x11xx11">.007930772355891933</value>
+          <value cfg="11x11x1">.0007847945094362486</value>
+          <value cfg="x1xx11x">.031237771953967933</value>
+          <value cfg="1x1xxxx">.022583073339814057</value>
+          <value cfg="xx11xx1">.021302613069720148</value>
+          <value cfg="1xxxx11">.0020501394676428982</value>
+          <value cfg="11111x1">8.317925336906279e-05</value>
+          <value cfg="xxx11xx">.05611131534937935</value>
+          <value cfg="x11x11x">.028861067261384467</value>
+          <value cfg="11xxxxx">.18611514317519734</value>
+          <value cfg="x1x1xx1">.007860063022689654</value>
+          <value cfg="1x1xx11">.0002339135936511879</value>
+          <value cfg="xx111xx">.05153625006262226</value>
+          <value cfg="1xxx11x">.0027576287231335403</value>
+          <value cfg="111xxxx">.021223965635300948</value>
+          <value cfg="xxx1111">.0007051640935376184</value>
+          <value cfg="x111xx1">.006463558619375948</value>
+          <value cfg="11xxx11">.001917934055444374</value>
+          <value cfg="x1x11xx">.020265206534122403</value>
+          <value cfg="1x1x11x">.0003911372167983983</value>
+          <value cfg="xx11111">.0006485362338131264</value>
+          <value cfg="1xx1xx1">.005121853376614853</value>
+          <value cfg="111xx11">.00021861459381663188</value>
+          <value cfg="xxxxx1x">.03980787884646458</value>
+          <value cfg="x1111xx">.018680978923904204</value>
+          <value cfg="11xx11x">.002576233924260271</value>
+          <value cfg="x1x1111">.00020465322768087744</value>
+          <value cfg="1x11xx1">.0005865515146449186</value>
+          <value cfg="xx1xx1x">.03263314009245084</value>
+          <value cfg="1xx11xx">.004937485710227491</value>
+          <value cfg="111x11x">.00036493794695781215</value>
+          <value cfg="xxxx1x1">.28345618712192616</value>
+          <value cfg="x111111">.00018827195903657322</value>
+          <value cfg="11x1xx1">.0015331054566633281</value>
+          <value cfg="x1xxx1x">.03715320845148466</value>
+          <value cfg="1x111xx">.0006594327665983954</value>
+          <value cfg="xx1x1x1">.2520581674824706</value>
+          <value cfg="1xx1111">6.117109346644921e-05</value>
+          <value cfg="1111xx1">.0001775042384256662</value>
+          <value cfg="xxx1xxx">.06608527604572804</value>
+          <value cfg="x11xx1x">.030440868745673443</value>
+          <value cfg="11x11xx">.001714226098277545</value>
+          <value cfg="x1xx1x1">.26545707081919345</value>
+          <value cfg="1x11111">8.276157206194948e-06</value>
+          <value cfg="xx11xxx">.05431488473309465</value>
+          <value cfg="1xxxx1x">.00786659339663055</value>
+          <value cfg="11111xx">.00023729119729472682</value>
+          <value cfg="xxx1x11">.0008336110500829177</value>
+          <value cfg="x11x1x1">.23602417062430786</value>
+          <value cfg="11x1111">1.7699109774644308e-05</value>
+          <value cfg="x1x1xxx">.02382886858554461</value>
+          <value cfg="1x1xx1x">.0008989843064254818</value>
+          <value cfg="xx11x11">.0006837116404896357</value>
+          <value cfg="1xxx1x1">.033337565806841336</value>
+          <value cfg="1111111">2.4012312421121853e-06</value>
+          <value cfg="xxx111x">.00260150850989803</value>
+          <value cfg="x111xxx">.019684781321206577</value>
+          <value cfg="11xxx1x">.007358061061098584</value>
+          <value cfg="x1x1x11">.0002418863813849312</value>
+          <value cfg="1x1x1x1">.00343709725387727</value>
+          <value cfg="xx1111x">.0024018474614699538</value>
+          <value cfg="1xx1xxx">.01291890393421498</value>
+          <value cfg="111xx1x">.0008390338081839469</value>
+          <value cfg="xxxxxx1">.32342791799916276</value>
+          <value cfg="x111x11">.00019847977276626498</value>
+          <value cfg="11xx1x1">.031249663025388008</value>
+          <value cfg="x1x111x">.000789669529621132</value>
+          <value cfg="1x11xxx">.0014924076676542757</value>
+          <value cfg="xx1xxx1">.26500207412989035</value>
+          <value cfg="1xx1x11">.00016438734178982195</value>
+          <value cfg="111x1x1">.0032192114070019257</value>
+          <value cfg="xxxx1xx">.8425746029398025</value>
+          <value cfg="x11111x">.0007288706842712025</value>
+          <value cfg="11x1xxx">.004558187352231536</value>
+          <value cfg="x1xxxx1">.3028969645224942</value>
+          <value cfg="1x11x11">1.8825498090873722e-05</value>
+          <value cfg="xx1x1xx">.7775392025500242</value>
+          <value cfg="1xx111x">.0002163006730954471</value>
+          <value cfg="1111xxx">.0005381279785013561</value>
+          <value cfg="xxxx111">.008756998509123067</value>
+          <value cfg="x11xxx1">.2481453491833494</value>
+          <value cfg="11x1x11">4.761050300643197e-05</value>
+          <value cfg="x1xx1xx">.7912144931948414</value>
+          <value cfg="1x1111x">3.0414408824372868e-05</value>
+          <value cfg="xx1x111">.008050699739417464</value>
+          <value cfg="1xxxxx1">.06404700695664574</value>
+          <value cfg="1111x11">5.462536810039472e-06</value>
+          <value cfg="xxx1x1x">.0030848572244520363</value>
+          <value cfg="x11x1xx">.7301458095054312</value>
+          <value cfg="11x111x">6.585221991647403e-05</value>
+          <value cfg="x1xx111">.008183079670875452</value>
+          <value cfg="1x1xxx1">.007303997881233673</value>
+          <value cfg="xx11x1x">.0025326868520552694</value>
+          <value cfg="1xxx1xx">.07042947502185148</value>
+          <value cfg="111111x">9.234546342812576e-06</value>
+          <value cfg="xxx11x1">.02276830638032347</value>
+          <value cfg="x11x111">.007522261343233329</value>
+          <value cfg="11xxxx1">.06001596096817397</value>
+          <value cfg="x1x1x1x">.000935446906097828</value>
+          <value cfg="1x1x1xx">.009855313844556651</value>
+          <value cfg="xx111x1">.02026261176247681</value>
+          <value cfg="1xxx111">.0007627586989601102</value>
+          <value cfg="111xxx1">.0068403460212054686</value>
+        </time>
+      </pool>
+      <pool id="Ser">
+        <time timestamp="INF">
+          <value cfg="111">.006817173711278075</value>
+          <value cfg="11x">.39075177026717783</value>
+          <value cfg="x11">.018516544341442755</value>
+          <value cfg="1x1">.018316119065486167</value>
+          <value cfg="1xx">.44020881873133694</value>
+          <value cfg="xxx">1</value>
+          <value cfg="xx1">.054727549493961504</value>
+          <value cfg="x1x">.4330170466902392</value>
+        </time>
+      </pool>
+      <pool id="Suc">
+        <time timestamp="INF">
+          <value cfg="111x">.09010293106484667</value>
+          <value cfg="x1xx">.4363579121792406</value>
+          <value cfg="xxxx">1</value>
+          <value cfg="1xxx">.4363579231698078</value>
+          <value cfg="xx1x">.25412391778808174</value>
+          <value cfg="11xx">.3034553467799502</value>
+          <value cfg="1x1x">.18183926562625352</value>
+          <value cfg="x11x">.10883384242221174</value>
+          <value cfg="1111">.04921761720580219</value>
+          <value cfg="x111">.06185744446300522</value>
+          <value cfg="1x11">.06185559727279606</value>
+          <value cfg="xxx1">.25412390361636034</value>
+          <value cfg="1xx1">.10883384079969617</value>
+          <value cfg="x1x1">.1818434866377921</value>
+          <value cfg="xx11">.07912579912051927</value>
+          <value cfg="11x1">.09010476972699823</value>
+        </time>
+      </pool>
+      <pool id="SucCoA">
+        <time timestamp="INF">
+          <value cfg="111x">.09417036153268689</value>
+          <value cfg="x1xx">.436330212706991</value>
+          <value cfg="xxxx">1</value>
+          <value cfg="1xxx">.4363221677254259</value>
+          <value cfg="xx1x">.2632192340012774</value>
+          <value cfg="11xx">.2978144651355682</value>
+          <value cfg="1x1x">.19240957608082865</value>
+          <value cfg="x11x">.11289258793647661</value>
+          <value cfg="1111">.05328783463019719</value>
+          <value cfg="x111">.06600230284558029</value>
+          <value cfg="1x11">.06735442697018325</value>
+          <value cfg="xxx1">.2632296075547263</value>
+          <value cfg="1xx1">.11289377560109201</value>
+          <value cfg="x1x1">.18931983929938923</value>
+          <value cfg="xx11">.08469264165411496</value>
+          <value cfg="11x1">.09282447985802939</value>
+        </time>
+      </pool>
+      <pool id="TA_C3">
+        <time timestamp="INF">
+          <value cfg="111">.009983179641428233</value>
+          <value cfg="11x">.022582722302461476</value>
+          <value cfg="x11">.8240137998346322</value>
+          <value cfg="1x1">.05463805522452663</value>
+          <value cfg="1xx">.151152935746483</value>
+          <value cfg="xxx">1</value>
+          <value cfg="xx1">.8732988451080065</value>
+          <value cfg="x1x">.866213996531485</value>
+        </time>
+      </pool>
+      <pool id="TK_C2">
+        <time timestamp="INF">
+          <value cfg="11">.022588763656674882</value>
+          <value cfg="x1">.07019847728865836</value>
+          <value cfg="xx">1</value>
+          <value cfg="1x">.9473896973979413</value>
+        </time>
+      </pool>
+      <pool id="Thr">
+        <time timestamp="INF">
+          <value cfg="111x">.0870954284254355</value>
+          <value cfg="x1xx">.43719319571805393</value>
+          <value cfg="xxxx">1</value>
+          <value cfg="1xxx">.2380242177588638</value>
+          <value cfg="xx1x">.4357999543664042</value>
+          <value cfg="11xx">.1536561992391884</value>
+          <value cfg="1x1x">.10228472018438448</value>
+          <value cfg="x11x">.3324382975051376</value>
+          <value cfg="1111">.03453599829474393</value>
+          <value cfg="x111">.06509715666578941</value>
+          <value cfg="1x11">.04417339206193339</value>
+          <value cfg="xxx1">.1948987235077763</value>
+          <value cfg="1xx1">.058481076036682185</value>
+          <value cfg="x1x1">.08157244919636646</value>
+          <value cfg="xx11">.13306622088058845</value>
+          <value cfg="11x1">.04407414865354199</value>
+        </time>
+      </pool>
+      <pool id="Trp">
+        <time timestamp="INF">
+          <value cfg="xxxx1xx11x1">.002994044949014199</value>
+          <value cfg="xxxxx1xx1xx">.41236185269801434</value>
+          <value cfg="xxxxxxxxxxx">1</value>
+          <value cfg="xxxx1xxxxxx">.44020881873133694</value>
+          <value cfg="xxxxx1x1xx1">.02288934928375159</value>
+          <value cfg="xxxxxxx11x1">.008132309430076182</value>
+          <value cfg="xxxx11xx1xx">.37211265737459115</value>
+          <value cfg="xxxx11x1xx1">.007660566765536486</value>
+          <value cfg="xxxx11x11xx">.16342872713269496</value>
+          <value cfg="xxxx1xx1xxx">.19333598439095204</value>
+          <value cfg="xxxxxxx1xxx">.43919152948398016</value>
+          <value cfg="xxxxx11xxx1">.001131297970143212</value>
+          <value cfg="xxxxxx1x1x1">.001172612482663406</value>
+          <value cfg="xxxxx1x11xx">.18110583278728867</value>
+          <value cfg="xxxx111xxx1">.0003786207953998047</value>
+          <value cfg="xxxx1x1x1x1">.0004317167848883096</value>
+          <value cfg="xxxx1x111x1">.00018960635505900313</value>
+          <value cfg="xxxx1111xx1">.00016628704622608136</value>
+          <value cfg="xxxx111x1xx">.0080774068749762</value>
+          <value cfg="xxxxxx111x1">.0005150014697529484</value>
+          <value cfg="xxxx1x1xxxx">.027877467107486096</value>
+          <value cfg="xxxxxx1xxxx">.06332782516222135</value>
+          <value cfg="xxxxx11x1xx">.008951091552384</value>
+          <value cfg="xxxxx111xx1">.0004968564858093194</value>
+          <value cfg="xxxx11111xx">.0035475286796852142</value>
+          <value cfg="xxxxx1111xx">.003931243589442663</value>
+          <value cfg="xxxxxx11xxx">.02781304439189008</value>
+          <value cfg="xxxxxxxxxx1">.054727549493961504</value>
+          <value cfg="xxxx1xxxxx1">.018316119065486167</value>
+          <value cfg="xxxxx1xx1x1">.017633293166087225</value>
+          <value cfg="xxxx1x11xxx">.012243547417076167</value>
+          <value cfg="xxxx11xx1x1">.0064919901034699665</value>
+          <value cfg="xxxx11x11x1">.0028512270629378372</value>
+          <value cfg="xxxxx1x11x1">.007744392995453264</value>
+          <value cfg="xxxx1xxx1xx">.39075177026717783</value>
+          <value cfg="xxxx11xxxxx">.4192105725479982</value>
+          <value cfg="xxxxx1xxxxx">.9522993513763428</value>
+          <value cfg="xxxxxxxx1xx">.4330170466902392</value>
+          <value cfg="xxxxxxx1xx1">.024035876167163177</value>
+          <value cfg="xxxx1xx1xx1">.008044284346581559</value>
+          <value cfg="xxxx111x1x1">.00014092088633593038</value>
+          <value cfg="xxxxx11x1x1">.00038276387708264343</value>
+          <value cfg="xxxx1x1xxx1">.0011599199858295373</value>
+          <value cfg="xxxxxxx11xx">.1901774190285222</value>
+          <value cfg="xxxxx1x1xxx">.41824180865757826</value>
+          <value cfg="xxxxxx1xxx1">.00346577668591041</value>
+          <value cfg="xxxx11x1xxx">.18411373253321037</value>
+          <value cfg="xxxx1xx11xx">.17161486763221467</value>
+          <value cfg="xxxx11111x1">6.189125960611538e-05</value>
+          <value cfg="xxxxx1111x1">.00016810665260714436</value>
+          <value cfg="xxxxxx1x1xx">.02742202782506091</value>
+          <value cfg="xxxxx11xxxx">.020671453054334845</value>
+          <value cfg="xxxxxx11xx1">.0015221397635349129</value>
+          <value cfg="xxxx111xxxx">.009099755930509029</value>
+          <value cfg="xxxx1x1x1xx">.02474545978930832</value>
+          <value cfg="xxxx1x11xx1">.000509427032655511</value>
+          <value cfg="xxxx1x111xx">.010867996332650651</value>
+          <value cfg="xxxx1111xxx">.0039965357250511795</value>
+          <value cfg="xxxx11xxxx1">.017442428305794344</value>
+          <value cfg="xxxxx1xxxx1">.052117009885516236</value>
+          <value cfg="xxxxxxxx1x1">.018516544341442755</value>
+          <value cfg="xxxx1xxx1x1">.006817173711278076</value>
+          <value cfg="xxxxx111xxx">.009078727083589614</value>
+          <value cfg="xxxxxx111xx">.012043522342040763</value>
+        </time>
+      </pool>
+      <pool id="Tyr">
+        <time timestamp="INF">
+          <value cfg="xxxxxxxxx">1</value>
+          <value cfg="1xx111x1x">.010568594296358518</value>
+          <value cfg="1x11xx111">8.068467229916055e-06</value>
+          <value cfg="x1xx11111">.0001191606314088472</value>
+          <value cfg="x11x1x11x">.0038626499247409875</value>
+          <value cfg="1xxxxx1x1">.0010211959285036177</value>
+          <value cfg="xxx1111x1">2.5024691386154362e-05</value>
+          <value cfg="xx111x1xx">.00036622219760362067</value>
+          <value cfg="x1x1xxxx1">.0014035829625613694</value>
+          <value cfg="111x11x11">.0008930302841404746</value>
+          <value cfg="xxxx1xx1x">.3993907714411099</value>
+          <value cfg="1x1111xx1">.00019349430781543428</value>
+          <value cfg="11x11xxxx">.004633902714928679</value>
+          <value cfg="1xxx1x111">.00012915194281489068</value>
+          <value cfg="1x1xx111x">.0017959056486562218</value>
+          <value cfg="x1x11xx11">.00017751291545228543</value>
+          <value cfg="x111x1x1x">.0014880372586469721</value>
+          <value cfg="xx1x1xxx1">.006026227817890781</value>
+          <value cfg="x1xxx1xxx">.40794020844112455</value>
+          <value cfg="1111x1111">2.130083693027712e-06</value>
+          <value cfg="xxx1xx11x">.0013419897446359285</value>
+          <value cfg="11xxx11x1">.0008662232954321504</value>
+          <value cfg="111xxx1xx">.004247577184087027</value>
+          <value cfg="x111111xx">4.618652796573082e-05</value>
+          <value cfg="1xx1x1x11">.0005829960015040114</value>
+          <value cfg="1x11xxx1x">.004956940243061948</value>
+          <value cfg="x1xx11x1x">.1629275545511479</value>
+          <value cfg="x11xxx111">.00021307558963727823</value>
+          <value cfg="1xxxxxxxx">.43919152948398016</value>
+          <value cfg="xxx111xxx">.012641081294369574</value>
+          <value cfg="xx11xx1x1">4.871803867418371e-05</value>
+          <value cfg="11xx11111">.00010955235757795417</value>
+          <value cfg="111x1x11x">.001696443128308175</value>
+          <value cfg="xxxxxxx11">.02203161709670295</value>
+          <value cfg="1xx1111x1">2.3006876571571994e-05</value>
+          <value cfg="1x111x1xx">.00016084168709651857</value>
+          <value cfg="11x1xxxx1">.0006164417480849837</value>
+          <value cfg="x11x11xx1">.0024513528693549135</value>
+          <value cfg="1xxx1xx1x">.17540904377100783</value>
+          <value cfg="xx111x111">6.161432071239909e-06</value>
+          <value cfg="x1x1x111x">.00017691061015188118</value>
+          <value cfg="xxxx1x1x1">.0007421224429740358</value>
+          <value cfg="xx1xx11xx">.004496612783956195</value>
+          <value cfg="11x11xx11">7.79621688406497e-05</value>
+          <value cfg="1111x1x1x">.0013680524173230288</value>
+          <value cfg="1x1x1xxx1">.0026466682123583605</value>
+          <value cfg="11xxx1xxx">.37504678396869534</value>
+          <value cfg="x111x11x1">6.144130722780895e-06</value>
+          <value cfg="1xx1xx11x">.0005893905284984693</value>
+          <value cfg="xx1x1111x">.0017959056486562216</value>
+          <value cfg="x1xxx1x11">.008987582470724046</value>
+          <value cfg="x11xxxx1x">.13145778145253245</value>
+          <value cfg="1111111xx">4.246237173438014e-05</value>
+          <value cfg="xxx1x1xx1">.0016816257764068114</value>
+          <value cfg="xx11xxxxx">.02598068722969824</value>
+          <value cfg="11xx11x1x">.14979022437576453</value>
+          <value cfg="111xxx111">9.358099410849712e-05</value>
+          <value cfg="x11111111">7.770559964125435e-07</value>
+          <value cfg="1xx111xxx">.011621793555131694</value>
+          <value cfg="1x11xx1x1">2.139654991877444e-05</value>
+          <value cfg="x1xx111x1">.0003007193494583328</value>
+          <value cfg="x11x1x1xx">.004247577184087027</value>
+          <value cfg="1xxxxxx11">.009676099609706376</value>
+          <value cfg="xxx111x11">.00021267734236738022</value>
+          <value cfg="xx111xx1x">.01037644671523937</value>
+          <value cfg="111x11xx1">.002253693043736043</value>
+          <value cfg="xxxx1xxxx">.43919152948398016</value>
+          <value cfg="1x111x111">2.7060487751795037e-06</value>
+          <value cfg="11x1x111x">.0001626457848833955</value>
+          <value cfg="1xxx1x1x1">.0003259338907941546</value>
+          <value cfg="1x1xx11xx">.004134037607667414</value>
+          <value cfg="x1x11xxx1">.0004479799059817666</value>
+          <value cfg="x111x1xxx">.0034253480930135807</value>
+          <value cfg="xx1xx1111">9.906765108826236e-05</value>
+          <value cfg="x1xxxx11x">.01612656383087118</value>
+          <value cfg="1111x11x1">5.648711306659052e-06</value>
+          <value cfg="xxx1xx1xx">.00308915787284263</value>
+          <value cfg="1x1x1111x">.001651096469292849</value>
+          <value cfg="11xxx1x11">.008262887137748167</value>
+          <value cfg="111xxxx1x">.05773514409870853</value>
+          <value cfg="x11111x1x">.0013680524173230288</value>
+          <value cfg="1xx1x1xx1">.001546031320840633</value>
+          <value cfg="1x11xxxxx">.011410497761456079</value>
+          <value cfg="x1xx11xxx">.17916388408327116</value>
+          <value cfg="x11xxx1x1">.0005650493904520394</value>
+          <value cfg="111111111">7.143996752165585e-07</value>
+          <value cfg="xxx11x11x">.001233781145937996</value>
+          <value cfg="xx11xxx11">.0005723965529539118</value>
+          <value cfg="11xx111x1">.0002764714596839828</value>
+          <value cfg="111x1x1xx">.001865499920080439</value>
+          <value cfg="xxxxxxxx1">.05842504921542993</value>
+          <value cfg="1xx111x11">.0001955285397894455</value>
+          <value cfg="1x111xx1x">.004557247503475001</value>
+          <value cfg="x11x1x111">7.146251226264275e-05</value>
+          <value cfg="1xxx1xxxx">.19288919957047782</value>
+          <value cfg="xx111x1x1">1.5549278501535415e-05</value>
+          <value cfg="x1x1x11xx">.0004072347097468615</value>
+          <value cfg="xxxx1xx11">.007389089992050089</value>
+          <value cfg="xx1xx1x1x">.06098797298129102</value>
+          <value cfg="11x11xxx1">.0001967489800862217</value>
+          <value cfg="1111x1xxx">.0031491521543492436</value>
+          <value cfg="1x1xx1111">9.107953363549838e-05</value>
+          <value cfg="11xxxx11x">.007082650234201348</value>
+          <value cfg="x1x11111x">.0001626457848833955</value>
+          <value cfg="x111x1x11">7.546595760819686e-05</value>
+          <value cfg="1xx1xx1xx">.0013567319709912333</value>
+          <value cfg="xx1x111xx">.0019748742460829393</value>
+          <value cfg="x1xxx1xx1">.023833926755125447</value>
+          <value cfg="x11xxxxxx">.3026057703821624</value>
+          <value cfg="111111x1x">.0012577423083109775</value>
+          <value cfg="xxx1xx111">6.805914340573421e-05</value>
+          <value cfg="11xx11xxx">.1647173706792592</value>
+          <value cfg="111xxx1x1">.00024816490602662183</value>
+          <value cfg="x111111x1">1.961014900400462e-06</value>
+          <value cfg="1xx11x11x">.0005418662285330062</value>
+          <value cfg="1x11xxx11">.0002513917175631865</value>
+          <value cfg="x1xx11x11">.003014306911547141</value>
+          <value cfg="x11x1xx1x">.12085795207546321</value>
+          <value cfg="1xxxxxxx1">.02565978672510149</value>
+          <value cfg="xxx111xx1">.0005367225004188523</value>
+          <value cfg="xx111xxxx">.011410497761456079</value>
+          <value cfg="111x1x111">3.138573006139775e-05</value>
+          <value cfg="xxxxx111x">.007510592839942065</value>
+          <value cfg="1x111x1x1">6.82911140746171e-06</value>
+          <value cfg="11x1x11xx">.00037439817171890365</value>
+          <value cfg="1xxx1xx11">.0032452257351032496</value>
+          <value cfg="1x1xx1x1x">.056070332499974805</value>
+          <value cfg="x1x1x1111">8.972039193629817e-06</value>
+          <value cfg="x111xx11x">.00010516261099114733</value>
+          <value cfg="xx1xx11x1">.0002627148232053721</value>
+          <value cfg="x1xxxx1xx">.03712211797382253</value>
+          <value cfg="11x11111x">.00014953117462895407</value>
+          <value cfg="1111x1x11">6.938091444387973e-05</value>
+          <value cfg="xxx1xxx1x">.028782616343311484</value>
+          <value cfg="1x1x111xx">.001815634299855746</value>
+          <value cfg="11xxx1xx1">.021912126811459744</value>
+          <value cfg="111xxxxxx">.13290189112482</value>
+          <value cfg="x11111xxx">.0015043838679856692</value>
+          <value cfg="1xx1xx111">2.9890999287733948e-05</value>
+          <value cfg="xx1x11111">3.3225876520055215e-05</value>
+          <value cfg="x1xx1x11x">.014826231335092872</value>
+          <value cfg="x11xxxx11">.006666894464312617</value>
+          <value cfg="1111111x1">1.8028924741700983e-06</value>
+          <value cfg="xxx11x1xx">.0013567319709912333</value>
+          <value cfg="xx11xxxx1">.0015179229300458113</value>
+          <value cfg="11xx11x11">.0027712544379736585</value>
+          <value cfg="111x1xx1x">.05307978882232426</value>
+          <value cfg="1xx111xx1">.0004934449791917952</value>
+          <value cfg="1x111xxxx">.005011393964027428</value>
+          <value cfg="x11x1x1x1">.0001803461423810859</value>
+          <value cfg="1xxxx111x">.0069049915454095665</value>
+          <value cfg="xx111xx11">.0001919736359955468</value>
+          <value cfg="x1x1x1x1x">.004533746022854466</value>
+          <value cfg="xxxx1xxx1">.01864745351906051</value>
+          <value cfg="xx1xx1xxx">.1403896547175036</value>
+          <value cfg="11x1x1111">8.248597161016526e-06</value>
+          <value cfg="1111xx11x">4.618652796573082e-05</value>
+          <value cfg="1x1xx11x1">.00024153135068640688</value>
+          <value cfg="11xxxx1xx">.01630371977060787</value>
+          <value cfg="x1x1111xx">.00017885403503268885</value>
+          <value cfg="x111x1xx1">.0002001261309142975</value>
+          <value cfg="1xx1xxx1x">.012641081294369574</value>
+          <value cfg="xx1x11x1x">.056070332499974805</value>
+          <value cfg="x1xxxx111">.0008178602890178924</value>
+          <value cfg="111111xxx">.0013830809512464155</value>
+          <value cfg="xxx1xx1x1">.0001804842007550635</value>
+          <value cfg="1x1x11111">3.054677591357399e-05</value>
+          <value cfg="11xx1x11x">.006511555216542752</value>
+          <value cfg="111xxxx11">.002928043576689739</value>
+          <value cfg="x11111x11">2.531020531337451e-05</value>
+          <value cfg="1xx11x1xx">.0005958651894394548</value>
+          <value cfg="1x11xxxx1">.0006666588932856245</value>
+          <value cfg="x1xx11xx1">.007607046075461726</value>
+          <value cfg="x11x1xxxx">.13290189112482</value>
+          <value cfg="xxx11x111">2.2826065522084223e-05</value>
+          <value cfg="xx11x111x">.00015736527157417178</value>
+          <value cfg="111x1x1x1">7.920649810888477e-05</value>
+          <value cfg="xxxxx11xx">.017288810956984535</value>
+          <value cfg="1x111xx11">8.431319481348506e-05</value>
+          <value cfg="11x1x1x1x">.004168176683784368</value>
+          <value cfg="1xxx1xxx1">.008189803632017614</value>
+          <value cfg="1x1xx1xxx">.12906962200533936</value>
+          <value cfg="x1x1x11x1">2.3792707959191706e-05</value>
+          <value cfg="x111xx1xx">.00024207629676046652</value>
+          <value cfg="xxxx1111x">.006904991545409567</value>
+          <value cfg="xx1xx1x11">.0030930111170743755</value>
+          <value cfg="x1xxxxx1x">.40794020844112455</value>
+          <value cfg="11x1111xx">.00016443250567323113</value>
+          <value cfg="1111x1xx1">.00018398936960473177</value>
+          <value cfg="xxx1xxxxx">.06625538401716424</value>
+          <value cfg="1x1x11x1x">.05154921590232494</value>
+          <value cfg="11xxxx111">.00035919731123797827</value>
+          <value cfg="x1x111111">3.009093918205957e-06</value>
+          <value cfg="x1111x11x">9.668303891076978e-05</value>
+          <value cfg="1xx1xx1x1">7.926713217731006e-05</value>
+          <value cfg="xx1x111x1">8.385037788203643e-05</value>
+          <value cfg="x1xx1x1xx">.01630371977060787</value>
+          <value cfg="x11xxxxx1">.017679757027450924</value>
+          <value cfg="111111x11">2.3269368667144973e-05</value>
+          <value cfg="xxx11xx1x">.02646178893474221</value>
+          <value cfg="11xx11xx1">.006993667471529376</value>
+          <value cfg="111x1xxxx">.05836938483442311</value>
+          <value cfg="1xx11x111">1.0025014628745714e-05</value>
+          <value cfg="1x11x111x">.00014467644471180234</value>
+          <value cfg="x11x1xx11">.0022359812694674438</value>
+          <value cfg="1xxxx11xx">.015894763040980312</value>
+          <value cfg="xx111xxx1">.0004844736575090469</value>
+          <value cfg="x1x1x1xxx">.010436336995831073</value>
+          <value cfg="xxxxx1111">.0003809004630615658</value>
+          <value cfg="xx1xxx11x">.004496612783956195</value>
+          <value cfg="11x1x11x1">2.187423160884393e-05</value>
+          <value cfg="1111xx1xx">.00010631785902604716</value>
+          <value cfg="1xxx1111x">.006348221672810768</value>
+          <value cfg="1x1xx1x11">.002843612490837822</value>
+          <value cfg="11xxxxx1x">.1791638840832712</value>
+          <value cfg="x1x111x1x">.004168176683784368</value>
+          <value cfg="x111xx111">5.333332278414431e-06</value>
+          <value cfg="1xx1xxxxx">.029098803443046817</value>
+          <value cfg="xx1x11xxx">.06165794717910826</value>
+          <value cfg="x1xxxx1x1">.0021688615696015775</value>
+          <value cfg="11x111111">2.7664617836900016e-06</value>
+          <value cfg="11111x11x">4.246237173438014e-05</value>
+          <value cfg="xxx1xxx11">.0014597132512611753</value>
+          <value cfg="1x1x111x1">7.708927413502621e-05</value>
+          <value cfg="11xx1x1xx">.007160455622331476</value>
+          <value cfg="111xxxxx1">.0077647995297913195</value>
+          <value cfg="x11111xx1">6.387401935107331e-05</value>
+          <value cfg="1xx11xx1x">.011621793555131692</value>
+          <value cfg="x1xx1x111">.00027429867040407483</value>
+          <value cfg="x11xx111x">.0018251791985301072</value>
+          <value cfg="xxx11x1x1">5.760492784687278e-05</value>
+          <value cfg="xx11x11xx">.000362242833478026</value>
+          <value cfg="111x1xx11">.0009820240336349381</value>
+          <value cfg="xxxxx1x1x">.1887201124414833</value>
+          <value cfg="1x111xxx1">.00021277672663609626</value>
+          <value cfg="11x1x1xxx">.009594824304417295</value>
+          <value cfg="1xxxx1111">.000350187333161704</value>
+          <value cfg="1x1xxx11x">.0019748742460829398</value>
+          <value cfg="xx111111x">.00014467644471180232</value>
+          <value cfg="x1x1x1x11">.0002299293805843054</value>
+          <value cfg="x111xxx1x">.0034253480930135807</value>
+          <value cfg="xxxx111xx">.007593099327157432</value>
+          <value cfg="xx1xx1xx1">.00820227248620736</value>
+          <value cfg="x1xxxxxxx">.9390471958463765</value>
+          <value cfg="11x111x1x">.0038320842807831345</value>
+          <value cfg="1111xx111">2.342354360603115e-06</value>
+          <value cfg="1x1x11xxx">.056686284698444174</value>
+          <value cfg="11xxxx1x1">.0009525456299923428</value>
+          <value cfg="x1x1111x1">7.593890321352699e-06</value>
+          <value cfg="x1111x1xx">.00010631785902604716</value>
+          <value cfg="1xx1xxx11">.0006410936954294289</value>
+          <value cfg="xx1x11x11">.0010373517926604732</value>
+          <value cfg="x1xx1xx1x">.37504678396869534</value>
+          <value cfg="111111xx1">5.8723668422676794e-05</value>
+          <value cfg="xxx11xxxx">.029098803443046817</value>
+          <value cfg="11xx1x111">.00012046965259018778</value>
+          <value cfg="111xx111x">.0016780096063368835</value>
+          <value cfg="1xx11x1x1">2.5299596366882377e-05</value>
+          <value cfg="1x11x11xx">.00033303412338489514</value>
+          <value cfg="x11x1xxx1">.005642827037800871</value>
+          <value cfg="1xxxx1x1x">.1735030521062352</value>
+          <value cfg="xx11x1111">7.980795403212599e-06</value>
+          <value cfg="x1x1xx11x">.0004072347097468615</value>
+          <value cfg="xxxxx11x1">.0010100996310380857</value>
+          <value cfg="xx1xxx1xx">.010350859116625777</value>
+          <value cfg="1x111111x">.00013301075545490705</value>
+          <value cfg="11x1x1x11">.0002113894951850611</value>
+          <value cfg="1111xxx1x">.001504383867985669</value>
+          <value cfg="1xxx111xx">.006980845290753582</value>
+          <value cfg="1x1xx1xx1">.00754089901787889</value>
+          <value cfg="11xxxxxxx">.4124215742014128</value>
+          <value cfg="x1x111xxx">.004583550807409296</value>
+          <value cfg="x111xx1x1">1.4143319552119278e-05</value>
+          <value cfg="xxxx11111">.00012774858001670034</value>
+          <value cfg="xx1x1x11x">.004134037607667414</value>
+          <value cfg="x1xxxxx11">.020688728254619995</value>
+          <value cfg="11x1111x1">6.981572504749491e-06</value>
+          <value cfg="11111x1xx">4.669390311711184e-05</value>
+          <value cfg="xxx1xxxx1">.003870974071990031</value>
+          <value cfg="1x1x11x11">.000953707052237341</value>
+          <value cfg="11xx1xx1x">.1647173706792592</value>
+          <value cfg="x1111x111">1.7887235417053106e-06</value>
+          <value cfg="1xx11xxxx">.01277994799030544</value>
+          <value cfg="x1xx1x1x1">.0006922329694459364</value>
+          <value cfg="x11xx11xx">.0042014230831678235</value>
+          <value cfg="xxx11xx11">.0004895669949606638</value>
+          <value cfg="xx11x1x1x">.004903078215295661</value>
+          <value cfg="111x1xxx1">.002478281837345322</value>
+          <value cfg="xxxxx1xxx">.4344192818481741</value>
+          <value cfg="1x11x1111">7.337280286552135e-06</value>
+          <value cfg="11x1xx11x">.00017885403503268882</value>
+          <value cfg="x11x1111x">.0016780096063368835</value>
+          <value cfg="1xxxx11x1">.0009286523129368714</value>
+          <value cfg="1x1xxx1xx">.004546009646904075</value>
+          <value cfg="xx11111xx">.00015909398407982497</value>
+          <value cfg="x1x1x1xx1">.0006097435026102426</value>
+          <value cfg="x111xxxxx">.007884889635747594</value>
+          <value cfg="xxxx11x1x">.1735030521062352</value>
+          <value cfg="xx1xxx111">.00022804616467941605</value>
+          <value cfg="11x111xxx">.004213965561387098</value>
+          <value cfg="1111xx1x1">6.211626146075947e-06</value>
+          <value cfg="1xxx11111">.00011744783451211527</value>
+          <value cfg="1x1x1x11x">.0018156342998557461</value>
+          <value cfg="11xxxxx11">.00908631420522499</value>
+          <value cfg="x1x111x11">7.711503324955748e-05</value>
+          <value cfg="x1111xx1x">.0031491521543492436</value>
+          <value cfg="1xx1xxxx1">.0017000990232701322</value>
+          <value cfg="xx1x11xx1">.002617909560901602</value>
+          <value cfg="x1xx1xxxx">.4124215742014128</value>
+          <value cfg="11111x111">7.855922281055573e-07</value>
+          <value cfg="xxx1x111x">.0005829862211123545</value>
+          <value cfg="11xx1x1x1">.0003040228566101981</value>
+          <value cfg="111xx11xx">.0038626499247409875</value>
+          <value cfg="1xx11xx11">.00021501367730164991</value>
+          <value cfg="1x11x1x1x">.0045077285301701325</value>
+          <value cfg="x11xx1111">9.256414462960265e-05</value>
+          <value cfg="1xxxx1xxx">.3993907714411099</value>
+          <value cfg="xx11x11x1">2.116405537389046e-05</value>
+          <value cfg="x1x1xx1xx">.0009374231917477057</value>
+          <value cfg="111x1111x">.0015427067332492482</value>
+          <value cfg="xxxxx1x11">.00957095927710365</value>
+          <value cfg="xx1xxxx1x">.1403896547175036</value>
+          <value cfg="1x11111xx">.00014626576601976864</value>
+          <value cfg="11x1x1xx1">.0005605780821989838</value>
+          <value cfg="1111xxxxx">.0034629767389363687</value>
+          <value cfg="1xxx11x1x">.1595129883123249</value>
+          <value cfg="1x1xxx111">.00010015594385850837</value>
+          <value cfg="xx1111111">2.6766448955443494e-06</value>
+          <value cfg="x1x11x11x">.00037439817171890365</value>
+          <value cfg="x111xxx11">.00017371686930455258</value>
+          <value cfg="xxxx111x1">.0003223922987201932</value>
+          <value cfg="xx1x1x1xx">.004546009646904075</value>
+          <value cfg="x1xxxxxx1">.05486387863293602</value>
+          <value cfg="11x111x11">7.08970202432488e-05</value>
+          <value cfg="11111xx1x">.0013830809512464153</value>
+          <value cfg="1x1x11xx1">.0024068197770672753</value>
+          <value cfg="11xx1xxxx">.18113206196570927</value>
+          <value cfg="x1111x1x1">4.514106491907098e-06</value>
+          <value cfg="1xx1x111x">.0005359783193762015</value>
+          <value cfg="x1xx1xx11">.006938704236891161</value>
+          <value cfg="x11xx1x1x">.057107795011963364</value>
+          <value cfg="xxx11xxx1">.001235494193847575</value>
+          <value cfg="xx11x1xxx">.011286511488247535</value>
+          <value cfg="111xx1111">8.510042412050191e-05</value>
+          <value cfg="xxxxxx11x">.017288810956984535</value>
+          <value cfg="1x11x11x1">1.945753504918006e-05</value>
+          <value cfg="11x1xx1xx">.00041170832535742925</value>
+          <value cfg="x11x111xx">.001845229429905776</value>
+          <value cfg="1xxxx1x11">.008799224548347338</value>
+          <value cfg="1x1xxxx1x">.06165794717910827</value>
+          <value cfg="xx1111x1x">.0045077285301701325</value>
+          <value cfg="x1x1xx111">2.06529488181546e-05</value>
+          <value cfg="xxxx11xxx">.19079326883223183</value>
+          <value cfg="xx1xxx1x1">.0006047494533108426</value>
+          <value cfg="1x1111111">2.460819108114503e-06</value>
+          <value cfg="11x11x11x">.00016443250567323113</value>
+          <value cfg="1111xxx11">7.629497752703513e-05</value>
+          <value cfg="1xxx111x1">.00029639685500316125</value>
+          <value cfg="1x1x1x1xx">.001996568929872729</value>
+          <value cfg="11xxxxxx1">.024095750770222628</value>
+          <value cfg="x1x111xx1">.00019461110903901157</value>
+          <value cfg="x1111xxxx">.0034629767389363687</value>
+          <value cfg="xx1x1x111">7.648342950777996e-05</value>
+          <value cfg="x1xxx111x">.007005690278085797</value>
+          <value cfg="11111x1x1">1.9825573344342423e-06</value>
+          <value cfg="xxx1x11xx">.0013419897446359285</value>
+          <value cfg="11xx1xx11">.0030474201264372026</value>
+          <value cfg="111xx1x1x">.05250302474626377</value>
+          <value cfg="1xx11xxx1">.0005426185846644935</value>
+          <value cfg="1x11x1xxx">.01037644671523937</value>
+          <value cfg="x11xx11x1">.0002454683504089235</value>
+          <value cfg="1xxxxx11x">.007593099327157432</value>
+          <value cfg="xxx11111x">.0005359783193762016</value>
+          <value cfg="xx11x1x11">.00024866009946660866</value>
+          <value cfg="x1x1xxx1x">.010436336995831073</value>
+          <value cfg="111x111xx">.0016964431283081752</value>
+          <value cfg="xxxxx1xx1">.025380967922111298</value>
+          <value cfg="xx1xxxxxx">.323166260300961</value>
+          <value cfg="1x1111x1x">.004144257058417023</value>
+          <value cfg="11x1xx111">9.07060017979968e-06</value>
+          <value cfg="x11x11111">3.10446932562036e-05</value>
+          <value cfg="1xxx11xxx">.17540904377100783</value>
+          <value cfg="1x1xxx1x1">.0002656008373541898</value>
+          <value cfg="xx11111x1">6.754906399894267e-06</value>
+          <value cfg="x1x11x1xx">.00041170832535742925</value>
+          <value cfg="x111xxxx1">.00046067506502678654</value>
+          <value cfg="xxxx11x11">.00320996316785793</value>
+          <value cfg="xx1x1xx1x">.12906962200533936</value>
+          <value cfg="11x111xx1">.00017891904024017362</value>
+          <value cfg="11111xxxx">.0015209100505409097</value>
+          <value cfg="1x1x1x111">3.359087438570206e-05</value>
+          <value cfg="11xxx111x">.00644080076910594</value>
+          <value cfg="x1111xx11">5.8262159095922016e-05</value>
+          <value cfg="1xx1x11xx">.001233781145937996</value>
+          <value cfg="x1xx1xxx1">.01751083893674942</value>
+          <value cfg="x11xx1xxx">.13145778145253245</value>
+          <value cfg="xxx1x1111">2.956620420152095e-05</value>
+          <value cfg="xx11xx11x">.000362242833478026</value>
+          <value cfg="111xx11x1">.00022567551195496892</value>
+          <value cfg="xxxxxx1xx">.03979752206999603</value>
+          <value cfg="1xx11111x">.0004927608036656728</value>
+          <value cfg="1x11x1x11">.0002286099008544949</value>
+          <value cfg="11x1xxx1x">.004583550807409296</value>
+          <value cfg="x11x11x1x">.05250302474626376</value>
+          <value cfg="1xxxx1xx1">.02333442547763537</value>
+          <value cfg="1x1xxxxxx">.14193188413919713</value>
+          <value cfg="xx1111xxx">.004956940243061948</value>
+          <value cfg="x1x1xx1x1">5.476899611354511e-05</value>
+          <value cfg="111x11111">2.8541467901696663e-05</value>
+          <value cfg="xxxx1x11x">.015894763040980312</value>
+          <value cfg="xx1xxxx11">.007119875305524209</value>
+          <value cfg="1x11111x1">6.2102383360808955e-06</value>
+          <value cfg="11x11x1xx">.0001808188091150175</value>
+          <value cfg="1111xxxx1">.00020232458640424638</value>
+          <value cfg="1xxx11x11">.00295113435217267</value>
+          <value cfg="1x1x1xx1x">.05668628469844418</value>
+          <value cfg="x1x11x111">6.926704324458624e-06</value>
+          <value cfg="x111x111x">4.568466594405312e-05</value>
+          <value cfg="xx1x1x1x1">.0001930171642596229</value>
+          <value cfg="x1xxx11xx">.01612656383087118</value>
+          <value cfg="11111xx11">2.5588246764376974e-05</value>
+          <value cfg="xxx1x1x1x">.012503723521572892</value>
+          <value cfg="11xx1xxx1">.007690612135178611</value>
+          <value cfg="111xx1xxx">.12085795207546321</value>
+          <value cfg="1xx1x1111">2.7182193788437315e-05</value>
+          <value cfg="1x11xx11x">.00015909398407982497</value>
+          <value cfg="x1xx1111x">.006440800769105941</value>
+          <value cfg="x11xx1x11">.0028962275053442538</value>
+          <value cfg="1xxxxx1xx">.01747873458759401</value>
+          <value cfg="xxx1111xx">.0005893905284984695</value>
+          <value cfg="xx11x1xx1">.0006594149891713776</value>
+          <value cfg="x1x1xxxxx">.024023650495970588</value>
+          <value cfg="111x11x1x">.04826955071421194</value>
+          <value cfg="xxxxxx111">.0008768037676437375</value>
+          <value cfg="1x1111xxx">.004557247503475001</value>
+          <value cfg="11x1xx1x1">2.4054079171410042e-05</value>
+          <value cfg="x11x111x1">7.83458416572799e-05</value>
+          <value cfg="1xxx1x11x">.006980845290753583</value>
+          <value cfg="1x1xxxx11">.003126988925168398</value>
+          <value cfg="xx1111x11">8.339704908296823e-05</value>
+          <value cfg="x1x11xx1x">.009594824304417295</value>
+          <value cfg="xxxx11xx1">.008100813366047474</value>
+          <value cfg="xx1x1xxxx">.14193188413919713</value>
+          <value cfg="11x11x111">3.0421498665422827e-06</value>
+          <value cfg="1111x111x">4.200097633051568e-05</value>
+          <value cfg="1x1x1x1x1">8.477150358784442e-05</value>
+          <value cfg="11xxx11xx">.014826231335092872</value>
+          <value cfg="x1111xxx1">.00014703311298552523</value>
+          <value cfg="1xx1x1x1x">.011495511345448671</value>
+          <value cfg="x1xxx1111">.00035529427940729296</value>
+          <value cfg="x11xxx11x">.0042014230831678235</value>
+          <value cfg="xxx1x11x1">7.840581687695636e-05</value>
+          <value cfg="xx11xx1xx">.0008338553296642732</value>
+          <value cfg="11xx1111x">.005921459970487099</value>
+          <value cfg="111xx1x11">.002662696123218281</value>
+          <value cfg="xxxxxxx1x">.4344192818481741</value>
+          <value cfg="1xx1111xx">.0005418662285330063</value>
+          <value cfg="1x11x1xx1">.0006062444100191465</value>
+          <value cfg="11x1xxxxx">.0105509838051139</value>
+          <value cfg="x11x11xxx">.05773514409870852</value>
+          <value cfg="1xxxxx111">.0003850847877687695</value>
+          <value cfg="xxx111111">9.916082991523194e-06</value>
+          <value cfg="xx111x11x">.00033303412338489514</value>
+          <value cfg="x1x1xxx11">.0005292798689922419</value>
+          <value cfg="111x111x1">7.202858493201015e-05</value>
+          <value cfg="xxxx1x1xx">.01747873458759401</value>
+          <value cfg="xx1xxxxx1">.018881004662850087</value>
+          <value cfg="1x1111x11">7.667249857661626e-05</value>
+          <value cfg="11x11xx1x">.004213965561387098</value>
+          <value cfg="1xxx11xx1">.007447620846389817</value>
+          <value cfg="1x1x1xxxx">.06233528127763706</value>
+          <value cfg="x1x11x1x1">1.748055539580469e-05</value>
+          <value cfg="x111x11xx">.00010516261099114733</value>
+          <value cfg="xx1x1xx11">.002387904579758085</value>
+          <value cfg="x1xxx1x1x">.17721709238798777</value>
+          <value cfg="11111xxx1">6.457569777690368e-05</value>
+          <value cfg="xxx1x1xxx">.028782616343311484</value>
+          <value cfg="11xxx1111">.0003266458517619051</value>
+          <value cfg="111xxx11x">.0018452294299057758</value>
+          <value cfg="x1111111x">4.200097633051568e-05</value>
+          <value cfg="1xx1x11x1">7.208372417249696e-05</value>
+          <value cfg="1x11xx1xx">.00036622219760362067</value>
+          <value cfg="x1xx111xx">.007082650234201348</value>
+          <value cfg="x11xx1xx1">.00768042735111544</value>
+          <value cfg="1xxxxxx1x">.19079326883223185</value>
+          <value cfg="xxx111x1x">.011495511345448671</value>
+          <value cfg="xx11xx111">1.8371181337208274e-05</value>
+          <value cfg="111x11xxx">.05307978882232426</value>
+          <value cfg="xxxxxx1x1">.002325172185591677</value>
+          <value cfg="1xx111111">9.116519917830538e-06</value>
+          <value cfg="1x111x11x">.00014626576601976864</value>
+          <value cfg="11x1xxx11">.0002324552351877834</value>
+          <value cfg="x11x11x11">.0009713533773080152</value>
+          <value cfg="1xxx1x1xx">.00767651217696996</value>
+          <value cfg="1x1xxxxx1">.008292377316071292</value>
+          <value cfg="xx1111xx1">.0002104646983694384</value>
+          <value cfg="x1x11xxxx">.0105509838051139</value>
+          <value cfg="xxxx1x111">.0002940674720358002</value>
+          <value cfg="xx1xx111x">.0019534152963555686</value>
+          <value cfg="11x11x1x1">7.677311860512904e-06</value>
+          <value cfg="1111x11xx">9.668303891076978e-05</value>
+          <value cfg="1x1x1xx11">.0010487474646457544</value>
+          <value cfg="11xxx1x1x">.1629275545511479</value>
+          <value cfg="x111x1111">2.3169023782464834e-06</value>
+          <value cfg="1xx1x1xxx">.02646178893474221</value>
+          <value cfg="x1xxx11x1">.0009421952854944209</value>
+          <value cfg="x11xxx1xx">.009671354975988809</value>
+          <value cfg="11111111x">3.86143134958432e-05</value>
+          <value cfg="xxx1x1x11">.000634127582317143</value>
+          <value cfg="xx11xxx1x">.011286511488247535</value>
+          <value cfg="11xx111xx">.006511555216542752</value>
+          <value cfg="111xx1xx1">.00706113179808501</value>
+        </time>
+      </pool>
+      <pool id="Val">
+        <time timestamp="INF">
+          <value cfg="xx111">.008162921362120218</value>
+          <value cfg="xx11x">.39640527728108604</value>
+          <value cfg="xxx11">.028460060870303196</value>
+          <value cfg="xx1x1">.019491852790605984</value>
+          <value cfg="xx1xx">.4370530524263889</value>
+          <value cfg="xxxxx">1</value>
+          <value cfg="xxxx1">.06507653274126038</value>
+          <value cfg="xxx1x">.437299640411075</value>
+        </time>
+      </pool>
+      <pool id="X5P">
+        <time timestamp="INF">
+          <value cfg="xx1xx">.06658358026834531</value>
+          <value cfg="xxxxx">1</value>
+          <value cfg="x1xxx">.3879325966972309</value>
+          <value cfg="x11xx">.029136037141377514</value>
+          <value cfg="1x1xx">.021567556781766445</value>
+          <value cfg="11xxx">.36601302342434505</value>
+          <value cfg="1xxxx">.9500276077123407</value>
+          <value cfg="111xx">.00923209016510032</value>
+          <value cfg="x1111">.0003545358112686574</value>
+          <value cfg="xxx11">.012089191401551609</value>
+          <value cfg="x1x11">.004768530509757954</value>
+          <value cfg="xx111">.0008981091375071629</value>
+          <value cfg="11111">.000108103383531715</value>
+          <value cfg="1x111">.0002742304110918619</value>
+          <value cfg="11x11">.004498089411534335</value>
+          <value cfg="1xx11">.011404494444741014</value>
+          <value cfg="x111x">.026094555362390755</value>
+          <value cfg="xxx1x">.3772462805758303</value>
+          <value cfg="x1x1x">.3511947138653017</value>
+          <value cfg="xx11x">.027972168963741058</value>
+          <value cfg="1111x">.007946267424610982</value>
+          <value cfg="1x11x">.008548265771285505</value>
+          <value cfg="1xx1x">.3559285578588449</value>
+          <value cfg="11x1x">.33128387004261667</value>
+          <value cfg="xx1x1">.0032342775250923175</value>
+          <value cfg="x1xx1">.014524780832845103</value>
+          <value cfg="xxxx1">.04451985380509593</value>
+          <value cfg="x11x1">.0010905655110025685</value>
+          <value cfg="111x1">.0003431353067697218</value>
+          <value cfg="1xxx1">.04206654755915917</value>
+          <value cfg="11xx1">.013701798999454787</value>
+          <value cfg="1x1x1">.0010056757441381685</value>
+        </time>
+      </pool>
+      <pool id="_3PG">
+        <time timestamp="INF">
+          <value cfg="111">.006348873277152706</value>
+          <value cfg="11x">.40161927080428605</value>
+          <value cfg="x11">.017612927637568422</value>
+          <value cfg="1x1">.01751289959235875</value>
+          <value cfg="1xx">.4402609329472843</value>
+          <value cfg="xxx">1</value>
+          <value cfg="xx1">.05360559363045602</value>
+          <value cfg="x1x">.4329939080634639</value>
+        </time>
+      </pool>
+      <pool id="_6PG">
+        <time timestamp="INF">
+          <value cfg="xxx1xx">.049332934103514456</value>
+          <value cfg="xx1xxx">.020695138485213385</value>
+          <value cfg="xxxxxx">1</value>
+          <value cfg="xx11xx">.0020804711724066527</value>
+          <value cfg="11111x">3.358966746727142e-05</value>
+          <value cfg="11x11x">.002379659723786054</value>
+          <value cfg="111x1x">.0012056473732500932</value>
+          <value cfg="11xx1x">.088548702820083</value>
+          <value cfg="x11xxx">.0036151950269905303</value>
+          <value cfg="x1xxxx">.11746548534570007</value>
+          <value cfg="x1x1xx">.016830060504803884</value>
+          <value cfg="x111xx">.0005387764857860287</value>
+          <value cfg="xxxx11">.9394008790893416</value>
+          <value cfg="xxx111">.010310617615160516</value>
+          <value cfg="1x1xxx">.004650845520529984</value>
+          <value cfg="1xxxxx">.12902376453507775</value>
+          <value cfg="1xx1xx">.020100777734212694</value>
+          <value cfg="1x11xx">.0007342076626816975</value>
+          <value cfg="xx111x">.0004672536075383833</value>
+          <value cfg="xxxx1x">.9627273960811156</value>
+          <value cfg="xx1x1x">.01896963449277186</value>
+          <value cfg="xxx11x">.016668945583213798</value>
+          <value cfg="1111xx">.00021115939346208444</value>
+          <value cfg="11xxxx">.10218897611382428</value>
+          <value cfg="111xxx">.0013908038696108906</value>
+          <value cfg="11x1xx">.015479418963093206</value>
+          <value cfg="x1111x">8.823412769935507e-05</value>
+          <value cfg="x1x11x">.0028022191534949324</value>
+          <value cfg="x11x1x">.003144820056650574</value>
+          <value cfg="x1xx1x">.10281607842370438</value>
+          <value cfg="xxx1x1">.02177544692187514</value>
+          <value cfg="xxxxx1">.9552791938679017</value>
+          <value cfg="1x111x">.00019168983956957463</value>
+          <value cfg="1xx11x">.005615235311648227</value>
+          <value cfg="1x1x1x">.004071004905712464</value>
+          <value cfg="1xxx1x">.11357404616364666</value>
+        </time>
+      </pool>
+    </solution>
+  </simulation>
+
+  <measurements residual="164.08741732271812">
+    <fluxmeasurement id="fp_14" norm=".005879056598424053" scale="1" type="NETFLUX">
+      <spec>AC1_v35</spec>
+      <value>65.35505527300641</value>
+    </fluxmeasurement>
+    <labelingmeasurement id="ms_group_0" norm="11.39163138357587" type="MS">
+      <spec>G6P#M0,1,2,3,4,5,6</spec>
+      <time scale="1.0041657131502026" timestamp="INF">
+        <value>8.729445862350836e-05</value>
+        <value>.02101140632732387</value>
+        <value>.8242747311625451</value>
+        <value>.06319975995407924</value>
+        <value>.09330435845766215</value>
+        <value>.0022742610201851115</value>
+        <value>1.3901769783611164e-05</value>
+      </time>
+    </labelingmeasurement>
+    <labelingmeasurement id="ms_group_1" norm="6.602738869533434" type="MS">
+      <spec>FBP#M0,1,2,3,4,5,6</spec>
+      <time scale="1.0129824256396172" timestamp="INF">
+        <value>.0863690590028372</value>
+        <value>.04822988407731801</value>
+        <value>.5545002409252482</value>
+        <value>.08346603161414805</value>
+        <value>.23458190340340132</value>
+        <value>.005799421105756207</value>
+        <value>3.588551090826899e-05</value>
+      </time>
+    </labelingmeasurement>
+    <labelingmeasurement id="ms_group_10" norm="4.652434802723179" type="MS">
+      <spec>Val[3-5]#M0,1,2,3</spec>
+      <time scale=".9992657599962357" timestamp="INF">
+        <value>.4964002992333734</value>
+        <value>.07514839028383422</value>
+        <value>.4195601426603196</value>
+        <value>.008156927818708566</value>
+      </time>
+    </labelingmeasurement>
+    <labelingmeasurement id="ms_group_11" norm=".8189173193937669" type="MS">
+      <spec>PEP#M0,1,2,3</spec>
+      <time scale=".9958681279528793" timestamp="INF">
+        <value>.4985762908844453</value>
+        <value>.07375742572605283</value>
+        <value>.4161758521247229</value>
+        <value>.007358559217658278</value>
+      </time>
+    </labelingmeasurement>
+    <labelingmeasurement id="ms_group_12" norm="1.7244491524404642" type="MS">
+      <spec>Cit#M0,1,2,3,4,5,6</spec>
+      <time scale=".9976343737907187" timestamp="INF">
+        <value>.17979909698865637</value>
+        <value>.11927157965122215</value>
+        <value>.328609960753941</value>
+        <value>.1520920369615455</value>
+        <value>.1605726927026238</value>
+        <value>.0444180137020603</value>
+        <value>.012870993030669478</value>
+      </time>
+    </labelingmeasurement>
+    <labelingmeasurement id="ms_group_13" norm=".05208059223810907" type="MS">
+      <spec>CO2#M0,1</spec>
+      <time scale=".9957713594030153" timestamp="INF">
+        <value>.7937081541972644</value>
+        <value>.20206320520575088</value>
+      </time>
+    </labelingmeasurement>
+    <labelingmeasurement id="ms_group_2" norm="1.088686614285497" type="MS">
+      <spec>GAP#M0,1,2,3</spec>
+      <time scale=".9954177991918213" timestamp="INF">
+        <value>.5036672184678939</value>
+        <value>.07069598617485966</value>
+        <value>.41561232853392127</value>
+        <value>.005442266015146311</value>
+      </time>
+    </labelingmeasurement>
+    <labelingmeasurement id="ms_group_3" norm=".6376921299215051" type="MS">
+      <spec>DHAP#M0,1,2,3</spec>
+      <time scale=".9824455557882539" timestamp="INF">
+        <value>.27931713455223894</value>
+        <value>.07186817361434958</value>
+        <value>.6238668789690945</value>
+        <value>.007393368652570872</value>
+      </time>
+    </labelingmeasurement>
+    <labelingmeasurement id="ms_group_4" norm="3.077153651352862" type="MS">
+      <spec>E4P#M0,1,2,3</spec>
+      <time scale="1.016907135785432" timestamp="INF">
+        <value>.01608791222606299</value>
+        <value>.6294005776712988</value>
+        <value>.35250285703765444</value>
+        <value>.01866961973683568</value>
+      </time>
+    </labelingmeasurement>
+    <labelingmeasurement id="ms_group_5" norm="2.3216715161356296" type="MS">
+      <spec>R5P#M0,1,2,3,4,5</spec>
+      <time scale="1.0127361690856307" timestamp="INF">
+        <value>.002877077498500567</value>
+        <value>.6048571631068832</value>
+        <value>.08160698065660073</value>
+        <value>.31193484984168235</value>
+        <value>.011363677623500544</value>
+        <value>9.642035846329307e-05</value>
+      </time>
+    </labelingmeasurement>
+    <labelingmeasurement id="ms_group_6" norm="5.065736324346417" type="MS">
+      <spec>S7P#M0,1,2,3,4,5,6,7</spec>
+      <time scale="1.0085439639633924" timestamp="INF">
+        <value>9.633501522844098e-06</value>
+        <value>.002456787042240137</value>
+        <value>.11681329266496529</value>
+        <value>.5568122791530269</value>
+        <value>.3124977208779533</value>
+        <value>.019557082188540534</value>
+        <value>.0003947467878682907</value>
+        <value>2.4217472753125637e-06</value>
+      </time>
+    </labelingmeasurement>
+    <labelingmeasurement id="ms_group_7" norm=".6281900300282409" type="MS">
+      <spec>_3PG#M0,1,2,3</spec>
+      <time scale=".995210875800778" timestamp="INF">
+        <value>.5011242946782382</value>
+        <value>.07207004507522052</value>
+        <value>.4156980683128161</value>
+        <value>.0063184677345033005</value>
+      </time>
+    </labelingmeasurement>
+    <labelingmeasurement id="ms_group_8" norm="4.124329001348644" type="MS">
+      <spec>Lys[1-3,5-6]#M0,1,2,3,4,5</spec>
+      <time scale="1.0284027463185759" timestamp="INF">
+        <value>.2234319356273572</value>
+        <value>.23914130681464332</value>
+        <value>.2946564117686835</value>
+        <value>.19506219515723278</value>
+        <value>.06770455450291156</value>
+        <value>.008406342447747463</value>
+      </time>
+    </labelingmeasurement>
+    <labelingmeasurement id="ms_group_9" norm="3.758394725598556" type="MS">
+      <spec>Trp[5-9,11]#M0,1,2,3,4,5,6</spec>
+      <time scale=".9965176055217932" timestamp="INF">
+        <value>.0013892529458996842</value>
+        <value>.26968013510166555</value>
+        <value>.2679516906867134</value>
+        <value>.2678876304187219</value>
+        <value>.1828781968437448</value>
+        <value>.006669023795222529</value>
+        <value>6.167572982541379e-05</value>
+      </time>
+    </labelingmeasurement>
+    <labelingmeasurement id="msms_group_0" norm="6.996459791112795" type="MSMS">
+      <spec>Glu[1-5:1-4]#M(0,0),(1,0),(1,1),(2,1),(2,2),(3,2),(3,3),(4,3),(4,4),(5,4)</spec>
+      <time scale="1.0184905874950805" timestamp="INF">
+        <value>.20734313614621408</value>
+        <value>.03675340790061271</value>
+        <value>.10056005722079697</value>
+        <value>.049377326593859995</value>
+        <value>.2978705996432952</value>
+        <value>.08101352711430518</value>
+        <value>.07179369403587285</value>
+        <value>.04030666259602985</value>
+        <value>.09849767506561893</value>
+        <value>.034974501178474615</value>
+      </time>
+    </labelingmeasurement>
+    <labelingmeasurement id="msms_group_1" norm="8.679837582734056" type="MSMS">
+      <spec>Gln[1-5:1-4]#M(0,0),(1,0),(1,1),(2,1),(2,2),(3,2),(3,3),(4,3),(4,4),(5,4)</spec>
+      <time scale=".9855864155539292" timestamp="INF">
+        <value>.20064454286873262</value>
+        <value>.03556602289398314</value>
+        <value>.09731128354155963</value>
+        <value>.047782103167952186</value>
+        <value>.2882473536877462</value>
+        <value>.07839623927830829</value>
+        <value>.06947426950524785</value>
+        <value>.0390044832998072</value>
+        <value>.09531553035465623</value>
+        <value>.033844586955935875</value>
+      </time>
+    </labelingmeasurement>
+    <labelingmeasurement id="msms_group_10" norm="21.103857586439872" type="MSMS">
+      <spec>Tyr[1-9:1-8]#M(0,0),(1,0),(1,1),(2,1),(2,2),(3,2),(3,3),(4,3),(4,4),(5,4),(5,5),(6,5),(6,6),(7,6),(7,7),(8,7),(8,8),(9,8)</spec>
+      <time scale="1.042946438098476" timestamp="INF">
+        <value>.004343243883336734</value>
+        <value>.00021805422319875887</value>
+        <value>.17096149226007204</value>
+        <value>.008786574584950213</value>
+        <value>.14271455590419313</value>
+        <value>.015044390443825278</value>
+        <value>.2931729965159572</value>
+        <value>.016275323765555103</value>
+        <value>.1835351507422399</value>
+        <value>.013117859762817577</value>
+        <value>.1265941789189512</value>
+        <value>.006152402756319962</value>
+        <value>.05764095935436086</value>
+        <value>.0012795876591445397</value>
+        <value>.003010135964280686</value>
+        <value>5.925869855272406e-05</value>
+        <value>3.9527580123461757e-05</value>
+        <value>7.450805966458178e-07</value>
+      </time>
+    </labelingmeasurement>
+    <labelingmeasurement id="msms_group_11" norm="8.011568164224606" type="MSMS">
+      <spec>Phe[1-9:1-8]#M(0,0),(1,0),(1,1),(2,1),(2,2),(3,2),(3,3),(4,3),(4,4),(5,4),(5,5),(6,5),(6,6),(7,6),(7,7),(8,7),(8,8),(9,8)</spec>
+      <time scale="1.0371659209065505" timestamp="INF">
+        <value>.004319171510088147</value>
+        <value>.00021684566047692864</value>
+        <value>.17001394039252943</value>
+        <value>.008737875108552333</value>
+        <value>.1419235623173646</value>
+        <value>.01496100710367872</value>
+        <value>.2915480889611084</value>
+        <value>.01618511799333688</value>
+        <value>.18251790953460642</value>
+        <value>.01304515419414187</value>
+        <value>.1258925323138073</value>
+        <value>.0061183031433337</value>
+        <value>.057321485080001705</value>
+        <value>.0012724955610347393</value>
+        <value>.0029934523244925454</value>
+        <value>5.893025797970701e-05</value>
+        <value>3.9308499020049116e-05</value>
+        <value>7.409509970413223e-07</value>
+      </time>
+    </labelingmeasurement>
+    <labelingmeasurement id="msms_group_12" norm="3.153492320950997" type="MSMS">
+      <spec>Mal[1-4:1-3]#M(0,0),(1,0),(1,1),(2,1),(2,2),(3,2),(3,3),(4,3)</spec>
+      <time scale="1.014492245729097" timestamp="INF">
+        <value>.33661869989492266</value>
+        <value>.04872184101223905</value>
+        <value>.1217875805081141</value>
+        <value>.08731527964764914</value>
+        <value>.2648437074210702</value>
+        <value>.0646260725594708</value>
+        <value>.04341332718085702</value>
+        <value>.04716573750477406</value>
+      </time>
+    </labelingmeasurement>
+    <labelingmeasurement id="msms_group_13" norm="1.0941746502994165" type="MSMS">
+      <spec>Pyr[1-3:1-2]#M(0,0),(1,0),(1,1),(2,1),(2,2),(3,2)</spec>
+      <time scale="1.0050376708469422" timestamp="INF">
+        <value>.49926758278109534</value>
+        <value>.02541493074774932</value>
+        <value>.05016752805584886</value>
+        <value>.03178539267222973</value>
+        <value>.39019819311692694</value>
+        <value>.008204043473092053</value>
+      </time>
+    </labelingmeasurement>
+    <labelingmeasurement id="msms_group_14" norm="9.957829956243245" type="MSMS">
+      <spec>AKG[1-5:1-3]#M(0,0),(1,0),(1,1),(2,0),(2,1),(2,2),(3,1),(3,2),(3,3),(4,2),(4,3),(5,3)</spec>
+      <time scale=".992914366199077" timestamp="INF">
+        <value>.20213635858793977</value>
+        <value>.05236090825393452</value>
+        <value>.08150435654634744</value>
+        <value>.00293015130521318</value>
+        <value>.20333776462838646</value>
+        <value>.13225995936242424</value>
+        <value>.030546864377505117</value>
+        <value>.1083594470569626</value>
+        <value>.010063631932538699</value>
+        <value>.03570268760367039</value>
+        <value>.0996160111129875</value>
+        <value>.03409622543116701</value>
+      </time>
+    </labelingmeasurement>
+    <labelingmeasurement id="msms_group_15" norm="8.251072270835206" type="MSMS">
+      <spec>Suc[1-4:1-2,4]#M(0,0),(1,0),(1,1),(2,1),(2,2),(3,2),(3,3),(4,3)</spec>
+      <time scale="1.045873491296458" timestamp="INF">
+        <value>.3433234517252194</value>
+        <value>.05116765182815171</value>
+        <value>.12453099205618053</value>
+        <value>.09394016160349117</value>
+        <value>.269474789439589</value>
+        <value>.06919825454698729</value>
+        <value>.04276278895651407</value>
+        <value>.051475401140324964</value>
+      </time>
+    </labelingmeasurement>
+    <labelingmeasurement id="msms_group_2" norm="11.513708826709287" type="MSMS">
+      <spec>Pro[1-5:1-4]#M(0,0),(1,0),(1,1),(2,1),(2,2),(3,2),(3,3),(4,3),(4,4),(5,4)</spec>
+      <time scale=".9810177009459633" timestamp="INF">
+        <value>.19971444923153714</value>
+        <value>.03540115555634669</value>
+        <value>.09686019424525845</value>
+        <value>.04756060783350199</value>
+        <value>.2869111746630377</value>
+        <value>.07803283122199986</value>
+        <value>.06915221950033985</value>
+        <value>.038823676878558144</value>
+        <value>.09487369243052798</value>
+        <value>.03368769938485541</value>
+      </time>
+    </labelingmeasurement>
+    <labelingmeasurement id="msms_group_3" norm="7.76242380051692" type="MSMS">
+      <spec>Asp[1-4:2,4]#M(0,0),(1,0),(1,1),(2,0),(2,1),(2,2),(3,1),(3,2),(4,2)</spec>
+      <time scale=".9755273659197771" timestamp="INF">
+        <value>.34112118422736126</value>
+        <value>.09332497499500489</value>
+        <value>.06870480337970607</value>
+        <value>.05562712673026531</value>
+        <value>.22636164751399662</value>
+        <value>.05690414082145708</value>
+        <value>.06057788912490316</value>
+        <value>.03921478768120116</value>
+        <value>.03369081144588146</value>
+      </time>
+    </labelingmeasurement>
+    <labelingmeasurement id="msms_group_4" norm="21.306834027399894" type="MSMS">
+      <spec>His[1-6:1-5]#M(0,0),(1,0),(1,1),(2,1),(2,2),(3,2),(3,3),(4,3),(4,4),(5,4),(5,5),(6,5)</spec>
+      <time scale="1.0272049872353757" timestamp="INF">
+        <value>.0016363763451589578</value>
+        <value>.0002244063221931713</value>
+        <value>.34507800848465553</value>
+        <value>.018577449086762295</value>
+        <value>.297315676140826</value>
+        <value>.18780732356374838</value>
+        <value>.0259676236566625</value>
+        <value>.14220260420694675</value>
+        <value>.0032349364340046806</value>
+        <value>.005052833432860555</value>
+        <value>6.479202883180049e-05</value>
+        <value>4.295753272509098e-05</value>
+      </time>
+    </labelingmeasurement>
+    <labelingmeasurement id="msms_group_5" norm="5.744988081826374" type="MSMS">
+      <spec>Thr[1-4:1-3]#M(0,0),(1,0),(1,1),(2,1),(2,2),(3,2),(3,3),(4,3)</spec>
+      <time scale=".9593373320453938" timestamp="INF">
+        <value>.33545987351394685</value>
+        <value>.038937273268878005</value>
+        <value>.12040342872295569</value>
+        <value>.06719040021828195</value>
+        <value>.26607818490408447</value>
+        <value>.04771427547823912</value>
+        <value>.050422223475403934</value>
+        <value>.03313167246360391</value>
+      </time>
+    </labelingmeasurement>
+    <labelingmeasurement id="msms_group_7" norm="1.1562323272973536" type="MSMS">
+      <spec>Gly[1-2:1]#M(0,0),(1,0),(1,1),(2,1)</spec>
+      <time scale="1.0143851652652507" timestamp="INF">
+        <value>.5338910557196289</value>
+        <value>.04081530084258809</value>
+        <value>.4039963973439036</value>
+        <value>.03568241135913012</value>
+      </time>
+    </labelingmeasurement>
+    <labelingmeasurement id="msms_group_8" norm="1.6602133522247433" type="MSMS">
+      <spec>Ala[1-3:1-2]#M(0,0),(1,0),(1,1),(2,1),(2,2),(3,2)</spec>
+      <time scale=".9959970582044081" timestamp="INF">
+        <value>.49477652244392956</value>
+        <value>.025186315889926522</value>
+        <value>.04971625622640173</value>
+        <value>.031499473615486</value>
+        <value>.38668824436563876</value>
+        <value>.008130245663025656</value>
+      </time>
+    </labelingmeasurement>
+    <labelingmeasurement id="msms_group_9" norm="1.7447394143827544" type="MSMS">
+      <spec>Ser[1-3:1-2]#M(0,0),(1,0),(1,1),(2,1),(2,2),(3,2)</spec>
+      <time scale="1.028335233394997" timestamp="INF">
+        <value>.5067778403669918</value>
+        <value>.025412281780366915</value>
+        <value>.07046565268827082</value>
+        <value>.02385564568216087</value>
+        <value>.3948134729577252</value>
+        <value>.007010339919481377</value>
+      </time>
+    </labelingmeasurement>
+  </measurements>
+
+  <optimization>
+    <property name="ipopt.hessian_approximation" type="string">limited-memory</property>
+    <property name="ipopt.linear_solver" type="string">mumps</property>
+    <property name="ipopt.max_iter" type="integer">1000</property>
+    <property name="ipopt.mu_strategy" type="string">adaptive</property>
+    <property name="ipopt.output_file" type="string"></property>
+    <property name="ipopt.print_options_documentation" type="boolean">false</property>
+    <property name="ipopt.tol" type="real">1e-07</property>
+    <property name="optimizer.execution_time" type="real">290.535</property>
+    <property name="optimizer.ipopt_status" type="integer">-1</property>
+    <property name="optimizer.ipopt_status_string" type="string">maximum iterations exceeded</property>
+    <property name="optimizer.name" type="string">ipopt</property>
+    <property name="optimizer.nevals" type="integer">4947</property>
+    <property name="optimizer.nfe" type="integer">4947</property>
+    <sensitivities>
+      <parameter name="AA8_v44" type="xch">-.06944876037955505</parameter>
+      <parameter name="AA9_v45" type="xch">3.0192708745520593</parameter>
+      <parameter name="AC1_v35" type="net">.41144933408548545</parameter>
+      <parameter name="AC1_v35" type="xch">1.071682844407858e-16</parameter>
+      <parameter name="ANA3_v33" type="net">.023671928672610698</parameter>
+      <parameter name="ATPH1_v64" type="net">.05078603675138266</parameter>
+      <parameter name="EMP2_v2" type="xch">.004373549995054138</parameter>
+      <parameter name="EMP4_v4" type="xch">-.003616898778562016</parameter>
+      <parameter name="EMP5_v5" type="xch">.016294718744139354</parameter>
+      <parameter name="EMP6_v6" type="xch">-.001261951901579893</parameter>
+      <parameter name="EMP7_v7" type="xch">-.002369748663744797</parameter>
+      <parameter name="EMP8_v8" type="net">-.07762621995257812</parameter>
+      <parameter name="EMP8_v8" type="xch">-.001300151286465373</parameter>
+      <parameter name="GOX1_v29___1" type="xch">4.557454701100244</parameter>
+      <parameter name="PPP3_v11" type="xch">.01296244993354351</parameter>
+      <parameter name="PPP4_v12" type="xch">.013800499493771393</parameter>
+      <parameter name="PPP5_v13" type="xch">.012962449933589144</parameter>
+      <parameter name="PPP6_v14" type="xch">.344173559359919</parameter>
+      <parameter name="PPP7_v15" type="xch">.07728614764687355</parameter>
+      <parameter name="PPP8_v16" type="xch">.0028879991784223537</parameter>
+      <parameter name="PPP9_v17" type="xch">.0010806541430343746</parameter>
+      <parameter name="TCA1_v20" type="net">-.07382649333876505</parameter>
+      <parameter name="TCA3_v22" type="xch">.00012944267981877838</parameter>
+      <parameter name="TCA4_v23" type="xch">.036165073463941905</parameter>
+      <parameter name="TCA6_v25___1" type="xch">6.9527023857458125e-06</parameter>
+      <parameter name="TCA7_v26___1" type="xch">-.0013116939829913392</parameter>
+      <parameter name="TCA8_v27___1" type="xch">.0004700132720041839</parameter>
+      <parameter name="TCA9_v28" type="net">.019435084581700734</parameter>
+      <parameter name="TCA9_v28" type="xch">.0036804839592474037</parameter>
+      <parameter name="TH1_v63" type="net">.11451420630745043</parameter>
+      <parameter name="TH1_v63" type="xch">0</parameter>
+      <parameter name="mu2_v70" type="net">3.2494767859548084</parameter>
+    </sensitivities>
+  </optimization>
+
+  <statistics/>
+
+</fwdsim>

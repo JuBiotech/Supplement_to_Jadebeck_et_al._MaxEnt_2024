@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<mixture xmlns="http://www.13cflux.net/fluxml">
+
+  <input id="[1,2-13C]-Gluc" pool="Gluc_ext" type="isotopomer">
+      <label cfg="000011" purity="0.996" cost="0">1</label>
+  </input>
+
+  <input id="[U-13C]-Gluc" pool="Gluc_ext" type="isotopomer">
+      <label cfg="111111" purity="0.996" cost="0">1</label>
+  </input>
+
+  <input id="[NL-13c]-Gluc" pool="Gluc_ext" type="isotopomer">
+      <label cfg="000000" purity="0.996" cost="0">1</label>
+  </input>
+
+  <input id="[5-13C]-Gluc" pool="Gluc_ext" type="isotopomer">
+      <label cfg="010000" purity="0.996" cost="0">1</label>
+  </input>
+</mixture>
+
